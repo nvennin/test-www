@@ -101,6 +101,8 @@ The approval procedure is performed using GitHub's pull request feature. The pul
 
 GitHub's control mechanisms enforces that all changes to the master are reviewed by at least one member of the quality team (@simplepharma/quality), and all documents that include _GDP_ in their name to be reviewed by a member of the RP team (@simplepharma/rp).
 
+The reviewer is required to be different to the issuer of the pull request.
+
  When the draft is reviewed and finalized, the author submits a pull request to integrate his changes into the master, which are the in force documents.
 
 The approval of pull requests is equivalent to a wet signature.
