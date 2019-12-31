@@ -34,7 +34,7 @@ Unless otherwise noted, all documents in this QMS apply to The Simple Pharma Com
 
 [AMXWS]: /procedures/Procedure_GDP_AMXWS_Management_of_Procedures.md
 [XIDEX]: /procedures/Procedure_XIDEX_Responsible_Person.md
-[BWRPX]: /procedures/Procedure_BWRPX_Documentation_Control.md
+[BWRPX]: /procedures/Procedure_GDP_BWRPX_Documentation_Control.md
 [XCEUG]: /procedures/Procedure_XCEUG_Deviations.md
 [UYNEF]: /procedures/Procedure_UYNEF_Change_control.md
 [OZCFN]: /procedures/Procedure_OZCFN_Management_review_and_monitoring.md
