@@ -1,12 +1,12 @@
 # Management of Procedures
 
-## Purpose
+## Header
 
-Describing how procedures are written, reviewed, approved and withdrawn.
-
-## Departnement
-
-Cross-functional.
+Item    |   Details
+----    |   ----
+Purpose | Describing how procedures are written, reviewed, approved and withdrawn.
+Departments | Cross-functional.
+Categories    | GDP
 
 ## References and Associated Documents
 
@@ -18,13 +18,11 @@ Cross-functional.
 * [Training][ZWJPR]
 * [Documentation Control][BWRPX]
 
-
 ### Associated Documents
 
 None
 
 ## Roles
-
 
 Role     |   Description    |   Who
 ------   |   --------       |  ----
@@ -41,7 +39,9 @@ Responsible Person  | Grants final approal to all GDP documents | RP
 
 Upon identification of a requirement for a new procedure or update to a procedure or associated documents (forms/appendices) the Requestor creates a GitHub Issue with the "Document Change Request" label.
 
-If a new document needs to be created, a new 5 letter random code is generated, using the [List of documents]() spreadsheet. The spreadsheet is subsequently updated with the new document in draft status, and submitted to the repository.
+If a new document needs to be created, a new 5 letter random code is generated and checked agains the existing document list for duplicates. The new document is added to the README.md file in Draft status.
+
+The filename includes _GDP_ for all GDP related procedures in order to require validation by the @simplepharma/rp.
 
 The author is identified using the discussion features of GitHub Issues.
 
@@ -97,9 +97,13 @@ Procedures and associated documents must be reviewed for use by at least one com
 
 Procedures and associated documents must be approved for use by a senior competent person in the area to which the Document relates. All SOPs relating to GDP activities must be approved by a Responsible Person.
 
-The approval procedure is performed using GitHub's pull request feature. When the draft is reviewed and finalized, the author submits a pull request to integrate his changes into the master, which are the in force documents.
+The approval procedure is performed using GitHub's pull request feature. The pull request feature allows to move a document from a draft _branch_ into the master branch, which is in force.
 
-The approval of pull requests is considered equivalent to a wet signature.
+GitHub's control mechanisms enforces that all changes to the master are reviewed by at least one member of the quality team (@simplepharma/quality), and all documents that include _GDP_ in their name to be reviewed by a member of the RP team (@simplepharma/rp).
+
+ When the draft is reviewed and finalized, the author submits a pull request to integrate his changes into the master, which are the in force documents.
+
+The approval of pull requests is equivalent to a wet signature.
 
 ### Effective Date
 
