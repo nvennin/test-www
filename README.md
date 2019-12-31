@@ -4,6 +4,7 @@
 
 Nature      | Status  |   Code |   Title
 --------    | ----  |-----------|-------
+Manual | Draft | [SVWCE] | [Quality Manual][SVWCE]
 Procedure | Draft | [AMXWS] | [Management of Procedures][AMXWS]
 Procedure | Draft |[XIDEX] | [Responsible Person][XIDEX]
 Procedure | Draft |[BWRPX] | [Documentation Control][BWRPX]
@@ -26,7 +27,7 @@ Document | Draft |[QEAIC] | [Glossary][QEAIC]
 
 ## Scope
 
-Unless otherwise noted, all documents in this QMS apply to The Simple Pharma Company Limited globally, as defined below. 
+Unless otherwise noted, all documents in this QMS apply to The Simple Pharma Company Limited globally, as defined below.
 
 **Entities**: The Simple Pharma Company Limited and all its affiliates
 
@@ -51,3 +52,4 @@ Unless otherwise noted, all documents in this QMS apply to The Simple Pharma Com
 [BMAXZ]: /procedures/Procedure_BMAXZ_Medicinal_Product_Returns.md
 [YUISV]: /procedures/Procedure_YUISV_CAPA.md
 [QEAIC]: /procedures/Document_QEAIC_Glossary.md
+[SVWCE]: /documents/Manual_SVWCE_Quality_Manual.md
