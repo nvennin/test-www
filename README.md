@@ -7,7 +7,7 @@ Nature      | Status  |   Code |   Title
 Procedure | Draft | [AMXWS] | [Management of Procedures][AMXWS]
 Procedure | Draft |[XIDEX] | [Responsible Person][XIDEX]
 Procedure | Draft |[BWRPX] | [Documentation Control][BWRPX]
-Procedure | Draft |[XCEUG] | [Deviations][XCEUG]
+Procedure | Live |[XCEUG] | [Deviations][XCEUG]
 Procedure | Draft |[UYNEF] | [Change control][UYNEF]
 Procedure | Draft |[OZCFN] | [Management review and monitoring][OZCFN]
 Procedure | Draft |[LBHIY] | [Quality Risk Management][LBHIY]
