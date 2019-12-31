@@ -1,0 +1,8 @@
+# Lines starting with '#' are comments.
+# Each line is a file pattern followed by one or more owners.
+
+# RPs own all GDP procedures
+*_GDP_*      @simplepharma/rp
+
+# Quality owns the repository
+*   @simplepharma/quality
