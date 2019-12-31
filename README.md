@@ -4,8 +4,8 @@
 
 Nature      | Status  |   Code |   Title
 --------    | ----  |-----------|-------
-Procedure | Draft | [AMXWS] | [Management of Procedures][AMXWS]
-Procedure | Draft |[XIDEX] | [Responsible Person][XIDEX]
+Procedure | Live | [AMXWS] | [Management of Procedures][AMXWS]
+Procedure | Live |[XIDEX] | [Responsible Person][XIDEX]
 Procedure | Draft |[BWRPX] | [Documentation Control][BWRPX]
 Procedure | Live |[XCEUG] | [Deviations][XCEUG]
 Procedure | Draft |[UYNEF] | [Change control][UYNEF]
