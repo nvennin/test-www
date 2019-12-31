@@ -32,7 +32,7 @@ Unless otherwise noted, all documents in this QMS apply to The Simple Pharma Com
 
 **People**: All directors, employees, and contractors
 
-[AMXWS]: /procedures/Procedure_AMXWS_Management_of_Standard_Operating_Procedures.md
+[AMXWS]: /procedures/Procedure_AMXWS_Management_of_Procedures.md
 [XIDEX]: /procedures/Procedure_XIDEX_Responsible_Person.md
 [BWRPX]: /procedures/Procedure_BWRPX_Documentation_Control.md
 [XCEUG]: /procedures/Procedure_XCEUG_Deviations.md
