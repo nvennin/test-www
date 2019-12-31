@@ -30,7 +30,7 @@ Requester  | Raises the deviation  | Anyone
 Manager |  Approves non-GDP deviations and oversees the process | Quality Manager
 Investigator  |  Investigates deviations | Quality Officer
 Reviewer | Reviews deviations and CAPA plan | Quality Manager, RP, other stakeholders
-Responsible Person | Approve GDP deviations   | Responsible Person
+Responsible Person | Approves GDP deviations   | Responsible Person
 Regulatory | Reviews deviations that impact regulatory filings | Regulatory
 
 ## Procedure
