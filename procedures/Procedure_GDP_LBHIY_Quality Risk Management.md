@@ -22,7 +22,7 @@
 ### Quality
 * Schedule and manage the performance of risk assessments when appropriate for the purposes of managing risk to patient health.
 * Log Risk Assessments (RA) on the RA tracker and issue unique number.
-* Review and approve Risk Assessments and associated follow—up.
+* Review and approve Risk Assessments and associated follow-up.
 * File all records relating to the risk assessment process. 
 * Communicate risks and measures to control the risks associated with quality of Medicinal Products.
 
@@ -68,20 +68,13 @@ Quality Risk Management may be implemented both prospectively and retrospectivel
 * The complete Risk Assessment must be reviewed and approved by Quality (Head of Quality, designated deputy or RP).
 
 **Table 1: Risk Categorisation**
-|-----------------------------------------|-----------------------------------------|
 | Determination of Risk Class             | Determination of Risk Priority Level    |
 |-----------------------------------------|-----------------------------------------|
 |             | Probability of Occurence  |           | Probability of Detection    |
-|-------------|---------------------------|-----------|-----------------------------|
 |             | Low   | Medium  |   High  |           | High   | Medium  |  Low     |
-|-------------|---------------------------|-----------|-----------------------------|
 |     | High  | RC2   | RC1     |   RC1   |        | 1| Medium | High    |  High    |
-|     --------|---------------------------|        ---|-----------------------------| 
 |     |Medium | RC3   | RC2     |   RC1   |        | 2| Low    | Medium  |  High    |
-|     --------|---------------------------|        ---|-----------------------------| 
-|     |  Low  | RC3   | RC3     |   RC2   |        | 3| Low    | Low     |  Medium  |
-|     --------|---------------------------|        ---|-----------------------------| 
-
+|     |  Low  | RC3   | RC3     |   RC2   |        | 3| Low    | Low     |  Medium  | 
 
 **Table 2: Risk Priority Rating**
 * High Risk Priority : further risk reduction measures are required.
