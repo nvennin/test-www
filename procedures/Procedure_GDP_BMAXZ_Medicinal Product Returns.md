@@ -1,16 +1,12 @@
 # MEDICINAL PRODUCTS RETURNS
 
 ## Header
-
-|--------------|-------------------------------------------------------------------------------------------| 
+ 
 |Item          |Details                                                                                    | 
 |--------------|-------------------------------------------------------------------------------------------| 
-|Purpose       |describing the return process for Medicinal Products distributed to a customer             | 
-|--------------|-------------------------------------------------------------------------------------------| 
+|Purpose       |describing the return process for Medicinal Products distributed to a customer             |  
 |Department    |Quality                                                                                    |   
-|--------------|-------------------------------------------------------------------------------------------| 
 |Categorie     |GDP                                                                                        | 
-|--------------|-------------------------------------------------------------------------------------------| 
 
 
 ## REFERENCES AND ASSOCIATED DOCUMENTS
