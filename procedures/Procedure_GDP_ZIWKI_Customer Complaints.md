@@ -63,17 +63,12 @@
 
 ### Customer complaints Classification
 
-|Invalid     |An event in which the complainant reported a potential product quality         |
-|            |complaint but upon assessment of the information reported, a decision          |
-|            |was made that there was insufficient information to suggest a product          |
-|            |quality issue.                                                                 |
+|Level       |Classification                                                                 |
 |------------|-------------------------------------------------------------------------------|
-|Minor       |A product quality complaint that is not likely to pose a significant hazard    |
-|            |to health.                                                                     |
-|Major       |A product quality complaint which could potentially cause illness or           |
-|            |mistreatment but is not critical.                                              |
-|Critical    |A product quality complaint that is potentially life threatening or could      |
-|            |pose a serious risk to patient health.                                         |
+|Invalid     |An event in which the complainant reported a potential product quality complaint but upon assessment of the information reported, a decision was made that there was insufficient information to suggest a product quality issue.                               
+|Minor       |A product quality complaint that is not likely to pose a significant hazard to health.                                     
+|Major       |A product quality complaint which could potentially cause illness or mistreatment but is not critical.                     
+|Critical    |A product quality complaint that is potentially life threatening or could pose a serious risk to patient health.           
 
 ### Invalid Customer Complaints
 * Invalid Customer Complaints can be closed upon initial classification once the classification has been confirmed and justification for invalidation has been provided.
