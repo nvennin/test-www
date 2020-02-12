@@ -34,7 +34,7 @@
 * Monitor future CAPA effectiveness for the CAPAs which are identified during the complaint/recall process.
 
 ### Responsible Persons (RP)
-* Co—ordinate activities associated with notification of a falsified or suspected falsified Medicinal Product in the supply chain.
+* Coordinate activities associated with notification of a falsified or suspected falsified Medicinal Product in the supply chain.
 * Notify and liaise with the Regulatory Authority(ies) of any suspected or conﬁrmed falsified Medicinal Product.
 * Notify the Third Party where applicable and monitor progress of investigation including follow up actions.
 * Implement the recall procedure in the event of a suspected/confirmed falsified Medicinal Product where applicable.
