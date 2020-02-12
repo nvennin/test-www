@@ -20,6 +20,7 @@
 
 ### Definitions
 *Adverse Event (AE)*
+
 Any untoward medical occurrence in a patient or clinical trial subject administered a medicinal product and which does not necessarily have a causal relationship with this treatment.
 
 *Special case scenario*
