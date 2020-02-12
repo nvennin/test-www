@@ -68,13 +68,21 @@ Quality Risk Management may be implemented both prospectively and retrospectivel
 * The complete Risk Assessment must be reviewed and approved by Quality (Head of Quality, designated deputy or RP).
 
 **Table 1: Risk Categorisation**
-| Determination of Risk Class             | Determination of Risk Priority Level    |
-|-----------------------------------------|-----------------------------------------|
-|             | Probability of Occurence  |           | Probability of Detection    |
-|             | Low   | Medium  |   High  |           | High   | Medium  |  Low     |
-|     | High  | RC2   | RC1     |   RC1   |        | 1| Medium | High    |  High    |
-|     |Medium | RC3   | RC2     |   RC1   |        | 2| Low    | Medium  |  High    |
-|     |  Low  | RC3   | RC3     |   RC2   |        | 3| Low    | Low     |  Medium  | 
+| Determination of Risk Class             
+|-----------------------------------------|
+|     Probability of Occurence            |          
+|             | Low   | Medium  |   High  |           
+|     | High  | RC2   | RC1     |   RC1   |    
+|     |Medium | RC3   | RC2     |   RC1   |        
+|     |  Low  | RC3   | RC3     |   RC2   |       
+
+| Determination of Risk Priority Level    |
+|-----------------------------------------|
+| Probability of Detection    |
+| High   | Medium  |  Low     |
+| 1| Medium | High    |  High    |
+| 2| Low    | Medium  |  High    |
+| 3| Low    | Low     |  Medium  | 
 
 **Table 2: Risk Priority Rating**
 * High Risk Priority : further risk reduction measures are required.
