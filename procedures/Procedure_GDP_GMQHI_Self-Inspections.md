@@ -75,7 +75,7 @@
 
 * The Director of Quality with input from the Responsible Person, as appropriate, shall identify suitably qualified auditors to perform the self—inspection of the QMS. The auditors must be independent of the processes being audited and ideally have completed auditor training. Experience can be considered as an acceptable alternative.
 
-### Self-lnspection Audits
+### Self-Inspection Audits
 * Activities described in the QMS documents are routinely inspected to ensure:
   * QMS is in operation effectively and that it is subject to continual improvement.
   * Current procedures are in compliance with applicable legislation and best practice standards.
@@ -92,9 +92,9 @@
 * A closing meeting is conducted between the auditor and auditee, at a minimum to ensure there is clarity on the audit findings.
 * Observations are classified as either Critical, Major or Other. 
 
-### Self—lnspection Report
-* The self—inspection report is targeted for completion within 15 working days and report issued within 20 working days post audit.
-* A self—inspection audit number shall be assigned to each area/affiliate inspected. The number is of the format YYYY-XXX, where YYYY is year audit conducted and XXX is a sequential number.
+### Self-Inspection Report
+* The self-inspection report is targeted for completion within 15 working days and report issued within 20 working days post audit.
+* A self-inspection audit number shall be assigned to each area/affiliate inspected. The number is of the format YYYY-XXX, where YYYY is year audit conducted and XXX is a sequential number.
 * Reports should contain all of the observations found during the self inspection and recommendations for improvements. The auditor and auditee shall both sign the self—inspection report indicating that they are in agreement with the actions assigned.
 * Quality shall raise a CAPA for observations identified. The CAPA owner is responsible for ensuring that the CAPA is executed and completed by the agreed due dates. Quality/Self-Inspection Auditor will review/approve CAPAs to ensure that the action identified is appropriate for the observation.
 * Findings which can be addressed at the time of the self inspection will not require a CAPA and their correction will be detailed in the audit report.
@@ -103,7 +103,7 @@
 * A copy of the final report shall be circulated to the Director of Quality, Responsible Person, Management and other relevant personnel as appropriate.
 
 ### Monitoring
-* Critical and major self—inspection observations shall be presented at the routine Quality management review meetings.
+* Critical and major self-inspection observations shall be presented at the routine Quality management review meetings.
 
 ## TRAINING
 Anyone who performs the tasks as outlined in this procedure must first complete read and understand training. Auditors performing audits shall be appropriately trained or have relevant experience in the subject area.
