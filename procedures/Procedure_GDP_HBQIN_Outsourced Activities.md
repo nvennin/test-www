@@ -50,10 +50,10 @@ The Leadership Team must identify a sourcing team composed of individuals from a
 The Outsourced Activities management process is divided into five steps:
 
 * **Step 1 - Selection:** Identification of potential Third Party Providers.
-* **Step 2 — Evaluation:** Risk Assessment of the outsourced activities to determine level of Qualification and Monitoring required. Shortlisting of potential Third Party Providers.
+* **Step 2 - Evaluation:** Risk Assessment of the outsourced activities to determine level of Qualification and Monitoring required. Shortlisting of potential Third Party Providers.
 * **Step 3 - Qualification:** Assessment of the Third party Provider appropriate to the Risk Level.
 * **Step 4 - Approval:** Acceptance or Not of Third Party Provider for the specified outsourced activities including a mutual agreement.
-* **Step 5 — Periodic Review and Monitoring:** A periodic review and monitoring of the supplier shall be performed to determine the continued certification of the Third Party Provider.
+* **Step 5 - Periodic Review and Monitoring:** A periodic review and monitoring of the supplier shall be performed to determine the continued certification of the Third Party Provider.
 
 ### Selection
 
