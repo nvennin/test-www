@@ -70,7 +70,7 @@ Quality Risk Management may be implemented both prospectively and retrospectivel
 **Table 1: Risk Categorisation**        
          
 |        Probability of occurrence     | Low   | Medium  |   High  | 
-|-----------------------------------------|
+|-----------|------------|------------|------------|
 |     High  | RC2   | RC1     |   RC1   |    
 |     Medium | RC3   | RC2     |   RC1   |        
 |     |Low  | RC3   | RC3     |   RC2   |       
