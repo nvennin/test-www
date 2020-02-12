@@ -15,14 +15,14 @@
 
 * Customer Complaint 
 * Deviations
-* Work Instruction for In—Market Release in D365
+* Work Instruction for In Market Release in D365
 * Release Notification Recipient List
 
 ## ROLES
 
 ### Quality
 * Ensure compilation and review of in market batch release documentation from the supplier.
-* Perform the In—Market release of Medicinal Product or Medical Devices for sale.
+* Perform the In Market release of Medicinal Product or Medical Devices for sale.
 * Ensure that all corrections to data in D365 observed prior to release are documented.
 
 ## PROCEDURE
@@ -32,7 +32,7 @@ The below information is required to be available to perform release in D365.
 
 | Document                                                       | Source              |
 | -------------------------------------------------------------- | ------------------- |
-| API CoA — for toll manufactured material only                  | Supplier            |
+| API CoA - for toll manufactured material only                  | Supplier            |
 | Written Confirmation - for API imported into EEA               | Supplier            |
 | Finished Product CoA / COC                                     | Supplier            |
 | Temperature Data during transportation to Distribution center  | Distribution Centre | 
@@ -67,7 +67,7 @@ The below information is required to be available to perform release in D365.
 * If the status of a batch must temporarily change post release the communication of this must be made to the pre—wholesaler in target market.
 
 ### Release in D365 of Batch ln-Market Released by Pre-Wholesaler 
-* Where previously agreed, and in line with the QTA, a pre—wholesaler may perform the In-Market release for a specific market. Quality will release the batch in D365 upon communication from the pre—wholesaler.
+* Where previously agreed, and in line with the QTA, a pre-wholesaler may perform the In-Market release for a specific market. Quality will release the batch in D365 upon communication from the pre-wholesaler.
 * A copy of the CoA, CoC and release communication is retained.
 
 ## TRAINJNG
