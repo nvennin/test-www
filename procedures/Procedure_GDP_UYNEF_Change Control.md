@@ -71,13 +71,7 @@ EU Commission Regulations 1234/2008
 
 |Classification     |Description                                                                                             |
 |-------------------|--------------------------------------------------------------------------------------------------------|
-|Major              |A change that has the potential to have an adverse effect on the defined                                |
-|                   product specifications (e.g. the identity, strength, quality, purity, potency,                          |
-|                  safety or effectiveness of a medicinal drug or API);                                                    |
-|                   A change that has potential impact to GXP processes (e.g. validated system                              |
-|                   used to perform regulated activities);                                                                  |
-|                   A change that will required submitting of a variation to a Regulatory Fillings or                       | 
-|                  Licenses (MAS, WDA or ASR)                                                                              |
+|Major              |A change that has the potential to have an adverse effect on the defined  product specifications (e.g. the identity, strength, quality, purity, potency, safety or effectiveness of a medicinal drug or API); A change that has potential impact to GXP processes (e.g. validated system used to perform regulated activities);A change that will required submitting of a variation to a Regulatory Fillings or Licenses (MAS, WDA or ASR)                                                                              |
 |Minor              |A change that does not impact the GXP processes, defined product specifications or Regulatory Fillings. |           
 
 * If change classification is determined to be Major, a separate risk assessment shall be completed in accordance with the procedure *Risk Management*.
