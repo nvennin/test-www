@@ -20,7 +20,7 @@
 * Management of Procedures
 * Quality Risk Management
 * Change Control
-* Self—Inspections
+* Self-Inspections
 * Outsourced Activities
 
 ## ROLES
