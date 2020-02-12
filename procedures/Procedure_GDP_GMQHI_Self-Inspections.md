@@ -40,7 +40,7 @@
 
 ## 7. PROCEDURE
 
-### Self Inspection Schedule and Tracker
+### Self-Inspection Schedule and Tracker
 
 * All GDP areas shall be identified on the Self-Inspection Tracker.
 * The SeIf-lnspection Tracker shall be updated as required for e.g. after completion of an audit, business or compliance needs following a risk assessment, non-scheduled ”For Cause” audit due to increased risk associated with poor compliance or significant change to internal process or personnel. 
@@ -52,7 +52,7 @@
 * The Audits shall be scheduled as close to the due date as possible. If the audit cannot be scheduled within 3 months of the due date, then a deviation is required.
 * Ad hoc self—inspections will be undertaken as identified on a risk management basis or in response to a critical finding or incident.
 
-### Self—lnspection Audit Frequency 
+### Self-Inspection Audit Frequency 
 * All GDP activities are identified to be audited based on the risk assessment score and risk rating.
 * The risk rating is perfomed on the following criteria:
   * On-going continous improvement activities
@@ -63,15 +63,11 @@
 
 **Table 1: Audit Frequency based on Risk Score and Risk Rating**
 
-|--------------|----------------|------------------|
 |Risk Score    |Risk Rating     |Audit Frequency   |   
 |--------------|----------------|------------------|
 |4-11          |Low             |24 months         |   
-|--------------|----------------|------------------|
 |12-19         |Medium          |12 months         |   
-|--------------|----------------|------------------|
 |>=20          |High            |6 months          |   
-|--------------|----------------|------------------|
 
 * The Risk Score and schedule are reviewed to ensure that any change in Risk Rating is observed and appropratiely addressed through a revision to the schedule.
 
