@@ -2,16 +2,11 @@
 
 ## Header
 
-|--------------|-------------------------------------------------------------------------------------------| 
 |Item          |Details                                                                                    | 
 |--------------|-------------------------------------------------------------------------------------------| 
 |Purpose       |detailing the process for receipt, process, closeout and monitoring of Customer Complaints | 
-|--------------|-------------------------------------------------------------------------------------------| 
 |Department    |Quality                                                                                    |   
-|--------------|-------------------------------------------------------------------------------------------| 
 |Categorie     |GDP                                                                                        | 
-|--------------|-------------------------------------------------------------------------------------------| 
-
 
 ## REFERENCES AND ASSOCIATED DOCUMENTS
 
@@ -68,7 +63,6 @@
 
 ### Customer complaints Classification
 
-|------------|-------------------------------------------------------------------------------|
 |Invalid     |An event in which the complainant reported a potential product quality         |
 |            |complaint but upon assessment of the information reported, a decision          |
 |            |was made that there was insufficient information to suggest a product          |
@@ -76,15 +70,12 @@
 |------------|-------------------------------------------------------------------------------|
 |Minor       |A product quality complaint that is not likely to pose a significant hazard    |
 |            |to health.                                                                     |
-|------------|-------------------------------------------------------------------------------|
 |Major       |A product quality complaint which could potentially cause illness or           |
 |            |mistreatment but is not critical.                                              |
-|------------|-------------------------------------------------------------------------------|
 |Critical    |A product quality complaint that is potentially life threatening or could      |
 |            |pose a serious risk to patient health.                                         |
-|------------|-------------------------------------------------------------------------------|
 
-### 7.6 Invalid Customer Complaints
+### Invalid Customer Complaints
 * Invalid Customer Complaints can be closed upon initial classification once the classification has been confirmed and justification for invalidation has been provided.
 * The call centre must be notified that the Customer Complaint has been classified as invalid.
 
