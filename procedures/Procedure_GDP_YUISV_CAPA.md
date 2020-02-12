@@ -2,16 +2,12 @@
 
 ## Header
 
-|--------------|-------------------------------------------------------------------------------------------| 
 |Item          |Details                                                                                    | 
 |--------------|-------------------------------------------------------------------------------------------| 
 |Purpose       |describe the requirements for the handling of corrective and preventive actions (CAPAs)    | 
-|--------------|-------------------------------------------------------------------------------------------| 
 |Department    |Quality                                                                                    |   
-|--------------|-------------------------------------------------------------------------------------------| 
 |Categorie     |GDP                                                                                        | 
-|--------------|-------------------------------------------------------------------------------------------| 
- 
+
 ## REFERENCES AND ASSOCIATED DOCUMENTS
 
 ### References
@@ -73,7 +69,7 @@ A CAPA shall be focused on resolving the identified issue and preventing recurre
 * If the extension is granted, Quality shall update the CAPA register.
 * The CAPA owner proceeds with implementation of the CAPA by the new due date.
 
-### CAPA Close—Out
+### CAPA Close-Out
 * Once the CAPA has been completed and approved, the CAPA may be closed by Quality. 
 * The signed hard copy of the closed CAPA is held on file.
 
