@@ -73,15 +73,13 @@ Quality Risk Management may be implemented both prospectively and retrospectivel
 |-----------|------------|------------|------------|
 |     High  | RC2   | RC1     |   RC1   |    
 |     Medium | RC3   | RC2     |   RC1   |        
-|     |Low  | RC3   | RC3     |   RC2   |       
+|     Low  | RC3   | RC3     |   RC2   | 
 
-| Determination of Risk Priority Level    |
-|-----------------------------------------|
-| Probability of Detection    |
-| High   | Medium  |  Low     |
-| 1| Medium | High    |  High    |
-| 2| Low    | Medium  |  High    |
-| 3| Low    | Low     |  Medium  | 
+|        Probability of Detection     | High  | Medium  |  Low  | 
+|-----------|------------|------------|------------|
+|    1  | Medium   | High     |   High   |    
+|     2 | Low   | Medium    |   High   |        
+|    3  | Low   | Low     |   Medium   | 
 
 **Table 2: Risk Priority Rating**
 * High Risk Priority : further risk reduction measures are required.
