@@ -5,9 +5,9 @@
 |Item          |Details                                                                                                                                                                                                                                                                                            
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------------------| 
 |Purpose       |detailing the procedure for verifying that medicinal products are only received from suppliers authorised to manufacture and/or supply medicinal products.       |
-|              |detailing the procedure for verifying that active substances (APIs) are received from manufacturing sites authorised to manufacture and/or supply active substances  |
-|              |detailing the procedure for verifying customers purchasing medicinal product and customers to whom product is delivered are appropriately authorised to purchase medicinal products
-|              |detailing the documentary evidence to substantiate bona fides of suppliers and customers handling medicinal products |
+|               detailing the procedure for verifying that active substances (APIs) are received from manufacturing sites authorised to manufacture and/or supply active substances  |
+|               detailing the procedure for verifying customers purchasing medicinal product and customers to whom product is delivered are appropriately authorised to purchase medicinal products
+|               detailing the documentary evidence to substantiate bona fides of suppliers and customers handling medicinal products |
 |Department    |Quality                                                                                                                                          |   
 |Categorie     |GDP         |
 
@@ -25,9 +25,9 @@
 * Outsourced Activities
 * Falsified Medicinal Products
 
-## 5. ROLES
+## ROLES
 
-### 5.1 Director of Quality
+### Director of Quality
 * Ensure this procedure is followed so that only approved suppliers which have been confirmed as authorised to supply the specific API or product types are used and that medicinal product is only supplied to customers who are authorised to receive medicinal product.
 * In conjunction with the Responsible Person make a decision with regard to the continued use of a supplier or customer who is subject to a non-compliance rating or Notice of Non-compliance from the appropriate Regulatory Authority.
 
