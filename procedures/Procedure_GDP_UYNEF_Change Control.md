@@ -2,15 +2,11 @@
 
 ## Header
 
-|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-|Item          |Details                                                                                                                                                                                                                                                                                            | 
-|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-|Purpose       |describing the process for manage any changes impacting GDP processes and regulatory filing related to products marketed or distributed                                                                                                                                                            |
-|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-|Department    |Quality                                                                                                                                                                                                                                                                                            |   
-|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-|Categorie     |GDP                                                                                                                                                                                                                                                                                                | 
-|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+|Item          |Details                                                                                                                 
+|--------------|--------| 
+|Purpose       |describing the process for manage any changes impacting GDP processes and regulatory filing related to products marketed or distributed                                                                                                                         
+|Department    |Quality                                                                                                                 
+|Categorie     |GDP                                                                                                                     
 
 ## REFERENCES AND ASSOCIATED DOCUMENTS
 
@@ -73,7 +69,6 @@ EU Commission Regulations 1234/2008
 * A Change Plan that details actions associated with the change, the actionee(s) and due date(s) are documented on the Change Management Form.
 * The change is classified based on its potential impact upon the GDP processes or product quality, safety and efficacy. The table below describes the classification of the changes:
 
-|-------------------|--------------------------------------------------------------------------------------------------------|
 |Classification     |Description                                                                                             |
 |-------------------|--------------------------------------------------------------------------------------------------------|
 |Major              |A change that has the potential to have an adverse effect on the defined                                |
@@ -83,10 +78,7 @@ EU Commission Regulations 1234/2008
 |                   |used to perform regulated activities);                                                                  |
 |                   |A change that will required submitting of a variation to a Regulatory Fillings or                       | 
 |                   |Licenses (MAS, WDA or ASR)                                                                              |
-|-------------------|--------------------------------------------------------------------------------------------------------|
-|Minor              |A change that does not impact the GXP processes, defined product specifications or Regulatory Fillings. |                                                                             |
-|-------------------|--------------------------------------------------------------------------------------------------------|
-
+|Minor              |A change that does not impact the GXP processes, defined product specifications or Regulatory Fillings. |           
 
 * If change classification is determined to be Major, a separate risk assessment shall be completed in accordance with the procedure *Risk Management*.
 
