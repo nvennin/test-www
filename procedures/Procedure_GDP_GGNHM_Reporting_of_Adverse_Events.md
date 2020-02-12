@@ -111,4 +111,4 @@ All AEs, PQCs and MIEs should be forwarded as soon as practically possible and n
 
 ## TRAINING
 All permanent and outsourced staff must complete 'read and understand’ training of this procedure within their ﬁrst week, where possible.
-Personnel who have been absent from the workplace for 3 months or more or who miss the routine annual refresher training shall undergo additional non—routine refresher training within 3 months.
+Personnel who have been absent from the workplace for 3 months or more or who miss the routine annual refresher training shall undergo additional non-routine refresher training within 3 months.
