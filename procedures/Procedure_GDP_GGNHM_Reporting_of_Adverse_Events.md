@@ -23,6 +23,7 @@
 Any untoward medical occurrence in a patient or clinical trial subject administered a medicinal product and which does not necessarily have a causal relationship with this treatment.
 
 *Special case scenario*
+
 * AEs associated with a suspected or confirmed falsified medicinal Product(s) or with a product quality complaint.
 * AEs due to drug to drug or food to drug interaction.
 * The following speciai situations, with *or* without an associated AE:
@@ -38,16 +39,20 @@ Any untoward medical occurrence in a patient or clinical trial subject administe
   * occupational exposure
   * unexpected benefit
 
-*Product Quality Comgiaint (PQC)*
+*Product Quality Complaint (PQC)*
+
 A complaint which may indicate any possible, including actual, failure ofa drug product to meet any of its specifications designed to ensure that any drug products conform to appropriate standards of safety, efﬁcacy, identity, strength quality, purity and package integrity and durability.
 
 *Medical Information Enquiry (MIE)*
+
 Request of medical information from healthcare professional (HCP) patients, caregivers, relatives, members or self-aid groups sales representatives, press media, authorities etc.
 
 *First level Support*
+
 MIE which can be answered by using the approved product information. First contact point for any MIE.
 
 *Second level Support*
+
 MIE which can be answered by using published or internal information besides approved product information.
 
 ## ROLES
