@@ -82,7 +82,7 @@ AEs, special case scenarios and PQCs might arise from the following sources, but
 * Company sponsored market research programs
 * Or any other source e.g. lay press or other media
 
-### 7.3 What to report
+### What to report
 * At least the following data needs to be requested:
   * The date when the employee or contractor became aware of the event (Day 0)
   * Identifiable Reporter (e.g. Name, contact data)
