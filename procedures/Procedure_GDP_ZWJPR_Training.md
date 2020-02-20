@@ -43,7 +43,7 @@
 ### Training Materials
 * Training materials include, but are not limited to, the company Quality Manual, Company Policies and procedures. Training programmes on specific topics such as Good Distribution Practice (GDP) may also be developed in-house or prepared by Consultants on behalf of Theramex by Subject Matter Experts (SME) who are knowledgeable on the subject matter to be presented. E-Learning programmes may also be used as a training tool. Training programmes must be approved for use in advance by the Quality Manager or Responsible Person (RP) as appropriate.
 
-### 7.2 Training
+### Training
 * Training is provided by a Trainer who has the education, knowledge and communication skills to perform the training. Trainers may be Theramex employees or external contractors / consultants. Evidence of qualification of the Trainer and their suitability to perform the training may be in the form of training certificates from courses such as Train the Trainer, the SME, or from records of assessment of competency for the applicable activity or task.
 * Contractors/consultants retained by Theramex for the provision of support on GxP activities must provide an up-to-date Curriculum Vitae to Theramex Quality and must have sufficient education, training and experience to advise on the subjects for which they are retained. Personnel qualification shall include a documented verification of education, training and experience in performing the specific activity. Records shall be maintained stating the name, address, qualifications, and type of service provided by contractors/consultants.
 * All staff including long term contractors will be required to complete induction training, refresher training and the training identified in the Training Matrix.
@@ -52,8 +52,8 @@
 * Training may also be agreed on an ad hoc basis providing that it is of mutual benefit to both the member of staff and the company. Such training includes attendance at external courses or conferences. Training is documented by inclusion of the training course certificate in the training file.
 * As per procedures are updated on a biennial or triennial basis (where applicable) following periodic review. Training must be completed on the updated procedure by those identified as requiring training on the Training Matrix.
 * Training is performed at one of two levels;
-1. “Readand understand”, where users will be required to read and indicate they have understood its content. Read and Understand may be performed when changes to an procedure are minor, cosmetic in nature and the training method has been approved by management/Authorised Delegate.
-2. “Instructor Lead", where users will undertake more in—depth training, either face to face or electronically and will be required to undertake an assessment to verify effectiveness of training. This is always required for the PV awareness and GxP training.
+  * “Readand understand”, where users will be required to read and indicate they have understood its content. Read and Understand may be performed when changes to an procedure are minor, cosmetic in nature and the training method has been approved by management/Authorised Delegate.
+  * “Instructor Lead", where users will undertake more in—depth training, either face to face or electronically and will be required to undertake an assessment to verify effectiveness of training. This is always required for the PV awareness and GxP training.
 * The level of training required for each procedure is captured under section 6 ’Training' of the procedure.
 
 ### Documentation of Training
