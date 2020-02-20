@@ -16,14 +16,14 @@
 
 ### References
 
-* Good Distribution Practice(GDP) Guidelines 2013/C343/01
-* Eudralex Volume 4. Chapter 7 Outsourced Activities
-* EudraGDMP Database
-* Glossary
-* Quality Risk Management
-* Change Control
-* Outsourced Activities
-* Falsified Medicinal Products
+* [Good Distribution Practice GDP guidelines 2013/c343/01][GDP Guidelines]
+* [EudraLex Volume 4 — Good Manufacturing Practice (GMP) guidelines][GMP Guidelines] Chapter 7 outsourced activities
+* [EudraGDMP Database][GMP Guidelines]
+* [Glossary][QEAIC]
+* [Quality Risk Management] [LBHIY]
+* [Change Control] [UYNEF]
+* [Outsourced Activities] [HBQIN]
+* [Falsified Medicinal Products] [VTOMR]
 
 ## ROLES
 
@@ -55,7 +55,7 @@
 ### Establishing Bona Fides of Suppliers and Customers
 
 #### General Requirements for Suppliers
-* A new supplier is evaluated by Quality in accordance with *Outsourced Activities*.
+* A new supplier is evaluated by Quality in accordance with *[Outsourced Activities]*[HBQIN].
 * The qualification process for a new supplier includes confirming that the supplier is appropriately authorised to supply the requested APIs or products to the markets in question.
   * If the supply is of an API, the supplier must have an active substance registration listing that API (if required by the local authority).
   * If the supply of the medicinal product is directly from a manufacturer or packager, they must have a Manufacturing and Importation Authorisation MIA or local Regulatory Authority equivalent listing the specific product type.
