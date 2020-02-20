@@ -38,7 +38,7 @@
 * Ensure auditors are appropriately trained and/or experienced
 * Ensure self-inspection reports are reviewed and approved
 
-## 7. PROCEDURE
+## PROCEDURE
 
 ### Self-Inspection Schedule and Tracker
 
