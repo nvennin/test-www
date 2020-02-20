@@ -70,5 +70,5 @@ The below information is required to be available to perform release in D365.
 * Where previously agreed, and in line with the QTA, a pre-wholesaler may perform the In-Market release for a specific market. Quality will release the batch in D365 upon communication from the pre-wholesaler.
 * A copy of the CoA, CoC and release communication is retained.
 
-## TRAINJNG
+## TRAINING
 Anyone who performs the In—Market release must first complete read and understand training in this procedure.
