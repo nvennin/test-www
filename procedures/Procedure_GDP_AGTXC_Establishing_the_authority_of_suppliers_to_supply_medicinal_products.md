@@ -34,7 +34,7 @@
 ### Quality
 * Obtain and confirm the bona fides of a new supplier or customer prior to approval.
 * Verify the bona fides for each supplier and customer.
-* Add approved suppliers to supplier register as per *Outsourced Activities*. Add approved customers to the bona fide tracker upon approval of the Bona Fides.
+* Add approved suppliers to supplier register as per [Outsourced Activities][HBQIN]. Add approved customers to the bona fide tracker upon approval of the Bona Fides.
 * Perform annual review to confirm bona fides of suppliers and customers.
 * Maintain a bona fide tracker to ensure timely review on a periodic basis of Supplier and Customer Bona fide licence approval status.
 * Perform routine reviews of customers and suppliers to detect compliance issues.
@@ -77,7 +77,7 @@
   * Verify the company name, scope, address and expiry of the Registration, GMP/GDP certificate, manufacturing/wholesale operation, authorised for the supplier site(s) on the Regulatory Authority’s official website. The operations that proposed suppliers are authorised to conduct must be verified (i.e. procure, holding, supply or export) as well as the category of medicinal products that may be supplied. If no official Authority database exists, the Quality Department should contact the national Regulatory Authority for assistance.
   * Check on the relevant Regulatory Authority database, e.g. for EU suppliers, EudraGMDP database, local Authority database, to determine if a GMP/GDP Non-Compliance Report has been issued for the supplier - reference section 7.4, or if the licence or authorisation has been revoked or suspended. 
 * In the event that bona fide of the supplier cannot be confirmed, the Quality Department will contact the relevant local Regulatory Authority to ascertain the compliance risk and based on the outcome of a risk assessment as per Quality Risk Management, will determine whether approval of the supplier should be progressed.
-* Due diligence checks are as per *Falsified Medicinal Products*.
+* Due diligence checks are as per [Falsified Medicinal Products][VTOMR].
 
 #### Establishing Bona Fide of Customers 
 * When a customer is supplied products via a 4PL wholesale model the responsibility for performing the Bona Fide checks are performed by the 4PL wholesaler as detailed in the Quality Technical Agreement (QTA).
@@ -88,7 +88,7 @@
   * A check if a Non-Compliant (NC) rating has been applied to the customer site is performed on the Regulatory Authority database e.g. EudraGMDP database is checked to determine if a GMP/GDP Non-Compliance Report has been issued for the customer-reference section 7.4
   * For customers who are authorised or entitled to supply medicinal products to the public such as General/Healthcare Practitioners or Pharmacist, verify they are authorised against the appropriate Medical Council registration or Pharmacist registration and that the ship to address is authorised to receive the category of medicinal products.
   * For hospitals or clinics with a pharmacy and retail pharmacies, verification via National Health Board or Medical Council/Pharmacy Registration Board may be performed as appropriate.
-* In the event that bona fide of the customer cannot be confirmed, the Quality Department will contact the local Regulatory Authority/ National Health Board or Medical CounciI/Directory as appropriate for the customer in the market, to ascertain the compliance risk and based on the response and outcome of a risk assessment as per *Quality Risk Management*, will determine whether approval of the customer should be progressed.
+* In the event that bona fide of the customer cannot be confirmed, the Quality Department will contact the local Regulatory Authority/ National Health Board or Medical CounciI/Directory as appropriate for the customer in the market, to ascertain the compliance risk and based on the response and outcome of a risk assessment as per [Quality Risk Management][LBHIY], will determine whether approval of the customer should be progressed.
 
 ### Approval of supplier/customer Bona Fide
 * The RP of the relevant entity reviews and approves the supplier or customer, when supplied via the 3PL wholesale model.
@@ -110,7 +110,7 @@
     * [https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines]
     * [https://www.gov.uk/government/publications/medicines-terminated-and-cancelled-manufacturing-and-wholesale-dealer-licences]
 * The reviewed registers, will be printed, dated and signed by Quality.
-* In the event of a non-compliance rating that is deemed unsatisfactory, Quality may perform a risk assessment as per *Quality Risk Management*, perform a for-cause audit of a supplier or contact the Regulatory Authority if deemed appropriate. Where it is determined that a supplier/customer no longer retains approval status or is to be removed from the Approved Register and Inventory Management System, a Change Control is raised in accordance with *Change Control*.
+* In the event of a non-compliance rating that is deemed unsatisfactory, Quality may perform a risk assessment as per [Quality Risk Management][LBHIY], perform a for-cause audit of a supplier or contact the Regulatory Authority if deemed appropriate. Where it is determined that a supplier/customer no longer retains approval status or is to be removed from the Approved Register and Inventory Management System, a Change Control is raised in accordance with [Change Control][UYNEF].
 
 ## TRAINING
 Anyone who performs the tasks as outlined in this procedure must first complete read and understand training.
