@@ -5,7 +5,6 @@
 |Item          |Details                                                                                                                                                                                                                                                                                            
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------------------| 
 |Purpose       |detailing the procedure for verifying that medicinal products are only received from suppliers authorised to manufacture and/or supply medicinal products.       |
-|              |detailing the procedure for verifying that active substances (APIs) are received from manufacturing sites authorised to manufacture and/or supply active substances  |
 |              |detailing the procedure for verifying customers purchasing medicinal product and customers to whom product is delivered are appropriately authorised to purchase medicinal products
 |              |detailing the documentary evidence to substantiate bona fides of suppliers and customers handling medicinal products |
 |Department    |Quality                                                                                                                                          |   
@@ -28,7 +27,7 @@
 ## ROLES
 
 ### Director of Quality
-* Ensure this procedure is followed so that only approved suppliers which have been confirmed as authorised to supply the specific API or product types are used and that medicinal product is only supplied to customers who are authorised to receive medicinal product.
+* Ensure this procedure is followed so that only approved suppliers which have been confirmed as authorised to supply the specific product types are used and that medicinal product is only supplied to customers who are authorised to receive medicinal product.
 * In conjunction with the Responsible Person make a decision with regard to the continued use of a supplier or customer who is subject to a non-compliance rating or Notice of Non-compliance from the appropriate Regulatory Authority.
 
 ### Quality
@@ -56,8 +55,7 @@
 
 #### General Requirements for Suppliers
 * A new supplier is evaluated by Quality in accordance with [Outsourced Activities][HBQIN].
-* The qualification process for a new supplier includes confirming that the supplier is appropriately authorised to supply the requested APIs or products to the markets in question.
-  * If the supply is of an API, the supplier must have an active substance registration listing that API (if required by the local authority).
+* The qualification process for a new supplier includes confirming that the supplier is appropriately authorised to supply the requested products to the markets in question.
   * If the supply of the medicinal product is directly from a manufacturer or packager, they must have a Manufacturing and Importation Authorisation MIA or local Regulatory Authority equivalent listing the specific product type.
   * If the product is being received from a wholesaler or distribution centre, they must hold a WDA or local Regulatory Authority equivalent listing the product type.
 * The period of authorisation/certification is checked to ensure it is valid. Bona fide checks will be reconfirmed on an annual basis. 
