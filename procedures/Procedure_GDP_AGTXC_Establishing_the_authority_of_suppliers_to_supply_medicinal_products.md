@@ -5,8 +5,8 @@
 |Item          |Details                                                                                                                                                                                                                                                                                            
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------------------| 
 |Purpose       |detailing the procedure for verifying that medicinal products are only received from suppliers authorised to manufacture and/or supply medicinal products.       |
-|              |detailing the procedure for verifying customers purchasing medicinal product and customers to whom product is delivered are appropriately authorised to purchase medicinal products
-|              |detailing the documentary evidence to substantiate bona fides of suppliers and customers handling medicinal products |
+|<br>              |detailing the procedure for verifying customers purchasing medicinal product and customers to whom product is delivered are appropriately authorised to purchase medicinal products
+|         <br>     |detailing the documentary evidence to substantiate bona fides of suppliers and customers handling medicinal products |
 |Department    |Quality                                                                                                                                          |   
 |Categorie     |GDP         |
 
