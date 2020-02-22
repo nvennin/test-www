@@ -13,10 +13,10 @@
 
 ### References
 
-* Guidelines on Good Distribution Practice of Medicinal Products for Human Use (2013/C343/01)
-* Falsified Medicines Directive 2011/62/EU
-* Glossary
-* Falsified Medicinal Products
+* [Good Distribution Practice GDP guidelines 2013/c343/01][GDP Guidelines]
+* {Falsified Medicines Directive 2011/62/EU}
+* [Glossary][QEAIC]
+* [Falsified Medicinal Products][VTOMR]
 
 ### Associated Documents
 
