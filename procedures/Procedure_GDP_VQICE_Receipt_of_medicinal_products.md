@@ -13,8 +13,8 @@
 
 ### References
 
-* Customer Complaint 
-* Deviations
+* [Customer Complaint][ZIWKI] 
+* [Deviations][XCEUG]
 * Work Instruction for In Market Release in D365
 * Release Notification Recipient List
 
@@ -32,8 +32,6 @@ The below information is required to be available to perform release in D365.
 
 | Document                                                       | Source              |
 | -------------------------------------------------------------- | ------------------- |
-| API CoA - for toll manufactured material only                  | Supplier            |
-| Written Confirmation - for API imported into EEA               | Supplier            |
 | Finished Product CoA / COC                                     | Supplier            |
 | Temperature Data during transportation to Distribution center  | Distribution Centre | 
 | Purchase/sales invoices, delivery slips                        | Supplier            |
