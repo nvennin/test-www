@@ -17,36 +17,12 @@
 
 ## ROLES
 
-### Regulatory Affairs
-* Identify packaging components that require updating.
-* Communicate any labelling text changes to Artwork and Labelling Department.
-* Review and approve mock up artwork in the EAMS.
-* If applicable, communicate reason for rejection of artwork in the electronic review tool.
-* Regulatory submission of artwork to the authorities.
-* Communicate any RFI received to the change control administrator.
-* Verify printer proofs (leaflets if applicable).
-
-### Artwork & Labelling Department
-* Review ACRF and ensure the all required documents are in place to initiate artwork development.
-* Ensure that an approved Change Request is available for all changes and referenced on the ACRF.
-* Ensure that an approved ACRF is available prior to the initiation of any artwork updates.
-* Ensure artwork update process is carried out in priority order and business critical changes are prioritised.
-* Update master labelling text (If applicable).
-* Send master labelling text to local markets for translation (if applicable).
-* Consider impact on related artwork components/SKUs and detail these on the ACRF.
-* Maintain Artwork Project Tracker.
-* Communicate implementation requirements with Demand Planning/Supply Chain and determine next batch.
-* Liaise with Demand Planning/Supply Chain on implementation strategy to keep component write off costs to a minimum.
-
-### Artwork Design Studio
-* Initiate projects in the EAMS
-* Develop artwork
-* Liaise with CMOs to obtain cutter guide/technical approval
-* Provide training on Electronic Artwork Management System
-* Manage print proof approval process
-* Supply Chain/Demand Planning
-* Complete required details on ACRF
-* Work with Artwork Department to agree on implementation strategy to keep write off costs to a minimum and ensure productions are scheduled with the correct artwork.
+Role     |   Description    |   Who
+------   |   --------       |  ----
+Regulatory  | Identify packaging components that require updating and review artwork | Regulatory affairs
+Initiator |  Initiate projects in the EAMS, develop artwork and manage approval process | Artwork Design Studio
+Reviewer | Reviews documentation| Artwork & Labelling department
+Responsible Person | Manages approved change requests and communicate with other parts   | Artwork & Labelling department
 
 ## PROCEDURE
 
