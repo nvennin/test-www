@@ -22,7 +22,7 @@
 
 Role     |   Description    |   Who
 ------   |   --------       |  ----
-Reviewer | Reviews documentation of the supplier and ensure that all changes are documented | Quality Officer
+Reviewer | Reviews documentation of the supplier and ensures that all changes are documented | Quality Officer
 
 ## PROCEDURE
 
