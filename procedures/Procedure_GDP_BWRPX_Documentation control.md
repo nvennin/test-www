@@ -12,16 +12,16 @@
 ## REFERENCES AND ASSOCIATED DOCUMENTS
 
 ### References
-* EudraLex Volume 4. Chapter 4 Documentation
-* Good Distribution Practice (GDP) — guidelines 2013/c343/01
-* MHRA GXP Data Integrity Guidance and Definitions; Revision 1: March 2018
-* Good Practices for Data Management and integrity in Regulated GMP/GDP Environment, PIC/S PI 041-1 (Draft 2) August 2016
-* Glossary
-* Management of Procedures
-* Quality Risk Management
-* Change Control
-* Self-Inspections
-* Outsourced Activities
+* [EudraLex Volume 4 — Good Manufacturing Practice (GMP) guidelines][GMP Guidelines]
+* [Good Distribution Practice GDP guidelines 2013/c343/01][GDP Guidelines]
+* [MHRA GXP Data Integrity Guidance and Definitions; Revision 1: March 2018][GDP Guidelines]
+* [Good Practices for Data Management and integrity in Regulated GMP/GDP Environment, PIC/S PI 041-1 (Draft 2) August 2016][GDP Guidelines]
+* [Glossary][QEAIC]
+* [Management of Procedures][AMXWS]
+* [Quality Risk Management][LBHIY]
+* [Change Control][UYNEF]
+* [Self-Inspections][GMQHI]
+* [Outsourced Activities][HBQIN]
 
 ## ROLES
 
@@ -57,7 +57,7 @@ Oversee and support Good Documentation Practice activities by creating the right
 * Regular audits of users of electronic systems should be performed and documented to ensure that users and access rights are appropriate and that if anyone has changed roles within the organisation or left the company this is appropriately addressed.
 * Systems for back-up, restore and recovery. 
 * All GDP electronic systems and data used in the manufacture, testing, storage, release and distribution of medicinal product must meet the requirements of Eudralex Annex 11 Computerised Systems. The principles of data integrity shall be incorporated into validation/qualification studies.
-* The principles of quality risk management shall be applied as appropriate to ensure that data integrity risk is assessed, mitigated and communicated in accordance with Quality Risk Management.
+* The principles of quality risk management shall be applied as appropriate to ensure that data integrity risk is assessed, mitigated and communicated in accordance with [Quality Risk Management][LBHIY].
 * Good Documentation Practices and Integrity of data of Third Party Providers is assessed during review of documentation from the Third Party and through audit of the Third Party.
 * Data which requires a second review should be reviewed as soon as possible after the completion of the activity. 
 * Data reviewers must have appropriate training in the requirements for reviewing reportable data, supporting data, meta—data, calculations and audit trails.
