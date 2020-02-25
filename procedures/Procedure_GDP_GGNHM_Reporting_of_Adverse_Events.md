@@ -57,6 +57,7 @@ MIE which can be answered by using the approved product information. First conta
 MIE which can be answered by using published or internal information besides approved product information.
 
 ## ROLES
+
 * All Employees who may receive adverse event, any report of a potential PQC or a MIE in the course of their work are responsible for following this procedure.
 * All permanent and outsourced staff are responsible for forwarding no later than 24 hours from awareness to the country specific contact details :
   * any AE or special case scenario
