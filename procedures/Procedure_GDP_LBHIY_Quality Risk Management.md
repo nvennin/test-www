@@ -12,10 +12,10 @@
 ## REFERENCES AND ASSOCIATED DOCUMENTS
 
 ### References
-* CAPA
+* [CAPA][YUISV]
 
 ### Associated Documents
-* ICH Q9 Quality Risk Management
+* [ICH Q9 Quality Risk Management][ICHQ9]
 
 ## ROLES
 
@@ -104,6 +104,7 @@ Anyone who performs the tasks as outlined in this procedure must first complete 
 
 [GMP Guidelines]: https://ec.europa.eu/health/documents/eudralex/vol-4_en]
 [GDP Guidelines]: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2013:343:0001:0014:EN:PDF
+[ICHQ9]: https://www.ema.europa.eu/en/documents/scientific-guideline/international-conference-harmonisation-technical-requirements-registration-pharmaceuticals-human-use_en-3.pdf
 [AMXWS]: /procedures/Procedure_GDP_AMXWS_Management_of_Standard_Operating_Procedures.md
 [XIDEX]: /procedures/Procedure_GDP_XIDEX_Responsible_Person.md
 [BWRPX]: /procedures/Procedure_GDP_BWRPX_Documentation_Control.md
