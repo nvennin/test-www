@@ -19,20 +19,12 @@
 
 ## ROLES
 
-### Quality
-* Schedule and manage the performance of risk assessments when appropriate for the purposes of managing risk to patient health.
-* Log Risk Assessments (RA) on the RA tracker and issue unique number.
-* Review and approve Risk Assessments and associated follow-up.
-* File all records relating to the risk assessment process. 
-* Communicate risks and measures to control the risks associated with quality of Medicinal Products.
-
-### Risk Assessment Initiator
-* Initiate Risk Assessment form.
-* Assemble and direct the risk assessment team (where required), calling additional members to the team as required.
-* Identify and assess risks and methods to eliminate or control risks.
-
-### Responsible Person (RP)
-* Review and approve Risk Assessments associated with GDP activities and associated follow—up actions.
+Role     |   Description    |   Who
+------   |   --------       |  ----
+Manager |  Schedule, log, manage and communicate about risk assessments | Quality Officer
+Initiator | Initiate Risk Assessment form, manage risk team and assess methods to eliminate risks | Risk Assessment Initiator
+Reviewer | Reviews Risk Assessments associated with GDP activities and associated follow—up actions | Responsible Person, Quality Officer
+Approver | Approves Risk Assessments associated with GDP activities and associated follow—up actions  | Responsible Person
 
 ## PROCEDURE
 
