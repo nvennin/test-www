@@ -24,9 +24,14 @@
 
 ## ROLES
 
-### Director of Quality
-* Ensure this procedure is followed so that only approved suppliers which have been confirmed as authorised to supply the specific product types are used and that medicinal product is only supplied to customers who are authorised to receive medicinal product.
-* In conjunction with the Responsible Person make a decision with regard to the continued use of a supplier or customer who is subject to a non-compliance rating or Notice of Non-compliance from the appropriate Regulatory Authority.
+Role     |   Description    |   Who
+------   |   --------       |  ----
+Manager  | Oversee the process and ensure this procedure is well followed  | Director of Quality
+Manager |  Approves non-GDP deviations and oversees the process | Quality Officer
+Investigator  |  Investigates deviations | Quality Officer
+Reviewer | Reviews deviations and CAPA plan | Quality Manager, RP, other stakeholders
+Responsible Person | Approves GDP deviations   | Responsible Person
+Regulatory | Reviews deviations that impact regulatory filings | Regulatory
 
 ### Quality
 * Obtain and confirm the bona fides of a new supplier or customer prior to approval.
