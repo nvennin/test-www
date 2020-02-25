@@ -4,7 +4,7 @@
 
 |Item          |Details                                                                                                                 
 |--------------|-------| 
-|Purpose       |Describe the process for creating the Annual Self—Inspection Plan, scheduling, conducting, documenting, identification / implementation of corrective actions and closing of self—inspections for both announced and un-announced self-inspections. Escalate critical findings and the trending of all findings for Quality Management meetings.Evaluate the effectiveness of the system to maintain compliance to regulatory requirements, identify any non-conformities and to recommend improvements.                                                  
+|Purpose       |Describe the process for creating the Annual Self-Inspection Plan, scheduling, conducting, documenting, identification / implementation of corrective actions and closing of self-inspections for both announced and un-announced self-inspections. Escalate critical findings and the trending of all findings for Quality Management meetings. Evaluate the effectiveness of the system to maintain compliance to regulatory requirements, identify any non-conformities and to recommend improvements.                                                  
 |Department    |Quality                                                                                                                 
 |Categorie     |GDP                  
 
@@ -12,10 +12,10 @@
 
 ### REFERENCES
 
-* Glossary
-* Deviations
-* CAPA
-* Management Review and monitoring
+* [Glossary][QEAIC]
+* [Deviations][XCEUG]
+* [CAPA][YUISV]
+* [Management Review and monitoring][OZCFN]
 
 ## ROLES
 
@@ -30,7 +30,7 @@
 * Issue the Audit Report listing all observation identified and agreed actions
 
 ### Director of Quality/RP 
-* Oversee and support the audit programme for Self—lnspections
+* Oversee and support the audit programme for Self-Inspections
 * Ensure that self—inspections are carried out and any non—conformities are reported and CAPAs raised as required
 * Approve the Self-inspection Audit 
 * Ensure auditors are appropriately trained and/or experienced
