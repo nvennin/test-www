@@ -13,12 +13,12 @@
 
 ### References
 
-* Good Distribution Practice (GDP) guidelines 2013/c343/01
-* Glossary
-* EudraLex Volume 4. Chapter 7 Outsourced Activities
-* Quality Risk Management
-* Change control
-* Management review and monitoring
+* [Good Distribution Practice GDP guidelines 2013/c343/01][GDP Guidelines]
+* [Glossary][QEAIC]
+* [EudraLex Volume 4 — Good Manufacturing Practice (GMP) guidelines][GMP Guidelines] Chapter 7 Outsourced Activities
+* [Quality Risk Management][LBHIY]
+* [Change control][UYNEF]
+* [Management review and monitoring][OZCFN]
 
 ## ROLES
 
