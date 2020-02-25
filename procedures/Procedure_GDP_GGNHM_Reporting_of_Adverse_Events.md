@@ -11,10 +11,10 @@
 ## REFERENCES AND ASSOCIATED DOCUMENTS
 
 ### References
-* Directive 2010/84/EU amending directive 2001/83/EC
-* Regulation EU No 1235/2010 amending regulation EC 726/2004
-* Good Pharmacovigilance Practices (GVP) Module I, ll and VI
-* Customer Complaints
+* [Directive 2010/84/EU amending directive 2001/83/EC][Directive 2010/84/EU]
+* [Regulation EU No 1235/2010 amending regulation EC 726/2004][Regulation EU No 1235/2010]
+* [Good Pharmacovigilance Practices (GVP) Module I, ll and VI][GVP Guidelines]
+* [Customer Complaints][ZIWKI]
 
 ## DEFINITIONS AND ACRONYMS/ABBREVIATIONS
 
@@ -115,6 +115,9 @@ Personnel who have been absent from the workplace for 3 months or more or who mi
 
 [GMP Guidelines]: https://ec.europa.eu/health/documents/eudralex/vol-4_en]
 [GDP Guidelines]: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2013:343:0001:0014:EN:PDF
+[GVP Guidelines]: https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/guideline-good-pharmacovigilance-practices-gvp-module-vi-collection-management-submission-reports_en.pdf
+[Directive 2010/84/EU]: https://ec.europa.eu/health/sites/health/files/files/eudralex/vol-1/dir_2010_84/dir_2010_84_en.pdf
+[Regulation EU No 1235/2010]: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1235
 [AMXWS]: /procedures/Procedure_GDP_AMXWS_Management_of_Standard_Operating_Procedures.md
 [XIDEX]: /procedures/Procedure_GDP_XIDEX_Responsible_Person.md
 [BWRPX]: /procedures/Procedure_GDP_BWRPX_Documentation_Control.md
