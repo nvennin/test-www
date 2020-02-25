@@ -20,13 +20,12 @@
 
 ## ROLES
 
-### Quality Manager
- 
-* Assure the timely and thorough investigation of Customer complaints according to the requirements of this procedure. 
-* Complete the final review and approval of each individual Customer complaint investigation and any associated CAPA. 
-* Review the Customer complaint for possible trend. 
-* Escalate potentially critical Customer complaints to Pharmacovigilance if the complaint has a potential safety impact.
-* Report critical Customer complaints to the appropriate Regulatory Authority(ies).
+Role     |   Description    |   Who
+------   |   --------       |  ----
+Investigator  | Ensure investigation of Customer complaints  | Quality Manager
+Reviewer |  Complete the final review of customer complaint | Quality Manager
+Responsible person  |  Escalate and report critical customer complaints | Quality Officer
+Regulatory | Review critical customer complaints | Regulatory, Pharmacovigilance
 
 ## PROCEDURE
 
