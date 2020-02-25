@@ -12,12 +12,12 @@
 
 ### References
 
-* Glossary
-* Change Control
-* Self Inspections
-* Customer Complaints
-* Deviations
-* Management Review and monitoring
+* [Glossary][QEAIC]
+* [Change control][UYNEF]
+* [Self Inspections][GMQHI]
+* [Customer Complaints][ZIWKI]
+* [Deviations][XCEUG]
+* [Management Review and monitoring][OZCFN]
 
 ### Associated Documents
 
