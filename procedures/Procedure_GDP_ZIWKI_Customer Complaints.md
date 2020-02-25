@@ -12,11 +12,11 @@
 
 ### References
 
-* Glossary
-* Falsified Medicinal Products
-* Deviations
-* Recall procedure
-* CAPA
+* [Glossary][QEAIC]
+* [Falsified Medicinal Products][VTOMR]
+* [Deviations][XCEUG]
+* [Recall procedure][VOZWP]
+* [CAPA][YUISV]
 
 ## ROLES
 
@@ -59,7 +59,7 @@
 * If a complaint is considered minor in nature, only one follow up attempt will be made by the call centre. In the case of a major or critical complaint, up to five attempts to gather the additional required information from the complainant can be made.
 * A deviation is initiated based on identification of a trend as per Deviations. A trend is identified if three or more complaints are received in the last 12 months for :
   * the same batch
-  * same reason for same product / device / API
+  * same reason for same product / device
 
 ### Customer complaints Classification
 
