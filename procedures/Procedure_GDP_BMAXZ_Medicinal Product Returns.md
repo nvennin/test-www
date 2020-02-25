@@ -43,7 +43,7 @@ restricted to the following examples:
 
 ### Request for Medicinal Product Return
 * All requests to return Medicinal Product will be made to the Customer Service Department.
-* Customer Services Department will document the reason for return and inform the customer if they can accept a return. Returns for quality reasons cannot be accepted. Returns for commercial reasons are acceptable if they are as a result of a company error. If a return is requested due to a customer error, these cannot be accepted. Return of cold chain products, API or Exported products (ie. Products exported out of EEA control or returned into EEA) cannot be accepted. If acceptable, the Customer Services Department will authorise the Medicinal Product to be returned from Customer to Distribution Centre.
+* Customer Services Department will document the reason for return and inform the customer if they can accept a return. Returns for quality reasons cannot be accepted. Returns for commercial reasons are acceptable if they are as a result of a company error. If a return is requested due to a customer error, these cannot be accepted. Return of cold chain products or Exported products (ie. Products exported out of EEA control or returned into EEA) cannot be accepted. If acceptable, the Customer Services Department will authorise the Medicinal Product to be returned from Customer to Distribution Centre.
 * Customer service will notify the customer that the defined Medicinal Product can be returned to the DC.
 * The customer is responsible for the transportation of the Medicinal product per the Label Storage Conditions back to the DC. Alternatively, if the customer does not return the Medicinal product to the DCC they must provide evidence of destruction.
 
