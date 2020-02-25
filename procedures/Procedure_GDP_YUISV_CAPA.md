@@ -26,26 +26,12 @@
 
 ## ROLES
 
-### CAPA Originator
-* Initate CAPA upon identification of requirement for corrective or preventative action.
-
-### Quality
-* Log the CAPA into the CAPA Tracking Register.
-* Update CAPA Tracking Register as CAPAs are completed and closed.
-* Review CAPA Tracking Register for CAPAs on a monthly basis, flag to CAPA owners if any open CAPAs are approaching their clue date.
-* Report open CAPAS for review at the routine Quality Management meeting.
-* Report CAPA trend data for review at Quality management review.
-
-### Quality Manager/RP
-* Ensure CAPAs are appropriately assigned, documented, approved, tracked and closed.
-* Review and approve all CAPAs associated with critical deviations/complaints/issues.
-* Review CAPA effectiveness checks.
-* Accept or reject CAPA extension requests.
-* Ensure that CAPA reviews, including trends, are included in the routine Quality management review meetings, as appropriate.
-
-### CAPA Owner
-* Ensure that the CAPA is executed and completed by the agreed due date.
-* Provide details of completion of the CAPA to the deviation investigator, if CAPA was associated with a deviation.
+Role     |   Description    |   Who
+------   |   --------       |  ----
+Originator  | Initiate CAPA  | CAPA Originator
+Updater |  Log, update, reviews and report CAPAs | Quality Officer
+Reviewer | Review CAPAs and check extension requests| Quality Manager, RP
+Owner | Ensure execution of the CAPA and provide details to deviation investigator if necessary  | CAPA Owner
 
 ## PROCEDURE
 A CAPA shall be focused on resolving the identified issue and preventing recurrence. The activities identified within the CAPA shall consider the risk of recurrence of the issue and the impact it may have. Timelines for completion of actions should be commensurate with the risk and impact of the identified issue recurring. The identiﬁed CAPA shall be aligned with the identified root cause that is under remediation.
