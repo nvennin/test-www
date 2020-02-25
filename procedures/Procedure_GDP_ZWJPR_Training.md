@@ -19,24 +19,12 @@
 
 ## ROLES
 
-### Theramex Quality
-* Creation and maintenance of the Training Matrix to ensure it reflects the training requirements for all effective Quality Documents, Policies, skills training, training on Code of Conduct and Manuals.
-* Where 'Read and Understand’ training is indicated circulate procedure to all identified in scope on Training Matrix with instruction to complete training. 
-* Update Training Matrix to reflect completion of training.
-* Provide monthly report to Functional heads regarding training completion status.
-* Schedule training for Good Distribution Practise and the Quality Management System to occur upon commencement of employment.
-* Ensure that the level of training required is indicated on the procedure and the author is understanding of their responsibility to manage training where ’lnstructor lead' training is stipulated.
-
-### Responsible Person and Quality Manager 
-* Ensure GxP requirements are met and reflected in the Training Matrix.
-* Ensure that GxP training is given in line with the Training Matrix, to Theramex employees/authorised delegates and contractors/consultants before any GDP related activities are undertaken.
-
-### Functional Heads
-* Ensure that all individuals complete requested training and forward records to Quality.
-* Follow up on all open or overdue training assignments upon receipt of status update from Quality.
-
-### Head of Pharmacovigilance and Medical Information
-* Ensure that all employees receive PV awareness training upon commencement of employment and on an annual basis.
+Role     |   Description    |   Who
+------   |   --------       |  ----
+Creator  | Create and update the training matrix, schedule training and ensure that the level of training required is indicated on the procedure  | Quality Officer
+Follower  |  Ensure that all employees receive PV awareness training | Pharmacovigilance manager
+Responsible Person | Ensure requirements are reflected in the training matrix | Quality Manager, RP
+Reviewer | Ensure that all individuals complete requested training   | Funcional heads
 
 ## PROCEDURE 
 
