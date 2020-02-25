@@ -11,14 +11,14 @@
 ## REFERENCES AND ASSOCIATED DOCUMENTS
 
 ### References
-* Glossary
-* Quality Risk Management
-* Medicinal Product Returns
-* Customer complaint
-* CAPA
-* Deviations
-* Recall procedure
-* Change control
+* [Glossary][QEAIC]
+* [Quality Risk Management][LBHIY]
+* [Medicinal Product Returns][BMAXZ]
+* [Customer complaints][ZIWKI]
+* [CAPA][YUISV]
+* [Deviations][XCEUG]
+* [Recall procedure][VOZWP]
+* [Change control][UYNEF]
 
 ## ROLES
 
