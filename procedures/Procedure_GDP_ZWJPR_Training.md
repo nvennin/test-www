@@ -12,10 +12,10 @@
 
 ### References
 
-* Good Distribution Practice (GDP) - guidelines 2013/c343/01
-* Eudralex Volume 4, Chapter 2 Personnel
-* Guideline on good pharmacovigilance practices (GVP)
-* Management of Standard Operating Procedures
+* [Good Distribution Practice GDP guidelines 2013/c343/01][GDP Guidelines]
+* [EudraLex Volume 4 — Good Manufacturing Practice (GMP) guidelines][GMP Guidelines]
+* [Guideline on good pharmacovigilance practices (GVP)][GVP Guidelines]
+* [Management of Standard Operating Procedures][AMXWS]
 
 ## ROLES
 
@@ -95,6 +95,7 @@ All permanent and contracted staff must complete read and understand training on
 
 [GMP Guidelines]: https://ec.europa.eu/health/documents/eudralex/vol-4_en]
 [GDP Guidelines]: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2013:343:0001:0014:EN:PDF
+[GVP Guidelines]: https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/guideline-good-pharmacovigilance-practices-gvp-module-vi-collection-management-submission-reports_en.pdf
 [AMXWS]: /procedures/Procedure_GDP_AMXWS_Management_of_Standard_Operating_Procedures.md
 [XIDEX]: /procedures/Procedure_GDP_XIDEX_Responsible_Person.md
 [BWRPX]: /procedures/Procedure_GDP_BWRPX_Documentation_Control.md
