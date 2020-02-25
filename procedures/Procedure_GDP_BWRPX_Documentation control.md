@@ -25,42 +25,11 @@
 
 ## ROLES
 
-### Director of Quality 
-Oversee and support Good Documentation Practice activities by creating the right environment to enable data integrity and through provision of sufficient resources including training.
-
-### Responsible Person
-* Issue and withdrawal of all GDP Controlled Documents. All copies of Quality Management System documents are controlled.
-* Oversee the accuracy and quality of records.
-* Notify Management when there are occurrences of data integrity breaches. 
-* Ensure that occurrences of data integrity violations are immediately investigated and resolved.
-* Ensure any product associated with a data integrity breach are isolated under quarantine status until the investigation is concluded.
-
-### Quality
-* Verify compliance to this procedure through Self-Inspections.
-* Ensure that all permanent or outsourced staff are trained in good documentation practices and Data Integrity requirements.
-* Request the employee’s specimen initials and signature to be recorded at the time of employment.
-* Maintain the Signatures Log.
-* Ensure that all permanent or outsourced staff incorporate good documentation practices when generating, reviewing, approving or maintaining GDP documents.
-* Assess the data management systems to ensure they comply with data integrity principles.
-* Ensure procedures for creating, issuing, utilising, reviewing, storing and retaining GDP documents are followed.
-* Maintain a GDP employee signature and initial file.
-* Electronic user access rights should be based on functionality that is appropriate for user role, and that actions are attributable to a specific user or individual. 
-* Electronic user access rights which prevent un-authorised data amendments.
-* Electronic access to appropriately controlled / synchronised clocks for recording timed events.
-* Shared logins or generic user access should not be used.
-* Control over paper data recording blank templates. 
-* Audit trail functionality is activated for electronic systems.
-* Automated data capture from instruments to approved data management systems such as the ERP system. 
-* Locating paper records at locations where activities take place so that data is recorded in real time.
-* Control of physical parameters (time, space, equipment) that permit performance of tasks recording of data as required.
-* Access for reviewers to all data associated with recorded results. 
-* Regular audits of users of electronic systems should be performed and documented to ensure that users and access rights are appropriate and that if anyone has changed roles within the organisation or left the company this is appropriately addressed.
-* Systems for back-up, restore and recovery. 
-* All GDP electronic systems and data used in the manufacture, testing, storage, release and distribution of medicinal product must meet the requirements of Eudralex Annex 11 Computerised Systems. The principles of data integrity shall be incorporated into validation/qualification studies.
-* The principles of quality risk management shall be applied as appropriate to ensure that data integrity risk is assessed, mitigated and communicated in accordance with [Quality Risk Management][LBHIY].
-* Good Documentation Practices and Integrity of data of Third Party Providers is assessed during review of documentation from the Third Party and through audit of the Third Party.
-* Data which requires a second review should be reviewed as soon as possible after the completion of the activity. 
-* Data reviewers must have appropriate training in the requirements for reviewing reportable data, supporting data, meta—data, calculations and audit trails.
+Role     |   Description    |   Who
+------   |   --------       |  ----
+Manager |  Oversees the process and GDP activities | Director of Quality
+Responsible Person | Issue, withdrawal and oversee controlled documents | Responsible person
+Compliance | Verify compliance to this procedure through Self-Inspections | Quality officer
 
 ## PROCEDURE
 
