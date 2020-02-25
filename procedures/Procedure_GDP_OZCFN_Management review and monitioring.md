@@ -4,14 +4,14 @@
  
 |Item          |Details                                                                                                                 
 |--------------|---------| 
-|Purpose       |ensure periodic review and assessment of the adequacy, suitability and effectiveness of the Quality Management System including identification of relevant actions in the event of undesirable trends, and detection of opportunities for continual improvement of processes and the system itself.| 
+|Purpose       |Ensure periodic review and assessment of the adequacy, suitability and effectiveness of the Quality Management System including identification of relevant actions in the event of undesirable trends, and detection of opportunities for continual improvement of processes and the system itself.| 
 |Department    |Quality                                                                                                                
 |Categorie     |GDP                                                                                                                    
 
 ## REFERENCES AND ASSOCIATED DOCUMENTS
 
 ### References
-* CAPA 
+* [CAPA][YUISV]
 
 ## ROLES
 
