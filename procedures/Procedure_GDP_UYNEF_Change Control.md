@@ -19,38 +19,13 @@
 
 ## ROLES
 
-### Director of Quality
-* Oversees and supports Change Control (CC) activities.
-* Monitors the completion of CC identified actions.
-* Ensures that CC is trended and its effectiveness review forms part of the QMS management review process.
-
-### Quality Manager
-* Review and approve/reject/defer changes that impact the Medicinal Product or regulatory filing in the Change Control system.
-* Approve the Change Plan.
-
-### Quality
-* Document and manage changes.
-* Liaise with third parties e.g. CMOs/CPOs releasing product to market on changes that impact the QMS or regulatory filing.
-* Notify the relevant Responsible Person for the market(s) in question of any potential changes.
-* Assess all Changes for potential impact on marketed product and supply chain.
-* Tracks the progress on completion of defined change actions.
-* Present reports on the status of open change controls to quality management for review at management review meetings.
-
-### Regulatory
-* Review and approve/reject/defer changes that impact the regulatory filing.
-
-### Responsible Persons
-* Review and approve/reject/defer changes that impact the QMS and/or regulatory filing as appropriate.
-* Approve the change Plan.
-* Liaise with local Regulatory Authority on changes that impact local market.
-
-### Designated Person 
-* Review and approve/reject/defer changes that impacts the ASR or the Active Substances.
-
-### Change Owner
-* Raises proposal changes. 
-* Drives the approved change, liaising with relevant departments and/or Third Party.
-* Complete or delegates the CC defined actions.
+Role     |   Description    |   Who
+------   |   --------       |  ----
+Requester  | Oversees and supports change control activities  | Head of Quality
+Manager |  Approves/rejects/defers changes that impact the Medicinal Product or regulatory filing | Quality Manager
+Investigator  |  Documents and manages changes | Quality Officer
+Reviewer | Reviews all changes and liaise with Regulatory | Quality Manager, RP
+Regulatory | Reviews changes that impact regulatory filings | Regulatory
 
 ## PROCEDURE
 
