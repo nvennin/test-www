@@ -15,16 +15,12 @@
 
 ## ROLES
 
-### Quality
-* Schedule the GDP Quality Management Review meeting; at a minimum the meeting must be held once every six months. 
-* Review the agenda and draft presentation deck with the Chief Operations Officer in advance of the meeting. 
-* Ensure OMS performance measurement data /trends are collated in a timely manner for the Management Review meeting.
-* Ensure that records of the meeting are maintained and that actions are identified and recorded to generate any necessary improvements.
-* Draft and circulate the minutes of the GDP Quality Management Review. 
-* Track the progress of Corrective and Preventive Actions (CAPA’s) arising from the management review as per CAPA procedure that contribute to the continuous improvement of the Quality Management System.
-
-### Head of Pharmacovigilance 
-Compile and make available slides for the presentation of data summarising the performance relating to all Pharmacovigilance activities since the last meeting.
+Role     |   Description    |   Who
+------   |   --------       |  ----
+Requester  | Schedules the GDP Quality Management  | Quality Officer
+Reviewer | Reviews agenda and records of meetings| Quality Officer
+Responsible Person | Draft and circulate the minutes of the GDP Quality Management Review, and track the progress of CAPAs   | Quality Officer
+Contributor | Compile and make available slides about Pharmacovigilance activities | Head of Pharmacovigilance
 
 ## PROCEDURE
 
