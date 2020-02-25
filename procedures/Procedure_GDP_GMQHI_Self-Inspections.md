@@ -4,9 +4,7 @@
 
 |Item          |Details                                                                                                                 
 |--------------|-------| 
-|Purpose       |Describe the process for creating the Annual Self—Inspection Plan, scheduling, conducting, documenting, identification / implementation of corrective actions and closing of self—inspections for both announced and un-announced self-inspections.                                                |
-|              |Escalate critical findings and the trending of all findings for Quality Management meetings.                                                                                                                                                                                                       |
-|              |Evaluate the effectiveness of the system to maintain compliance to regulatory requirements, identify any non-conformities and to recommend improvements.                                                                                             
+|Purpose       |Describe the process for creating the Annual Self—Inspection Plan, scheduling, conducting, documenting, identification / implementation of corrective actions and closing of self—inspections for both announced and un-announced self-inspections. Escalate critical findings and the trending of all findings for Quality Management meetings.Evaluate the effectiveness of the system to maintain compliance to regulatory requirements, identify any non-conformities and to recommend improvements.                                                  
 |Department    |Quality                                                                                                                 
 |Categorie     |GDP                  
 
