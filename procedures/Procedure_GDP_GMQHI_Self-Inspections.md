@@ -19,22 +19,11 @@
 
 ## ROLES
 
-### Quality
-* Update the Self-Inspection Schedule and Tracker as appropriate.
-* Monitor the schedule of upcoming audits to ensure audits are planned and the auditee has sufficient time booked for planning, execution and reporting.
-* Escalate any overdue audits to senior management.
-
-### Auditor
-* Perform the audit
-* Agree CAPAs with the auditee
-* Issue the Audit Report listing all observation identified and agreed actions
-
-### Director of Quality/RP 
-* Oversee and support the audit programme for Self-Inspections
-* Ensure that self—inspections are carried out and any non—conformities are reported and CAPAs raised as required
-* Approve the Self-inspection Audit 
-* Ensure auditors are appropriately trained and/or experienced
-* Ensure self-inspection reports are reviewed and approved
+Role     |   Description    |   Who
+------   |   --------       |  ----
+Manager  | Update the Self-Inspection Schedule and monitor the schedule of upcoming audits  | Quality Officer
+Auditor |  Performs the audit | Quality Manager
+Responsible person  | Oversee and support audit programmes | Director of Quality, RP
 
 ## PROCEDURE
 
