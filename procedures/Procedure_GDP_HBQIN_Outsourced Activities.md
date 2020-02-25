@@ -22,26 +22,13 @@
 
 ## ROLES
 
-### Leadership Team
-The Leadership Team must identify a sourcing team composed of individuals from across the organisation who reflect the type of activity being outsourced. The team will include a Quality representative.
-
-### Head of Quality
-* Oversee and support management of Third Party Providers
-* Ensure only approved Third Party Providers are used
-* Ensure that the Third Party Providers comply with their Agreement with the company
-* Approve the Change Control associated with the addition or change to a Third Party Provider
-
-### Quality
-* Manage and document the process for evaluation, qualification, approval, and periodic review and monitoring of Third Party Providers.
-* Raise a change control for introduction/de-activation of Third Party Providers
-* Assist drafting of Quality Agreement as required
-* Assist in the monitoring review process
-
-### Local Responsible Persons
-* Oversee the qualification, approval and monitoring of GDP Third Party Providers.
-
-### Supply Chain
-* Support the management of Third Party Providers across the entire Supply chain.
+Role     |   Description    |   Who
+------   |   --------       |  ----
+Leader  | Identifies a sourcing team | Leadership team
+Supervisor |  Approves change controls linked with Third Party providers and oversees the process | Quality Manager
+Manager  |  Manages and documents process, monitors review process | Quality Officer
+Responsible Person | Oversees qualification, approval and monitoring of providers   | Responsible Person
+Support | Support management | Supply Chain
 
 ## PROCEDURE
 
