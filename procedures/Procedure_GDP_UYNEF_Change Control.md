@@ -55,9 +55,9 @@
 ## PROCEDURE
 
 ### Initiation of a Change 
-* Changes can arise as a result of a non—conformance, a change to an active Substance, product, process, premises, equipment, system or GXP change at a Third-Party Provider such as contract manufacturer or distributor or change in management systems that impacts the Regulatory Filing or ASR, MA and WDA. The change can also arise from a regulatory requirement, or safety related up date.
-* Upon identification of a requirement for a change, a *Change Management* Form is requested from Quality and completed by the Change Owner.
-* The proposed change is logged by the Quality Department in the *Change Request Register* and assigned a number in the format CR—XXX—YYYY where XXX is a sequential number and YYYY is the year in which the change request is initiated.
+* Changes can arise as a result of a non-conformance, a change to an active Substance, product, process, premises, equipment, system or GXP change at a Third-Party Provider such as contract manufacturer or distributor or change in management systems that impacts the Regulatory Filing or ASR, MA and WDA. The change can also arise from a regulatory requirement, or safety related up date.
+* Upon identification of a requirement for a change, a [Change Management][UYNEF] Form is requested from Quality and completed by the Change Owner.
+* The proposed change is logged by the Quality Department in the Change Request Register and assigned a number in the format CR—XXX—YYYY where XXX is a sequential number and YYYY is the year in which the change request is initiated.
 * The details of the Change Request are documented in the QUFORM—002-1 by the Change Owner including the classification of the change and proposal due date.
 * An assessment of the impact of the proposed change on process, products, controlled documents, regulatory compliance, and GDP systems should be performed by the Change Owner. Examples of activities and documents that may be impacted include:
   * Regulatory Filing submitted to regulatory Authority
@@ -74,7 +74,7 @@
 |Major              |A change that has the potential to have an adverse effect on the defined  product specifications (e.g. the identity, strength, quality, purity, potency, safety or effectiveness of a medicinal drug); A change that has potential impact to GXP processes (e.g. validated system used to perform regulated activities);A change that will required submitting of a variation to a Regulatory Fillings or Licenses (MAS, WDA or ASR)                                                                              |
 |Minor              |A change that does not impact the GXP processes, defined product specifications or Regulatory Fillings. |           
 
-* If change classification is determined to be Major, a separate risk assessment shall be completed in accordance with the procedure *Risk Management*.
+* If change classification is determined to be Major, a separate risk assessment shall be completed in accordance with the procedure [Quality Risk Management][LBHIY].
 
 ### Review and Approval/Rejection/Deferral of the Change
 * The Quality reviews the change plan details on the Change Management Form and supporting documents including the classification of the change and risk assessment if applicable. If further information is required, the form is returned to the Change Owner.
