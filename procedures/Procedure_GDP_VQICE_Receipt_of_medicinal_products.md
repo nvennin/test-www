@@ -20,10 +20,9 @@
 
 ## ROLES
 
-### Quality
-* Ensure compilation and review of in market batch release documentation from the supplier.
-* Perform the In Market release of Medicinal Product or Medical Devices for sale.
-* Ensure that all corrections to data in D365 observed prior to release are documented.
+Role     |   Description    |   Who
+------   |   --------       |  ----
+Reviewer | Reviews documentation of the supplier and ensure that all changes are documented | Quality Officer
 
 ## PROCEDURE
 
