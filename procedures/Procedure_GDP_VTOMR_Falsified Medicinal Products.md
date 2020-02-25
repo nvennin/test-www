@@ -22,26 +22,12 @@
 
 ## ROLES
 
-### Head of Quality
-* Oversee activities associated with a suspected/confirmed falsified medicine and ensures the activities are performed in a timely manner including notification to relevant Regulatory Authority(ies) of any falsified or suspected faisified Medicinal Products.
-* Ensure adequate systems are in place to ensure a robust supply chain with minimal potential for falsified product to be introduced into the suppLy chain.
-* Ensure the Medicinal Product Recall is initiated where appropriate.
-* Ensure future monitoring of CAPAs which are identified during the complaint/investigation recall process.
-
-### Quality
-* Notify Head of Quality and/or Responsible Person (RP) of suspected/confirmed falsified Medicinal Product in the supply chain.
-* Raise a complaint and document the management of the suspected/confirmed falsified Medicinal Product.
-* Monitor future CAPA effectiveness for the CAPAs which are identified during the complaint/recall process.
-
-### Responsible Persons (RP)
-* Coordinate activities associated with notification of a falsified or suspected falsified Medicinal Product in the supply chain.
-* Notify and liaise with the Regulatory Authority(ies) of any suspected or conﬁrmed falsified Medicinal Product.
-* Notify the Third Party where applicable and monitor progress of investigation including follow up actions.
-* Implement the recall procedure in the event of a suspected/confirmed falsified Medicinal Product where applicable.
-
-### Supply Chain
-* Notify Quality of a suspected/confirmed falsified Medicinal Product where applicable.
-* Support a complaint investigation and recall as required and provide relevant information such as procurement, customer and supplier records.
+Role     |   Description    |   Who
+------   |   --------       |  ----
+Manager | Manage activities associated with a suspected/confirmed falsified medicine  | Quality Manager
+Officer |  Notify Head of Quality and/or Responsible Person (RP) of suspected/confirmed falsified Medicinal Product and monitor future CAPA effectiveness | Quality Officer
+Responsible person  |  Coordinate activities and inform Regulatory and Third Parties | RP
+Supplier | Notify Quality of a suspected/confirmed falsified Medicinal Product and support complaint procedure | Supply Chain
 
 ## PROCEDURE
 
