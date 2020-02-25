@@ -14,7 +14,7 @@
 ### References
 
 * [Good Distribution Practice GDP guidelines 2013/c343/01][GDP Guidelines]
-* {Falsified Medicines Directive 2011/62/EU}
+* [Falsified Medicines Directive 2011/62/EU][GDP Guidelines]
 * [Glossary][QEAIC]
 * [Falsified Medicinal Products][VTOMR]
 
