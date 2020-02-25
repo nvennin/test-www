@@ -12,10 +12,10 @@
 
 ### References
 
-Glossary
-Quality Risk Management
-CAPA
-EU Commission Regulations 1234/2008
+* [Glossary][QEAIC]
+* [Quality Risk Management][LBHIY]
+* [CAPA][YUISV]
+* [EU Commission Regulations 1234/2008][GDP Guidelines]
 
 ## ROLES
 
@@ -45,7 +45,7 @@ EU Commission Regulations 1234/2008
 * Liaise with local Regulatory Authority on changes that impact local market.
 
 ### Designated Person 
-* Review and approve/reject/defer changes that impacts the ASR or the Active Substances/Active Pharmaceutical Ingredients (APIs).
+* Review and approve/reject/defer changes that impacts the ASR or the Active Substances.
 
 ### Change Owner
 * Raises proposal changes. 
@@ -55,7 +55,7 @@ EU Commission Regulations 1234/2008
 ## PROCEDURE
 
 ### Initiation of a Change 
-* Changes can arise as a result of a non—conformance, a change to an active Substance/API, product, process, premises, equipment, system or GXP change at a Third-Party Provider such as contract manufacturer or distributor or change in management systems that impacts the Regulatory Filing or ASR, MA and WDA. The change can also arise from a regulatory requirement, or safety related up date.
+* Changes can arise as a result of a non—conformance, a change to an active Substance, product, process, premises, equipment, system or GXP change at a Third-Party Provider such as contract manufacturer or distributor or change in management systems that impacts the Regulatory Filing or ASR, MA and WDA. The change can also arise from a regulatory requirement, or safety related up date.
 * Upon identification of a requirement for a change, a *Change Management* Form is requested from Quality and completed by the Change Owner.
 * The proposed change is logged by the Quality Department in the *Change Request Register* and assigned a number in the format CR—XXX—YYYY where XXX is a sequential number and YYYY is the year in which the change request is initiated.
 * The details of the Change Request are documented in the QUFORM—002-1 by the Change Owner including the classification of the change and proposal due date.
@@ -71,7 +71,7 @@ EU Commission Regulations 1234/2008
 
 |Classification     |Description                                                                                             |
 |-------------------|--------------------------------------------------------------------------------------------------------|
-|Major              |A change that has the potential to have an adverse effect on the defined  product specifications (e.g. the identity, strength, quality, purity, potency, safety or effectiveness of a medicinal drug or API); A change that has potential impact to GXP processes (e.g. validated system used to perform regulated activities);A change that will required submitting of a variation to a Regulatory Fillings or Licenses (MAS, WDA or ASR)                                                                              |
+|Major              |A change that has the potential to have an adverse effect on the defined  product specifications (e.g. the identity, strength, quality, purity, potency, safety or effectiveness of a medicinal drug); A change that has potential impact to GXP processes (e.g. validated system used to perform regulated activities);A change that will required submitting of a variation to a Regulatory Fillings or Licenses (MAS, WDA or ASR)                                                                              |
 |Minor              |A change that does not impact the GXP processes, defined product specifications or Regulatory Fillings. |           
 
 * If change classification is determined to be Major, a separate risk assessment shall be completed in accordance with the procedure *Risk Management*.
