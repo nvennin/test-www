@@ -12,8 +12,8 @@
 
 ### References
 
-* Change Management
-* Glossary
+* [Change Management][UYNEF]
+* [Glossary][QEAIC]
 
 ## ROLES
 
@@ -68,7 +68,7 @@
 * Upon approval of the artwork, the nominated Regulatory Affairs reviewer uploads the completed ARC to the EAMS as a record that all actions have been completed in advance of approval being granted.
 * Once approved, artwork can be submitted to the Health Authority (if required).
 * Once HA approval is granted or Regulatory approval is given (where no HA submission is required) the Artwork Studio will prepare artwork package and send to the CMO for printer proofs to be created.
-* If the HA rejects or requests changes, this will be annotated by the nominated Regulatory Affairs reviewer. A new version will be created, this will need to be approved internally before being re— submitted to the Health Authority for approval again.
+* If the HA rejects or requests changes, this will be annotated by the nominated Regulatory Affairs reviewer. A new version will be created, this will need to be approved internally before being resubmitted to the Health Authority for approval again.
 * When proofs are received from the CMO they are sent to Regulatory Affairs/Artwork & Labelling Department to verify that no changes, from the approved artwork, have been made to regulated content.
 
 ### Implementation Strategy
