@@ -26,31 +26,10 @@
 
 Role     |   Description    |   Who
 ------   |   --------       |  ----
-Manager  | Oversee the process and ensure this procedure is well followed  | Director of Quality
-Manager |  Approves non-GDP deviations and oversees the process | Quality Officer
-Investigator  |  Investigates deviations | Quality Officer
-Reviewer | Reviews deviations and CAPA plan | Quality Manager, RP, other stakeholders
-Responsible Person | Approves GDP deviations   | Responsible Person
-Regulatory | Reviews deviations that impact regulatory filings | Regulatory
-
-### Quality
-* Obtain and confirm the bona fides of a new supplier or customer prior to approval.
-* Verify the bona fides for each supplier and customer.
-* Add approved suppliers to supplier register as per [Outsourced Activities][HBQIN]. Add approved customers to the bona fide tracker upon approval of the Bona Fides.
-* Perform annual review to confirm bona fides of suppliers and customers.
-* Maintain a bona fide tracker to ensure timely review on a periodic basis of Supplier and Customer Bona fide licence approval status.
-* Perform routine reviews of customers and suppliers to detect compliance issues.
-
-### Responsible Person
-* Ensure that appropriate bona fides have been confirmed and are held on file for all suppliers and customers for products covered under Regulatory Licences or Authorisations as appropriate.
-* Ensure completed bona fides are reviewed and approved by appropriately trained personnel.
-* Ensure only approved suppliers are added to the Approved Supplier Register.
-* Ensure the annual review of bona fides is scheduled and completed.
-* Ensure customers and suppliers are reviewed to detect any compliance issues.
-* In conjunction with the Director of Quality, make a decision with regard to the continued use of a supplier or customer who is subject to a non-compliance rating or EU Notice of Non-compliance.
-
-### Quality and Local RPs
-* Subscribe to appropriate Regulatory Agency notification system for notification of suspension, revocation or cancellations of licences or authorisations.
+Manager |  Oversees the process of establishing new suppliers | Quality Officer
+Reviewer | Ensure review of bona fides | Quality Manager, RP
+Responsible Person | Verify application of good practices   | Responsible Person
+Regulatory | Subscribe to appropriate Regulatory Agency notification system for any notification of licences or authorisations | Quality officer, local RPs
 
 ## PROCEDURE
 
