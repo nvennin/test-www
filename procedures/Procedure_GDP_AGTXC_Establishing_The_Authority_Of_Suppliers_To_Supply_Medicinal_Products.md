@@ -106,7 +106,7 @@ Anyone who performs the tasks as outlined in this procedure must first complete 
 [LBHIY]: /procedures/Procedure_GDP_LBHIY_Quality_Risk_Management.md
 [ZWJPR]: /procedures/Procedure_GDP_ZWJPR_Training.md
 [VQICE]: /procedures/Procedure_GDP_VQICE_Receipt_of_medicinal_products.md
-[AGTXC]: /procedures/Procedure_GDP_AGTXC_Establishing_the_authority_of_suppliers_to_supply_medicinal_products.md
+[AGTXC]: /procedures/Procedure_GDP_AGTXC_Establishing_The_Authority_Of_Suppliers_To_Supply_Medicinal_Products.md
 [ZIWKI]: /procedures/Procedure_GDP_ZIWKI_Customer_complaints.md
 [VOZWP]: /procedures/Procedure_GDP_VOZWP_Recall_procedure.md
 [HBQIN]: /procedures/Procedure_GDP_HBQIN_Outsourced_activities.md
