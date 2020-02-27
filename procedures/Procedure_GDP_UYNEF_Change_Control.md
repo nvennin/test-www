@@ -2,11 +2,11 @@
 
 ## Header
 
-|Item          |Details                                                                                                                 
-|--------------|--------| 
-|Purpose       |describing the process for manage any changes impacting GDP processes and regulatory filing related to products marketed or distributed                                                                                                                         
-|Department    |Quality                                                                                                                 
-|Categorie     |GDP                                                                                                                     
+|Item          |Details |
+|--------------|--------|
+|Purpose       |Describing the process for manage any changes impacting GDP processes and regulatory filing related to products marketed or distributed |
+|Department    |Quality |
+|Category    |GDP  |
 
 ## REFERENCES AND ASSOCIATED DOCUMENTS
 
@@ -17,23 +17,27 @@
 * [CAPA][YUISV]
 * [EU Commission Regulations 1234/2008][GDP Guidelines]
 
-## ROLES
+## Roles
 
 Role     |   Description    |   Who
 ------   |   --------       |  ----
-Requester  | Oversees and supports change control activities  | Head of Quality
-Manager |  Approves/rejects/defers changes that impact the Medicinal Product or regulatory filing | Quality Manager
-Investigator  |  Documents and manages changes | Quality Officer
-Reviewer | Reviews all changes and liaise with Regulatory | Quality Manager, RP
-Regulatory | Reviews changes that impact regulatory filings | Regulatory
+Change Owner | Business owner of a change | Anyone
+Quality |  Approves changes | Quality Manager
+Action Owner | Responsible for performing an action identified in the Change Plan | Anyone
 
-## PROCEDURE
+## Procedure
 
-### Initiation of a Change 
-* Changes can arise as a result of a non-conformance, a change to an active Substance, product, process, premises, equipment, system or GXP change at a Third-Party Provider such as contract manufacturer or distributor or change in management systems that impacts the Regulatory Filing or ASR, MA and WDA. The change can also arise from a regulatory requirement, or safety related up date.
-* Upon identification of a requirement for a change, a [Change Management][UYNEF] Form is requested from Quality and completed by the Change Owner.
-* The proposed change is logged by the Quality Department in the Change Request Register and assigned a number in the format CR—XXX—YYYY where XXX is a sequential number and YYYY is the year in which the change request is initiated.
-* The details of the Change Request are documented in the QUFORM—002-1 by the Change Owner including the classification of the change and proposal due date.
+### Initiation of a Change
+
+* The following changes are in-scope for this procedure, whether conducted at the company or at an external provider. Changes to:
+  * Products
+  * Procedures
+  * Premises
+  * Equipments
+  * Systems
+  * Regulatory filings
+* Upon identification of a requirement for a change, the Change Owner creates a GitHub issues with the "CHANGE REQUEST" label.
+* All details of the Change Request are documented in the Issue by the Change Owner according to the template CHANGE REQUEST issue.
 * An assessment of the impact of the proposed change on process, products, controlled documents, regulatory compliance, and GDP systems should be performed by the Change Owner. Examples of activities and documents that may be impacted include:
   * Regulatory Filing submitted to regulatory Authority
   * Third Party Provider of GDP activities e.g. CMOs/CPOs
@@ -41,18 +45,19 @@ Regulatory | Reviews changes that impact regulatory filings | Regulatory
   * Procedures and forms
   * Quality Technical Agreements
   * Validated processes or systems
-* A Change Plan that details actions associated with the change, the actionee(s) and due date(s) are documented on the Change Management Form.
+* A Change Plan that details actions associated with the change, the owner of the actions and due dates are documented on the GitHub issue. All stakeholders are assigned to the issue in order to receive all notifications and updatess.
 * The change is classified based on its potential impact upon the GDP processes or product quality, safety and efficacy. The table below describes the classification of the changes:
 
-|Classification     |Description                                                                                             |
-|-------------------|--------------------------------------------------------------------------------------------------------|
-|Major              |A change that has the potential to have an adverse effect on the defined  product specifications (e.g. the identity, strength, quality, purity, potency, safety or effectiveness of a medicinal drug); A change that has potential impact to GXP processes (e.g. validated system used to perform regulated activities);A change that will required submitting of a variation to a Regulatory Fillings or Licenses (MAS, WDA or ASR)                                                                              |
-|Minor              |A change that does not impact the GXP processes, defined product specifications or Regulatory Fillings. |           
+|Classification     |Description   |
+|-------------------|---------|
+|Major              |A change that has the potential to have an adverse effect on the defined product specifications (e.g. the identity, strength, quality, purity, potency, safety or effectiveness of a medicinal drug); A change that has potential impact to GxP processes; A change that requires submitting of a variation to a regulatory filings or license. |
+|Minor              |A change that does not impact the GXP processes, defined product specifications or regulatory filings. |
 
 * If change classification is determined to be Major, a separate risk assessment shall be completed in accordance with the procedure [Quality Risk Management][LBHIY].
 
 ### Review and Approval/Rejection/Deferral of the Change
-* The Quality reviews the change plan details on the Change Management Form and supporting documents including the classification of the change and risk assessment if applicable. If further information is required, the form is returned to the Change Owner.
+
+* Quality reviews the change plan details on the GitHub issue and supporting documents including the classification of the change and risk assessment if applicable. The Change Owner is notified if he needs to provide further information.
 * The review of each change case shall include the following matters:
   * The change is justified.
   * The classification associated with the change is appropriate.
@@ -62,29 +67,24 @@ Regulatory | Reviews changes that impact regulatory filings | Regulatory
   * Third party e.g. CMO or CPO, Wholesaler/distributor and Qualified Person are to be notified of the change.
   * All other changes and actions required as a result of the change have been identified through impact assessment and/or risk assessment and recorded in the Change Plan.
   * Appropriate training needs and methodologies have been identified.
-  * Proposed change impacts on any other open change controls.
-* The Change plan accepted by QA shall forwarded to the Regulatory representative (RA) or Supply-Chain representative (SC), where appropriate, to accept/reject/deferrer the change proposal.
+  * Proposed change impacts on any other open change request.
+  * All functional representatives affected by the change have reviewed the change
 
 ### Implementation and Close Out of the Change
-* The time frame for the completion of the proposed change and associated actions is set and the progress is monitored.
-* The Quality Department gathers evidence (where applicable) and documents the completion of all actions required for implementation of change. 
+
+* Progress against the timeline set by the Change Owner is monitored.
+* Action owners document the completion of all actions required for implementation of change.
 
 ### Change Effectiveness Check
-* Quality Manager will determine if an effectiveness check is required during the Close Out. The type and expected outcome of a change will be used to determine if an effectiveness check is required.
-* Effectiveness checks should be performed where the objective of the change was intended to bring about a quantitative change in performance which can be assessed against historical data.
-* Effectiveness checks will also be appropriate for some types of changes to Quality Systems where a change in performance or efficiency (cycle-time) is expected. 
-* The Effectiveness Check will be assigned to a suitable person and a due date will be allocated. 
-* Quality Management also monitors the effectiveness of the change via:
-  * Internal Audits
-  * Management Review Meetings
-  * Complaints
 
-### Trend Analysis
-* A report on the status of open Change Controls will be compiled on a basis and presented at the Quality Management Review Meeting. 
-* An annual trend report will be compiled by Quality and communicated to the Leadership Team, Quality and Regulatory.
+* Effectiveness checks should be performed where the objective of the change was intended to bring about a quantitative change in performance which can be assessed against historical data.
+* Quality will determine if an effectiveness check is required during the Close Out. The type, importance, and expected outcome of a change will be used to determine if an effectiveness check is required.
+* If that's the case, Quality will label the GitHub Issue with "EFFECTIVENESS CHECK REQUIRED"
+* The Effectiveness Check will be assigned to a suitable person and a due date will be allocated.
 
 ## TRAINING 
-* Anyone who is involved must complete read and understand training on this procedure.
+
+* Anyone who is involved must read this procedure.
 
 [GMP Guidelines]: https://ec.europa.eu/health/documents/eudralex/vol-4_en]
 [GDP Guidelines]: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2013:343:0001:0014:EN:PDF
