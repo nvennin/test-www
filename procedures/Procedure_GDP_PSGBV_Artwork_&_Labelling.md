@@ -4,9 +4,9 @@
 
 |Item          |Details                                                                                    | 
 |--------------|-------------------------------------------------------------------------------------------| 
-|Purpose       |describing the process and control for the development, review and approval of artwork and labelling components for products            | 
+|Purpose       |Describing the process and control for the development, review and approval of artwork and labelling components for products.  | 
 |Department    |Quality                                                                                    |   
-|Categorie     |GDP                                                                                        | 
+|Category     |GDP                                                                                        | 
 
 ## REFERENCES AND ASSOCIATED DOCUMENTS
 
@@ -19,36 +19,36 @@
 
 Role     |   Description    |   Who
 ------   |   --------       |  ----
-Regulatory  | Identify packaging components that require updating and review artwork | Regulatory affairs
-Initiator |  Initiate projects in the EAMS, develop artwork and manage approval process | Artwork Design Studio
-Reviewer | Reviews documentation| Artwork & Labelling department
-Responsible Person | Manages approved change requests and communicate with other parts   | Artwork & Labelling department
+Regulatory Reviewer  | Identify packaging components that require updating and review artwork | Regulatory affairs
+Artworks Manager |  Initiate requests, develop artwork and manage approval process | Artworks
+Responsible Person | Manages approved change requests and communicate with other parts   | Artwork
 
 ## PROCEDURE
 
 ### Artwork Update Process
-* An approved change request must be available indicating that an artwork change is required and approved by the business. An action to initiate an ACRF will be included for Regulatory Affairs
-* Regulatory Affairs will complete all mandatory fields as required and send the ACRF to the Artwork & Labelling Department for approval. The ACRF must be sent with annotated pdfs or labelling text to indicate required changes.
-* Artwork & Labelling department reviews the ACRF and assigns an Artwork Project Number.
-* Artwork & Labelling department updates master labelling text and local labelling text.
-* Artwork & Labelling department send the ACRF to the Planning department. Planning input the manufacturing site and the date of the next planned production. The planner will then return form to the Artwork & Labelling department.
-* Artwork & Labelling department completes the ACRF, prints and signs.
-* The approved ACRF and all annotated pdfs/updated labelling text are sent to the Artwork Studio as notification of required update.
-* Artwork Studio creates a new project in the EAMS and upload new version of the artwork.
+
+* An artwork change request is formulated through a GitHub Issue that details the change and its reasons, following the template artwork change request. The issue is labelled 'ARTWORK CHANGE REQUEST".
+* A Regulatory Reviewer will review the proposed changes and formulates comments.
+* Planning if informed of the change so that it can inform the manufacturing site of the change
+* Artowrk Manager coordinates the execution of the changes with the artwork studio.
 * Once the new version of the artwork is available a notification is sent to Regulatory Affairs advising that the artwork is available for review and approval.
+* The artwork index entry for the older artwork is updated with a deprecation date
 
 ### Artwork Review and Approval Responsibilities
-* Regulatory Affairs is responsible for all regulated content (text,tables, blue box info etc). Regulatory Affairs approval confirms the artwork is in compliance with legal labelling regulations and the approved MA license.
-* The nominated Regulatory Affairs reviewer reviews the artwork mock up on EAMS. The checklist is used as a guidance to ensure that all aspects of the artwork are reviewed.
-* RA annotate any required changes in the EAMS for action by the Artwork Studio. Once amendment made the artwork is sent to the RA for review until approved.
-* Upon approval of the artwork, the nominated Regulatory Affairs reviewer uploads the completed ARC to the EAMS as a record that all actions have been completed in advance of approval being granted.
-* Once approved, artwork can be submitted to the Health Authority (if required).
-* Once HA approval is granted or Regulatory approval is given (where no HA submission is required) the Artwork Studio will prepare artwork package and send to the CMO for printer proofs to be created.
-* If the HA rejects or requests changes, this will be annotated by the nominated Regulatory Affairs reviewer. A new version will be created, this will need to be approved internally before being resubmitted to the Health Authority for approval again.
-* When proofs are received from the CMO they are sent to Regulatory Affairs/Artwork & Labelling Department to verify that no changes, from the approved artwork, have been made to regulated content.
 
-### Implementation Strategy
-* Artwork coordinates the implementation strategy for the new artwork in consultation with Planning and Regulatory based on the information provided in the ACRF.
+1. Regulatory Affairs review
+   * Regulatory Affairs is responsible for all regulated content (text,tables, blue box info etc). Regulatory Affairs approval confirms the artwork is in compliance with legal labelling regulations and the approved MA license.
+   * The Regulatory Reviewer reviews the artwork using the checklist included in the template artwork change request.
+2. Health Authority review (if applicable)
+   * Artworks are then  be submitted to the Health Authority if required.
+   * If the HA rejects or requests changes, this will be annotated in the GitHub issues by the Regulatory Reviewer. A new version will be created, which will need to be approved internally before being resubmitted to the Health Authority for approval again.
+3. Proofing at CMO
+   * Once HA approval is granted or Regulatory approval is given (where no HA submission is required), or earlier if the business requests it, the Artwork Studio will prepare artwork package and send to the CMO for printer proofs to be created.
+   * When proofs are received from the CMO they checked against the approved artwork to ensure they conform
+4. Update of records
+   * After steps 1, 2 and 3 have been validated, the artwork index is updated with the new artwork and its applicability date
+
+
 
 ## TRAINING
 Anyone involved with the management or approval of Artwork must first complete read and understand training on this procedure.
