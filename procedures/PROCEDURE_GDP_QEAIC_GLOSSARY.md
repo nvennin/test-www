@@ -131,13 +131,13 @@ Contract Giver		  |Party contracting out the specified work on behalf of the Lic
 Contract Manufacturing Organization   |	An organization external to the company that performs under an approved written agreement identified manufacturing, testing, packaging, labelling, control, distribution, warehousing and / or other GXP activities and operations associated with commercial products or clinical trial materials, referred to as CSPs in this SOP
 Controlled Drug		  |A controlled drug is any substance, product or preparation specified in the Schedule of Misuse of Drugs Regulations 2017
 Critical Complaint	  |	A post distribution Product Quality Complaint where there is significant evidence to suggest that distributed product may be defective in the following sub—categories:
-				* Identity: Potentially fail to meet product identity requirements i.e. mixed product, mislabelling.
-				* Supply Chain Integrity: Potentially falsified or counterfeit product (see expedited investigations) Confirmation of illegitimate product requires the Quarantine of suspect product and the notification to trading partners & Competent Authority of the situation (FAR/BPDR)
-				* Quality: Potentially fail to meet product specifications.
-				* Package Integrity: Potential failure of the primary package to provide suitable product protection.
-				* Purity: Potentially contamination safety, efficacy and purity requirements
-				* Atypical Trend: Generate or be generating significantly elevated levels of a single type of complaint for a given batch or product
-				* Safety/Efficacy: Adverse Event or Quality Defect that results in a product recall
+>Identity: Potentially fail to meet product identity requirements i.e. mixed product, mislabelling.
+				>Supply Chain Integrity: Potentially falsified or counterfeit product (see expedited investigations) Confirmation of illegitimate product requires the Quarantine of suspect product and the notification to trading partners & Competent Authority of the situation (FAR/BPDR)
+				>Quality: Potentially fail to meet product specifications.
+				>Package Integrity: Potential failure of the primary package to provide suitable product protection.
+				>Purity: Potentially contamination safety, efficacy and purity requirements
+				>Atypical Trend: Generate or be generating significantly elevated levels of a single type of complaint for a given batch or product
+				>Safety/Efficacy: Adverse Event or Quality Defect that results in a product recall
 Critical Quality Defect   |	A quality defect that is potentially life threatening or could pose a serious risk to patient health.
 Customer 		  |	Any individual or entity, except for patients or end consumers, to whom company promotes or sells or could promote or sell products, including but not limited to wholesalers, distributors, pharmacies, HCPs, other relevant decision makers.
 * Data 				Any record, in paper and electronic format (or exact copy of the record) that is the result of original observations and activities and is necessary for the accurate and complete reconstruction and evaluation of those activities. Data includes but is not limited to, individual facts, tests, specimens, samples, results, statistics, and items of information or statements by an individual.
