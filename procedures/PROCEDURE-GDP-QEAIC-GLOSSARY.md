@@ -2,8 +2,12 @@
 
 ## Abbreviations and Acronyms
 
-* AE          Adverse Event
-* ALCOA		Attributable, Legible, Contemporaneous, Original, Accurate
+* AE
+  Adverse Event
+
+* ALCOA		
+  Attributable, Legible, Contemporaneous, Original, Accurate
+
 * ALCOA+	Attributable Legible, Contemporaneous, Original, Accurate, + Complete, Consistent, Enduring and Available
 * ASL		Approved Suppliers List
 * BF		Bona Fide
