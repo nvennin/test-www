@@ -1,4 +1,4 @@
-# PROCEDURE-GDP-QEAIC-GLOSSARY 
+# GLOSSARY 
 
 ## Abbreviations and Acronyms
 
