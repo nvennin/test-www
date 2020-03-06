@@ -3,7 +3,7 @@
 ## Abbreviations and Acronyms
 
 * AE
-  Adverse Event
+  * Adverse Event
 
 * ALCOA		
   Attributable, Legible, Contemporaneous, Original, Accurate
