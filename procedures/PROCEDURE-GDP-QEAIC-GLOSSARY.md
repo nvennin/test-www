@@ -2,11 +2,9 @@
 
 ## Abbreviations and Acronyms
 
-* AE
-  * Adverse Event
+* AE : Adverse Event
 
-* ALCOA		
-  Attributable, Legible, Contemporaneous, Original, Accurate
+* ALCOA	: Attributable, Legible, Contemporaneous, Original, Accurate
 
 * ALCOA+	Attributable Legible, Contemporaneous, Original, Accurate, + Complete, Consistent, Enduring and Available
 * ASL		Approved Suppliers List
