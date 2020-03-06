@@ -93,42 +93,44 @@ WDA	|	Wholesale Distribution Authorisation
 
 ## Definitions
 
-* Accurate			Free from error and conforming exactly to a standard. There should be no editing performed without documented amendments.
-* Adverse Event			An untoward medical occurrence after exposure to a medicine, which is not necessarily caused by that medicine.
-* Affiliate			Any company which controls, is controlled by, or is under common control of another.
-* Approved Call Centre		Contracted external call centre service provider for management of product complaint/adverse event intake and follow up.
-* Approved Suppliers List	A list of approved Contractors/ Suppliers that meet company's requirements for the activity to be performed and have been accepted by Quality following approval via the Qualification process.
-* Approved Status		"Approved" status is applied to bulk or packaged product once in market disposition has been performed and the batch is suitable for market distribution, Materials require further review by GA to determine their final status.
-* Approver			The person who gives permission for a Policy, SOP or other controlled document to become effective. Approvers can also be Reviewers, but not Authors within a single document.
-* Attributable			Data must be Einked to its source. It should be attributable to the individual who observed and recorded the data, as well as traceable to the source of the data itself.
-* Audit				A documented inspection and review of activities, facilities, operations and / or procedures in order to evaluate and determine conformance with GxP by Quality. A desktop audit may also consist of the review and assessment of documents and records by an internal multifunctional team and approved by the QLT.
-* Audit Trail			GXP audit trails are meta-data that are a record of GXP critical information which permit the reconstruction of GxP Activities.
-* Author			One or more people who write a Policy, SOP or other controlled document, Authors cannot be Reviewers or Approvers within a single document.
-* Authorised Delegate		A person or entity, who is appointed, authorized, delegated, or commissioned to act in the place of another.
-* Available			Data must be available and accessible for the review and audit for the lifetime of the records
-* Batch Record			Collection of executed manufacturing instructions and supporting documentation associated with the manufacture of a specific batch.
-* Batch Specific Request	The National Regulatory Authority may consider a batch specific request application from a Marketing Holder (MAH) in order to ensure the continued supply of a medicine on the market. Such applications may be appropriate when product in full compliance with its registered Marketing Authorisation dossier is temporarily unavailable or where action is proposed to bring a batch into compliance with the registered details. As part of any such request the MAH must provide assurance that the deviation from the registered MA is minor and non—critical and/or propose appropriate action to address the deﬁciency. Batch specific requests are limited in duration (normally no longer than three months) and can only be submitted for authorised medicines.
-* Bona Fides			Information that confirms a manufacturer is authorised to manufacture and supply medicinal products or a wholesaler is authorised to receive medicinal products and supply them onwards to other wholesalers, pharmacies or persons who are authorised to receive the medicinal products, as confirmed or granted by the appropriate Regulatory Authority.
-* Business Partner		Any individual or entity that company would enter into a contractual business relationship with, including vendors, suppliers, Joint Venture partners, formal business partners, or agents, consultants, and any other third—party intermediaries acting on company's behalf. Business partners also include any merger and acquisition targets, and informal business partners.
-* CAPA				Corrective Action Preventive Action is a combination of corrective and preventive measures that correct and prevent non-conformities/deviations.
-* CAPA Owner			The person who is responsible for execution and completion of the CAPA within a defined timeframe.
-* Cause and Effect		Diagrams used to identify potential causes and effects of failures.
-* Certificate of Analysis	An approved record for a given batch containing the analytical test results required by the specifications for the product or material.
-* Certificate of Compliance	Certificate including a statement of compliance for a specific batch and may contain the disposition decision
-* Change Request		A proposed change to an established process or procedure that has been pre-approved by QA.
-* Charitable Donation or Donation	Provision of funds or equipment to charitable organisations, medical associations, or other non—proﬁt entities, excluding HCOs, to support their charitable or philanthropic aims. Donations may be unsolicited or solicited.
-* Complainant			Any person reporting a complaint, such as a heaithcare professional, patient or pharmacy.
-* Computer System		A computer / automated system consisting of the hardware, software and network components, together with the controlled functions and associated documentation. The term covers a broad range of systems containing computer elements including automated manufacturing equipment, automated laboratory instruments, process control, manufacturing execution, information management, databases, and software applications. Equipment that is not controlled by computer systems or computer components is not considered a Computer System.
-* Computer System Audit		An examination of the procedures used in a computer system to evaluate their effectiveness and correctness and to recommend improvements
-* Computer System Development Life Cycle	All activities from initial concept to retirement of a computer system. The life cycle of the system includes the defining of and performance of activities in a systematic way from conception, requirements, development or configuration, testing, release and operational use, to system retirement.
-* Computer System Validation (CSV)	Computer System Validation (CSV) is a process used to ensure (and document) that a computer-based system will produce information or data that meet a set of defined requirements in a consistent and reproducible manner.
-* Confirmed Complaint		A product quality complaint where a product defect was confirmed through the receipt of a complaint sample and/or by the complaint investigation.
-* Contemporaneous		Data should be recorded at the time the observation is made and the date of data entry.
-* Continuing Medical Education (CME)	Objective, independent information designed to enable HCPs to keep up-to—date with developments in medicine as a whole, or within a particular therapeutic area or other specialism.
-* Contract Giver		Party contracting out the specified work on behalf of the License Holder
-* Contract Manufacturing Organization 	An organization external to the company that performs under an approved written agreement identified manufacturing, testing, packaging, labelling, control, distribution, warehousing and / or other GXP activities and operations associated with commercial products or clinical trial materials, referred to as CSPs in this SOP
-* Controlled Drug		A controlled drug is any substance, product or preparation specified in the Schedule of Misuse of Drugs Regulations 2017
-* Critical Complaint		A post distribution Product Quality Complaint where there is significant evidence to suggest that distributed product may be defective in the following sub—categories:
+Term    |   Definition    
+------   |   --------      
+Accurate	  |		Free from error and conforming exactly to a standard. There should be no editing performed without documented amendments.
+Adverse Event		  |	An untoward medical occurrence after exposure to a medicine, which is not necessarily caused by that medicine.
+Affiliate		  |	Any company which controls, is controlled by, or is under common control of another.
+Approved Call Centre	  |	Contracted external call centre service provider for management of product complaint/adverse event intake and follow up.
+Approved Suppliers List	  |A list of approved Contractors/ Suppliers that meet company's requirements for the activity to be performed and have been accepted by Quality following approval via the Qualification process.
+Approved Status	  |	"Approved" status is applied to bulk or packaged product once in market disposition has been performed and the batch is suitable for market distribution, Materials require further review by GA to determine their final status.
+Approver	  |		The person who gives permission for a Policy, SOP or other controlled document to become effective. Approvers can also be Reviewers, but not Authors within a single document.
+Attributable	  |		Data must be Einked to its source. It should be attributable to the individual who observed and recorded the data, as well as traceable to the source of the data itself.
+Audit			  |	A documented inspection and review of activities, facilities, operations and / or procedures in order to evaluate and determine conformance with GxP by Quality. A desktop audit may also consist of the review and assessment of documents and records by an internal multifunctional team and approved by the QLT.
+Audit Trail	  |		GXP audit trails are meta-data that are a record of GXP critical information which permit the reconstruction of GxP Activities.
+Author			  |One or more people who write a Policy, SOP or other controlled document, Authors cannot be Reviewers or Approvers within a single document.
+Authorised Delegate  |		A person or entity, who is appointed, authorized, delegated, or commissioned to act in the place of another.
+Available	  |		Data must be available and accessible for the review and audit for the lifetime of the records
+Batch Record		  |	Collection of executed manufacturing instructions and supporting documentation associated with the manufacture of a specific batch.
+Batch Specific Request	  |The National Regulatory Authority may consider a batch specific request application from a Marketing Holder (MAH) in order to ensure the continued supply of a medicine on the market. Such applications may be appropriate when product in full compliance with its registered Marketing Authorisation dossier is temporarily unavailable or where action is proposed to bring a batch into compliance with the registered details. As part of any such request the MAH must provide assurance that the deviation from the registered MA is minor and non—critical and/or propose appropriate action to address the deﬁciency. Batch specific requests are limited in duration (normally no longer than three months) and can only be submitted for authorised medicines.
+Bona Fides	  |		Information that confirms a manufacturer is authorised to manufacture and supply medicinal products or a wholesaler is authorised to receive medicinal products and supply them onwards to other wholesalers, pharmacies or persons who are authorised to receive the medicinal products, as confirmed or granted by the appropriate Regulatory Authority.
+Business Partner	  |	Any individual or entity that company would enter into a contractual business relationship with, including vendors, suppliers, Joint Venture partners, formal business partners, or agents, consultants, and any other third—party intermediaries acting on company's behalf. Business partners also include any merger and acquisition targets, and informal business partners.
+CAPA		  |		Corrective Action Preventive Action is a combination of corrective and preventive measures that correct and prevent non-conformities/deviations.
+CAPA Owner		  |	The person who is responsible for execution and completion of the CAPA within a defined timeframe.
+Cause and Effect	  |	Diagrams used to identify potential causes and effects of failures.
+Certificate of Analysis	  |An approved record for a given batch containing the analytical test results required by the specifications for the product or material.
+Certificate of Compliance  |	Certificate including a statement of compliance for a specific batch and may contain the disposition decision
+Change Request		  |A proposed change to an established process or procedure that has been pre-approved by QA.
+Charitable Donation or Donation	  | Provision of funds or equipment to charitable organisations, medical associations, or other non—proﬁt entities, excluding HCOs, to support their charitable or philanthropic aims. Donations may be unsolicited or solicited.
+Complainant		  |	Any person reporting a complaint, such as a heaithcare professional, patient or pharmacy.
+Computer System	  |	A computer / automated system consisting of the hardware, software and network components, together with the controlled functions and associated documentation. The term covers a broad range of systems containing computer elements including automated manufacturing equipment, automated laboratory instruments, process control, manufacturing execution, information management, databases, and software applications. Equipment that is not controlled by computer systems or computer components is not considered a Computer System.
+Computer System Audit	  |	An examination of the procedures used in a computer system to evaluate their effectiveness and correctness and to recommend improvements
+Computer System Development Life Cycle	  |All activities from initial concept to retirement of a computer system. The life cycle of the system includes the defining of and performance of activities in a systematic way from conception, requirements, development or configuration, testing, release and operational use, to system retirement.
+Computer System Validation (CSV)  |	Computer System Validation (CSV) is a process used to ensure (and document) that a computer-based system will produce information or data that meet a set of defined requirements in a consistent and reproducible manner.
+Confirmed Complaint	  |	A product quality complaint where a product defect was confirmed through the receipt of a complaint sample and/or by the complaint investigation.
+Contemporaneous	  |	Data should be recorded at the time the observation is made and the date of data entry.
+Continuing Medical Education (CME)	  |Objective, independent information designed to enable HCPs to keep up-to—date with developments in medicine as a whole, or within a particular therapeutic area or other specialism.
+Contract Giver		  |Party contracting out the specified work on behalf of the License Holder
+Contract Manufacturing Organization   |	An organization external to the company that performs under an approved written agreement identified manufacturing, testing, packaging, labelling, control, distribution, warehousing and / or other GXP activities and operations associated with commercial products or clinical trial materials, referred to as CSPs in this SOP
+Controlled Drug		  |A controlled drug is any substance, product or preparation specified in the Schedule of Misuse of Drugs Regulations 2017
+Critical Complaint	  |	A post distribution Product Quality Complaint where there is significant evidence to suggest that distributed product may be defective in the following sub—categories:
 				* Identity: Potentially fail to meet product identity requirements i.e. mixed product, mislabelling.
 				* Supply Chain Integrity: Potentially falsified or counterfeit product (see expedited investigations) Confirmation of illegitimate product requires the Quarantine of suspect product and the notification to trading partners & Competent Authority of the situation (FAR/BPDR)
 				* Quality: Potentially fail to meet product specifications.
@@ -136,8 +138,8 @@ WDA	|	Wholesale Distribution Authorisation
 				* Purity: Potentially contamination safety, efficacy and purity requirements
 				* Atypical Trend: Generate or be generating significantly elevated levels of a single type of complaint for a given batch or product
 				* Safety/Efficacy: Adverse Event or Quality Defect that results in a product recall
-* Critical Quality Defect 	A quality defect that is potentially life threatening or could pose a serious risk to patient health.
-* Customer 			Any individual or entity, except for patients or end consumers, to whom company promotes or sells or could promote or sell products, including but not limited to wholesalers, distributors, pharmacies, HCPs, other relevant decision makers.
+Critical Quality Defect   |	A quality defect that is potentially life threatening or could pose a serious risk to patient health.
+Customer 		  |	Any individual or entity, except for patients or end consumers, to whom company promotes or sells or could promote or sell products, including but not limited to wholesalers, distributors, pharmacies, HCPs, other relevant decision makers.
 * Data 				Any record, in paper and electronic format (or exact copy of the record) that is the result of original observations and activities and is necessary for the accurate and complete reconstruction and evaluation of those activities. Data includes but is not limited to, individual facts, tests, specimens, samples, results, statistics, and items of information or statements by an individual.
 * Data Completeness 		All data associated with an activity irrespective if generated in error, as part of an investigation or system set—up must be maintained and accounted for.
 * Data Consistency 		Data and the application of timestamps must be recorded in a consistent and expected sequence.
