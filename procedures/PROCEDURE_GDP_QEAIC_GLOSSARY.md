@@ -6,91 +6,90 @@ Abbreviations and Acronyms     |   Definition
 ------   |   --------      
 AE  | Adverse Event
 ALCOA	| Attributable, Legible, Contemporaneous, Original, Accurate
-
-* ALCOA+	Attributable Legible, Contemporaneous, Original, Accurate, + Complete, Consistent, Enduring and Available
-* ASL		Approved Suppliers List
-* BF		Bona Fide
-* BSR		Batch Specific Request
-* C&E		Cause and Effect
-* CA		Corrective Action
-* CAPA		Corrective Action Preventive Action
-* CFR		Code of Federal Regulations
-* CG		Contract Giver
-* CIUN		Caution-In—Use Notification
-* CM		Change Management
-* CME		Continuing Medical Education
-* CMO		Contract Manufacturing Organisation
-* CoA		Certificate of Analysis
-* CoC		Certificate of Compliance
-* COTS		Commercial Off—The—Shelf
-* CPO		Contract Packaging Organisation
-* CR		Change Request
-* CS		Configuration Specification
-* CSP		Contract Service Provider (Contract Manufacturing Organisation)
-* CSV		Computer System Validation
-* DS		Design Specification
-* EDMS		Electronic Document Management System
-* EMA		European Medicines Agency
-* ERP		Enterprise Resource Planning
-* FEFO		First Expired First Out
-* FG		Finished Food(s)
-* FMEA		Failure Mode and Effects Analysis
-* FMECA		Failure Mode and Effects Cause Analysis
-* FMV		Fair Market Value
-* FS		Functional Specification
-* GAMP		Good Automated Manufacturing Practice
-* GCP		Good Clinical Practice(s)
-* GDP		Good Distribution Practice(s)
-* GLP		Good Laboratory Practice(s)
-* GMP		Good Manufacturing Practice(s)
-* GVP		Good Pharmacovigilance Practice(s)
-* HAT		Hardware Acceptance Test
-* HCO		Heaithcare Organisation
-* HCP		Healthcare Professional
-* HPRA		Hearth Products Regulatory Authority
-* IQ		Installation Qualification
-* ISPE		International Society for Pharmaceutical Engineering
-* MA		Marketing Authorisation
-* MAC		Market Action Committee
-* MAH		Marketing Authorisation Holder
-* MHRA		Medicines and Healthcare products Regulatory Agency
-* MSC		Material Status Change
-* OCE		Orchestrated Customer Engagement
-* OOS 		Out of Specification
-* OOT		Out of Trend
-* OQ 		Operational Qualification
-* PA 		Preventative Action
-* PIC/S		Pharmaceutical Inspection Co-Operation Scheme
-* PO		Patient Organisation
-* PQC		Product Quality Complaint
-* PQR		Product Quality Review
-* PRR		Periodic Review Report
-* PV		Pharmacovigilance
-* QLT		Quality Leadership Team
-* QMS		Quality Management System
-* QP		Qualified Person
-* QPPV		Qualified Person for Pharmacovigilance
-* RA		Risk Assessment
-* RAID		Risk Assumption Issue Dependency
-* RCA		Root Cause Assessment
-* RP		Responsible Person
-* RTM		Requirements Traceability Matrix
-* SAAS		Software as a Service
-* SAE		Serious Adverse Event
-* SAT		Site Acceptance Test
-* SDEA		Safety Data Exchange Agreement
-* SDLC		Software Development Life Cycle
-* SIT		System Integration Test
-* SOP		Standard Operating Procedure
-* SQL		Structured Query Language
-* SSAC		Software Supplier Audit Checklist
-* SSAR		Software Suppiier Audit Report
-* UAT		User Acceptance Test
-* URS		User Requirement Specification
-* VA		Vendor Assessment
-* VMP 		Validation Master Plan
-* VSR		Validation Summary Report
-* WDA		Wholesale Distribution Authorisation
+ALCOA+	|Attributable Legible, Contemporaneous, Original, Accurate, + Complete, Consistent, Enduring and Available
+ASL	|	Approved Suppliers List
+BF		|Bona Fide
+BSR	|	Batch Specific Request
+C&E	|	Cause and Effect
+CA	|	Corrective Action
+CAPA	|	Corrective Action Preventive Action
+CFR	|	Code of Federal Regulations
+CG	|	Contract Giver
+CIUN	|	Caution-In—Use Notification
+CM	|	Change Management
+CME	|	Continuing Medical Education
+CMO	|	Contract Manufacturing Organisation
+CoA	|	Certificate of Analysis
+CoC	|	Certificate of Compliance
+COTS	|	Commercial Off—The—Shelf
+CPO	|	Contract Packaging Organisation
+CR	|	Change Request
+CS	|	Configuration Specification
+CSP	|	Contract Service Provider (Contract Manufacturing Organisation)
+CSV	|	Computer System Validation
+DS	|	Design Specification
+EDMS	|	Electronic Document Management System
+EMA	|	European Medicines Agency
+ERP	|	Enterprise Resource Planning
+FEFO	|	First Expired First Out
+FG	|	Finished Food(s)
+FMEA	|	Failure Mode and Effects Analysis
+FMECA	|	Failure Mode and Effects Cause Analysis
+FMV	|	Fair Market Value
+FS	|	Functional Specification
+GAMP	|	Good Automated Manufacturing Practice
+GCP	|	Good Clinical Practice(s)
+GDP	|	Good Distribution Practice(s)
+GLP	|	Good Laboratory Practice(s)
+GMP	|	Good Manufacturing Practice(s)
+GVP	|	Good Pharmacovigilance Practice(s)
+HAT|Hardware Acceptance Test
+HCO	|	Heaithcare Organisation
+HCP	|	Healthcare Professional
+HPRA	|	Hearth Products Regulatory Authority
+IQ	|	Installation Qualification
+ISPE	|	International Society for Pharmaceutical Engineering
+MA	|	Marketing Authorisation
+MAC	|	Market Action Committee
+MAH	|	Marketing Authorisation Holder
+MHRA	|	Medicines and Healthcare products Regulatory Agency
+MSC|Material Status Change
+OCE		|Orchestrated Customer Engagement
+OOS 	|	Out of Specification
+OOT	|	Out of Trend
+OQ 	|	Operational Qualification
+PA 	|	Preventative Action
+PIC/S	|	Pharmaceutical Inspection Co-Operation Scheme
+PO	|	Patient Organisation
+PQC	|	Product Quality Complaint
+PQR	|	Product Quality Review
+PRR	|	Periodic Review Report
+PV	|	Pharmacovigilance
+QLT	|	Quality Leadership Team
+QMS	|	Quality Management System
+QP	|	Qualified Person
+QPPV	|	Qualified Person for Pharmacovigilance
+RA	|	Risk Assessment
+RAID	|	Risk Assumption Issue Dependency
+RCA	|	Root Cause Assessment
+RP	|	Responsible Person
+RTM	|	Requirements Traceability Matrix
+SAAS|Software as a Service
+SAE	|	Serious Adverse Event
+SAT	|	Site Acceptance Test
+SDEA	|	Safety Data Exchange Agreement
+SDLC	|	Software Development Life Cycle
+SIT	|	System Integration Test
+SOP	|	Standard Operating Procedure
+SQL	|	Structured Query Language
+SSAC	|	Software Supplier Audit Checklist
+SSAR	|	Software Suppiier Audit Report
+UAT	|	User Acceptance Test
+URS	|	User Requirement Specification
+VA	|	Vendor Assessment
+VMP 	|	Validation Master Plan
+VSR	|	Validation Summary Report
+WDA	|	Wholesale Distribution Authorisation
 
 ## Definitions
 
