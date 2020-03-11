@@ -24,10 +24,8 @@
 
 Role     |   Description    |   Who
 ------   |   --------       |  ----
-Manager | Manage activities associated with a suspected/confirmed falsified medicine  | Quality Manager
-Officer |  Notify Head of Quality and/or Responsible Person (RP) of suspected/confirmed falsified Medicinal Product and monitor future CAPA effectiveness | Quality Officer
 Responsible person  |  Coordinate activities and inform Regulatory and Third Parties | RP
-Supplier | Notify Quality of a suspected/confirmed falsified Medicinal Product and support complaint procedure | Supply Chain
+Supply Chain | Notify Quality of a suspected/confirmed falsified Medicinal Product and support complaint procedure | Supply Chain
 
 ## PROCEDURE
 
