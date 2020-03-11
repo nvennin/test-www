@@ -257,3 +257,4 @@ Veeva Vault  |		A preprietary electronic quality management system.
 [YUISV]: /procedures/Procedure_GDP_YUISV_CAPA.md
 [QEAIC]: /procedures/Document_QEAIC_Glossary.md
 [GGNHM]: /procedures/Procedure_GDP_GGNHM_Reporting_of_Adverse_Events.md
+[AGDXV]: /procedures/Procedure_GDP_AGDXV_Serialisation.md
