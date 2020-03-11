@@ -2,17 +2,12 @@
 
 ## HEADER
 
-|--------------|-------------------------------------------------------------------------------------------| 
+
 |Item          |Details                                                                                    | 
 |--------------|-------------------------------------------------------------------------------------------| 
 |Purpose       |outlining the process for Medicinal Product recalls conducted for marketed products to ensure that if required, product is recalled and removed from the marketplace, quickly and effectively so as to minimise the risk to public health          | 
-|--------------|-------------------------------------------------------------------------------------------| 
 |Department    |Quality                                                                                    |   
-|--------------|-------------------------------------------------------------------------------------------| 
 |Categorie     |GDP                                                                                        | 
-|--------------|-------------------------------------------------------------------------------------------| 
-
-## REFERENCES AND ASSOCIATED DOCUMENTS
 
 ### 3.1 References
 * [Glossary][QEAIC]
