@@ -2,11 +2,11 @@
 
 ## Header
 
-|Item          |Details                                                                                                                 
-|--------------|------------------| 
-|Purpose       |describing the methods used to prevent falsified Medicinal Products being distributed by us.                             
-|Department    |Quality                                                                                                                 
-|Categorie     |GDP                                                                                                                     
+|Item          |Details |
+|--------------|------------------|
+|Purpose       |Describing the methods used to prevent falsified Medicinal Products being distributed by us.|
+|Department    |Quality|
+|Categorie     |GDP |
 
 ## REFERENCES AND ASSOCIATED DOCUMENTS
 
@@ -31,13 +31,16 @@ Supplier | Notify Quality of a suspected/confirmed falsified Medicinal Product a
 
 ## PROCEDURE
 
-### Potential Sources and indicators of Falsiﬁed Medicines 
-The following activities/processes are possible indications of suspicious activity where a product being offered or received may be falsified:
+### Potential Sources and indicators of Falsiﬁed Medicines
+
+The following activities are indications that falsified product may being offered:
+
 * An offer of lower cost product
 * Where a single customer buys or offers for sale suspiciously large quantities of the same product
 * The returns process may be a possible route of entry for falsified Medicinal Product
  
 We may be notified of a falsified Medicinal Product (or suspected falsified Medicinal Product) by any of the following sources including but not limited to:
+
 * Call centre
 * Sales representative/employee
 * By an approved supplier or Contract Manufacturing Organisation (CMO)/Contract Packaging Organisation (CPO).
@@ -46,10 +49,9 @@ We may be notified of a falsified Medicinal Product (or suspected falsified Medi
 * By Wholesaler or Distributor
 
 ### Preventive Measures on Falsiﬁed Medicines
+
 * Outsourced Contract Storage and Distribution sites are subject to qualification, approval and ongoing monitoring.
 * When responsible for transport, the routes and services are selected on the way to minimise exposure to conditions that may compromise the quality, safety, efficacy or integrity of Medicinal Products.
-* Transport routes are documented in the QMS in the form of supply chain maps. Supply chain maps are controlled documents and new supply chain routes or changes to an existing supply chain route are subject to Change Control.
-* Where transportation hubs are utilised in the supply chain, Medicinal Products should be stored for no longer than the national Regulatory Authority recommended timelines where applicable.
 * The company responsible for transport has a Quality Agreement (QA) in place with the Third Party to ensure all transportation activities comply with GDP including but not limited:
   * The requirement that delivery drivers are trained in GDP applicable to their duties.
   * The shipping containers must provide secure protection during transport to prevent cross contamination, theft/tampering or falsified medicine entering the supply chain.
@@ -60,18 +62,20 @@ We may be notified of a falsified Medicinal Product (or suspected falsified Medi
   * Distribution records with relevant information on shipment process is kept, assuring traceability and facilitate in the event of a recall.
 
 ### Mitigation Actions
+
 * Whether Wholesale Distributors is made aware of a potential falsified medicine on supply—chain, Wholesale Distributor must inform the relevant Regulatory Authority(ies) of any falsified or suspected falsified Medicinal Products that are identified.
 * Any potential falsified medicinal product must be immediately physically segregated and stored in a dedicated area.
 * Whether company is notified by an external source such as Wholesale Distributor or has reason to suspect falsified product themselves, the issue should be handled as per *Customer Complaint Management*.
-* Head of Quality, Responsible Person (RP) and Head of Supply Chain are notified in the event of receiving or being offered suspected/confirmed falsified Medicinal Product. 
+* Quality, Responsible Person (RP) and Supply Chain are notified in the event of receiving or being offered suspected or confirmed falsified Medicinal Product. 
 * Supply Chain Department determines whether the products were received by checking the Inventory System and ensuring that the Purchase and Sales Order documents are reviewed.
 * Quality request an investigation be immediately conducted by the Third Party if applicable, and in accordance with Deviations and Quality Agreement with the Third Party.
 * The RP shall trigger a Quality Defect Notification activity.
-* Following investigation, where it is confirmed that the falsified Medicinal Product entered the supply chain, appropriate corrective actions and preventative actions shall be implementedas per CAPA. 
+* Following investigation, where it is confirmed that the falsified Medicinal Product entered the supply chain, appropriate corrective actions and preventative actions shall be implemented as per [CAPA][YUISV]. 
 * A Product Recall may be required to be executed. All recall decisions/actions will be followed and documented as per *Medicinal Product Recall*. 
-* If it is confirmed that falsiﬁed Medicine Product did not enter the supply—chain, RP shall notify the Supervising Authority and other relevant Regulatory Authority(ies) of the investigation conclusion. The investigation can be closed following the investigation conclusion.
+* If it is confirmed that falsiﬁed Medicine Product did not enter the supply—chain, RP shall notify adequate authorities, if necesary.
 
 ## TRAINING
+
 Anyone who is involved with GDP supply chain related activities must first complete read and understand training on this procedure.
 
 [GMP Guidelines]: https://ec.europa.eu/health/documents/eudralex/vol-4_en]
