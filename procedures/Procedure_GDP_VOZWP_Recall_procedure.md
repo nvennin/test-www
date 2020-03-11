@@ -129,7 +129,7 @@ Notiﬁcations to local Regulatory Authorities are by local Regulatory Represent
 
 In agreement with the Regulatory Authorities, for serious Recalls and/or situations where there may be a need to issue a press release in order to caution healthcare professionals and the public, the content of the press release and the process for handling public queries are agreed with the Regulatory Authority and the legal team as appropriate.
 
-Regulatory authorities may also advise that a Caution—in-Use Notification is issued to healthcare professionals if necessary, even if a product recall is not merited.
+Regulatory authorities may also advise that a Caution-in-Use Notification is issued to healthcare professionals if necessary, even if a product recall is not merited.
 
 The format, content, and extent of any recall communication shall be commensurate with the recall classification of the product being recalled and the strategy developed for that recall.
 
@@ -177,8 +177,8 @@ Recall status reports are discontinued when it is agreed by the Regulator that t
   1. Introduction
   2. Purpose
   3. Mock Recalt
-    a. Back to the CMO
-    b. Forward to the Marketplace
+    * Back to the CMO
+    * Forward to the Marketplace
   4. Review of Distribution Records
   5. Verification of 24 Hour Contact Details
   6. Conclusion
