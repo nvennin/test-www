@@ -23,11 +23,9 @@
 
 Role     |   Description    |   Who
 ------   |   --------       |  ----
-Leader  | Identifies a sourcing team | Leadership team
 Supervisor |  Approves change controls linked with Third Party providers and oversees the process | Quality Manager
 Manager  |  Manages and documents process, monitors review process | Quality Officer
 Responsible Person | Oversees qualification, approval and monitoring of providers   | Responsible Person
-Support | Support management | Supply Chain
 
 ## PROCEDURE
 
