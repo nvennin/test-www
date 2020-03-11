@@ -2,11 +2,11 @@
 
 ## Header
 
-|Item          |Details                                                                                                                 
+|Item          |Details|
 |--------------|-------| 
-|Purpose       |Describe the process for creating the Annual Self-Inspection Plan, scheduling, conducting, documenting, identification / implementation of corrective actions and closing of self-inspections for both announced and un-announced self-inspections. Escalate critical findings and the trending of all findings for Quality Management meetings. Evaluate the effectiveness of the system to maintain compliance to regulatory requirements, identify any non-conformities and to recommend improvements.                                                  
-|Department    |Quality                                                                                                                 
-|Categorie     |GDP                  
+|Purpose       |Describe the process for creating the Annual Self-Inspection Plan.|
+|Department    |Quality|
+|Category     |GDP|
 
 ## REFERENCES AND ASSOCIATED DOCUMENTS
 
@@ -21,27 +21,24 @@
 
 Role     |   Description    |   Who
 ------   |   --------       |  ----
-Manager  | Update the Self-Inspection Schedule and monitor the schedule of upcoming audits  | Quality Officer
+Manager  | Update the Self-Inspection Schedule and monitor the schedule of upcoming audits  | Quality Manager
 Auditor |  Performs the audit | Quality Manager
-Responsible person  | Oversee and support audit programmes | Director of Quality, RP
+Responsible person  | Oversee and support audit programmes | RP
 
 ## PROCEDURE
 
 ### Self-Inspection Schedule and Tracker
 
 * All GDP areas shall be identified on the Self-Inspection Tracker.
-* The SeIf-lnspection Tracker shall be updated as required for e.g. after completion of an audit, business or compliance needs following a risk assessment, non-scheduled ”For Cause” audit due to increased risk associated with poor compliance or significant change to internal process or personnel. 
-* The Self—Inspection Audit tracker includes the following information:
-  * GxP activities-List of all GxP activities summarizing the Risk rating, audit frequency and Audit dates
-  * Audit Schedule-Summarizing audit due dates (for the current calendar year)
-  * Risk Assessments-Risk assessment for each of the GxP activities.
-* The Self—Inspection Audit Schedule will be reviewed, printed, signed and dated by the Director of Quality or designee and stored in the Self—Inspection Audit file.
+* The Self-Inspection Audit tracker lists all GxP activities summarizing the Risk rating, audit frequency and audit dates.
+* The Self-Inspection Audit Schedule will be reviewed during [Management Review][OZCFN].
 * The Audits shall be scheduled as close to the due date as possible. If the audit cannot be scheduled within 3 months of the due date, then a deviation is required.
 * Ad hoc self—inspections will be undertaken as identified on a risk management basis or in response to a critical finding or incident.
 
-### Self-Inspection Audit Frequency 
-* All GDP activities are identified to be audited based on the risk assessment score and risk rating.
-* The risk rating is perfomed on the following criteria:
+### Self-Inspection Audit Frequency
+
+* All GDP activities are identified to be audited based on the risk rating.
+* The risk rating is attributed according to the following criteria:
   * On-going continous improvement activities
   * Audit History
   * Number of Deviations or overdue CAPA/Change Requests
@@ -50,19 +47,18 @@ Responsible person  | Oversee and support audit programmes | Director of Quality
 
 **Table 1: Audit Frequency based on Risk Score and Risk Rating**
 
-|Risk Score    |Risk Rating     |Audit Frequency   |   
-|--------------|----------------|------------------|
-|4-11          |Low             |24 months         |   
-|12-19         |Medium          |12 months         |   
-|>=20          |High            |6 months          |   
-
-* The Risk Score and schedule are reviewed to ensure that any change in Risk Rating is observed and appropratiely addressed through a revision to the schedule.
+Risk Rating     |Audit Frequency   |
+----------------|------------------|
+|Low             |36 months         |
+|Medium          |24 months         |
+|High            |12 months         |
 
 ### Selection of Auditors
 
-* The Director of Quality with input from the Responsible Person, as appropriate, shall identify suitably qualified auditors to perform the self—inspection of the QMS. The auditors must be independent of the processes being audited and ideally have completed auditor training. Experience can be considered as an acceptable alternative.
+* The Director of Quality with input from the Responsible Person, as appropriate, shall identify suitably qualified auditors to perform the self—inspection of the QMS. The auditors must be independent of the processes being audited.
 
 ### Self-Inspection Audits
+
 * Activities described in the QMS documents are routinely inspected to ensure:
   * QMS is in operation effectively and that it is subject to continual improvement.
   * Current procedures are in compliance with applicable legislation and best practice standards.
@@ -76,25 +72,27 @@ Responsible person  | Oversee and support audit programmes | Director of Quality
   * Assess any updates to procedures since last audit.
 
 ### Audit Close Out
+
 * A closing meeting is conducted between the auditor and auditee, at a minimum to ensure there is clarity on the audit findings.
-* Observations are classified as either Critical, Major or Other. 
+* Observations are classified as either Critical, Major or Other.
 
 ### Self-Inspection Report
+
 * The self-inspection report is targeted for completion within 15 working days and report issued within 20 working days post audit.
-* A self-inspection audit number shall be assigned to each area/affiliate inspected. The number is of the format YYYY-XXX, where YYYY is year audit conducted and XXX is a sequential number.
+* The report shall be posted to GitHub Issues with the label 'SELF-INSPECTION'; or submitted directly in the body of the issue.
 * Reports should contain all of the observations found during the self inspection and recommendations for improvements. The auditor and auditee shall both sign the self—inspection report indicating that they are in agreement with the actions assigned.
 * Quality shall raise a CAPA for observations identified. The CAPA owner is responsible for ensuring that the CAPA is executed and completed by the agreed due dates. Quality/Self-Inspection Auditor will review/approve CAPAs to ensure that the action identified is appropriate for the observation.
 * Findings which can be addressed at the time of the self inspection will not require a CAPA and their correction will be detailed in the audit report.
 * The Auditor will escalate all critical non—conformities identified during self—inspection to the Director of Quality and RP at the point of issue and initial assessment.
 * Quality Manager/Responsible Person approves the finalised report confirming classification of observations and suitability of CAPAs assigned.
-* A copy of the final report shall be circulated to the Director of Quality, Responsible Person, Management and other relevant personnel as appropriate.
 
 ### Monitoring
+
 * Critical and major self-inspection observations shall be presented at the routine Quality management review meetings.
 
 ## TRAINING
-Anyone who performs the tasks as outlined in this procedure must first complete read and understand training. Auditors performing audits shall be appropriately trained or have relevant experience in the subject area.
 
+Anyone who performs the tasks as outlined in this procedure must first complete read and understand training. Auditors performing audits shall be appropriately trained or have relevant experience in the subject area.
 
 [GMP Guidelines]: https://ec.europa.eu/health/documents/eudralex/vol-4_en]
 [GDP Guidelines]: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2013:343:0001:0014:EN:PDF
