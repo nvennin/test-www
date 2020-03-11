@@ -176,7 +176,7 @@ Recall status reports are discontinued when it is agreed by the Regulator that t
 * Mock recall reports should include the following sections:
   1. Introduction
   2. Purpose
-  3. Mock Recalt
+  3. Mock Recall
     * Back to the CMO
     * Forward to the Marketplace
   4. Review of Distribution Records
