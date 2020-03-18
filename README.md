@@ -23,7 +23,7 @@ Procedure | Live |[GGNHM] | [Reporting of Adverse Events][GGNHM]
 Procedure | Live | [BMAXZ] | [Medicinal Product Returns][BMAXZ]
 Procedure | Live |[YUISV] | [CAPA][YUISV]
 Procedure | Draft |[AGDXV] | [Serialisation][AGDXV]
-Procedure | Live [PSGBV] | [Artworks & Labelling][PSGBV]
+Procedure | Live | [PSGBV] | [Artworks & Labelling][PSGBV]
 Document | Draft |[QEAIC] | [Glossary][QEAIC]
 
 ## Scope
