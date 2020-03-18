@@ -3,7 +3,7 @@
 ## HEADER
 
 |Item          |Details|
-|--------------|---------| 
+|--------------|---------|
 |Purpose       |Describing the process and responsibilities to collect Adverse reactions (ARs) reports and Product Quality Complaints (PQCs)      |
 |Department    |Quality and PV |
 |Category     |GDP         |
