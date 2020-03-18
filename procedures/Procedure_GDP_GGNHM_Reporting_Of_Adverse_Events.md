@@ -64,13 +64,11 @@ Role | Description | Who
 --- | --- | --- 
 Receiver | Person who receives a report. | Any staff
 
-
 ## PROCEDURE
 
 AR reports are handled by PV, PQC are handled by Quality. 
 
 All spontaneous AR report and PQC made to staff are forwarded to the appropriate function. All intents to report an AR or make a PQC should be deferred to the appropriate function. Staff should forward any communication received, and communicate contact details of the tentative reporter, in order for the appropriate function to follow-up.
-
 
 ## TRAINING
 
