@@ -22,7 +22,6 @@ Procedure | Draft | [VTOMR] | [Falsified Medicinal Products][VTOMR]
 Procedure | Draft |[GGNHM] | [Reporting Of Adverse Events][GGNHM]
 Procedure | Draft | [BMAXZ] | [Medicinal Product Returns][BMAXZ]
 Procedure | Draft |[YUISV] | [CAPA][YUISV]
-
 Document | Draft |[QEAIC] | [Glossary][QEAIC]
 
 ## Scope
