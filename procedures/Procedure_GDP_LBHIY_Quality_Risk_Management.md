@@ -2,20 +2,17 @@
 
 ## Header
 
-
-|Item          |Details          | 
-|--------------|---------------| 
-|Purpose       |document the procedure for performance of Quality Risk Management (QRM) activities to identify, assess, control, communicate and review the risks posed to the quality of the Medicinal Product across the product supply chain.                         
-|Department    |Quality                                                                                                                 
-|Categorie     |GDP                                                                                                                    
+|Item          |Details          |
+|--------------|---------------|
+|Purpose       |document the procedure for performance of Quality Risk Management (QRM) activities to identify, assess, control, communicate and review the risks posed to the quality of the Medicinal Product across the product supply chain.|
+|Department    |Quality |
+|Category     |GDP |
 
 ## REFERENCES AND ASSOCIATED DOCUMENTS
 
 ### References
-* [CAPA][YUISV]
 
-### Associated Documents
-* [ICH Q9 Quality Risk Management][ICHQ9]
+* [CAPA][YUISV]
 
 ## ROLES
 
@@ -47,23 +44,23 @@ Approver | Approves Risk Assessments associated with GDP activities and associat
 * Risk analysis is the estimation of the risk associated with the identified hazards and probability of detection.
 * All data collected during the Risk Analysis and Evaluation should be appended to the RA issue to justify decisions whenever applicable. Include statistical approaches, trend analyses and data sets that are reliable and accessible.
 * The analysis must conclude the likelihood of the event occurring, the severity of the impact should the event occur and probability that the current systems and measures in place will detect the risk should it occur.
-* The Risk Priority Level is determined using Table 1 below. 
+* The Risk Priority Level is determined using Table 1 below.
 * The output of the risk assessment is a qualitative description. The Risk Priority Level is High, Medium or Low.
 * Where all Risk are deemed Low no further control measures are required to be identified.
 * Where the Risk Priority Level is High or, the risk is deemed is unacceptable to the business, additional risk reduction measures are required to be identified.
 * The complete Risk Assessment must be reviewed and approved by Quality
 
-**Table 1: Risk Categorisation**        
+#### Table 1: Risk Categorisation
 
 Risk Priority based on likelihood and severity.
 
-|             | Low   | Medium  |   High  | 
+|             | Low   | Medium  |   High  |
 |-----------|------------|------------|------------|
 |     **High**  | Low   | High     |  High   |
 |     **Medium** | Low   | Medium    |   High   |
-|     **Low**  | Low   | Low     |   Low   | 
+|     **Low**  | Low   | Low     |   Low   |
 
-**Table 2: Risk Priority Rating**
+#### Risk Priority Rating
 
 * High Risk Priority : further risk reduction measures are required.
 * Medium Risk Priority : no action required; unless the risk remains unacceptable to the business where further risk reduction measures are required.
