@@ -36,7 +36,7 @@ The below information is required to be available to perform release.
 
 #### COA / COC Review
 
-* The finished product CoA and CoC are reviewed for accuracy and completeness for the following data:
+* Except for Parallel imported products, the finished product CoA and CoC are reviewed for accuracy and completeness for the following data:
   * Product Name
   * Product Strength
   * Lot Number
@@ -53,16 +53,16 @@ The below information is required to be available to perform release.
 ### In Market Batch Disposition
 
 * After the review checks, proceed to perform in Market batch disposition i.e. approve or reject and record the disposition status.
-* A copy of the following documentation is retained : COA; COC; Invoice and/or delivery note.
+* A copy of the documentation is retained, including invoices and/or delivery note.
 
 ### Material Status Change
 
 * If the status of a batch must temporarily change post release the communication of this must be made to the pre—wholesaler in target market.
 
-### In-market Released by Pre-Wholesaler 
+### In-market Release by Pre-Wholesaler 
 
 * Where previously agreed, and in line with the QTA, a pre-wholesaler may perform the In-Market release for a specific market.
-* A copy of the CoA, CoC and release communication is retained.
+* A copy of the documentation and release communication is retained.
 
 ## TRAINING
 
