@@ -4,7 +4,7 @@
 
 |Item          |Details          |
 |--------------|---------------|
-|Purpose       |document the procedure for performance of Quality Risk Management (QRM) activities to identify, assess, control, communicate and review the risks posed to the quality of the Medicinal Product across the product supply chain.|
+|Purpose       |Document the procedure for performance of Quality Risk Management (QRM) activities to identify, assess, control, communicate and review the risks posed to the quality of the Medicinal Product across the product supply chain.|
 |Department    |Quality |
 |Category     |GDP |
 
