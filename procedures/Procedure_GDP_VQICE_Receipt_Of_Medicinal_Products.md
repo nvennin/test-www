@@ -45,6 +45,8 @@ The below information is required to be available to perform release.
   * Finished Product Quantity
   * Country / Territory product released to or Artwork applied
 
+For parallel imported products, the packaging is checked against approved artwork and, if the product have been repacked, the CoC from the repacking is reviewed.
+
 #### Temperature Data Review
 
 * Review temperature data associated with the batch during transportation and ensure that product remained within specification for the full duration.
