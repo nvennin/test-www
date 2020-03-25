@@ -36,26 +36,20 @@ Issued by the ANSM (France):
 
 The QMS is maintained in the following hierarchical model:
 
-|------|------------------------------------------------------------------------------------------|
-|Level |Description                                                                               |                                                       
+|Level |Description                                                                               |                                     
 |------|------------------------------------------------------------------------------------------|
 |1     |* Marketing Authorisations / Process Licences                                             |
 |      |* Regulations and Guidelines                                                              | 
 |      |* Quality Policy                                                                          |
-|------|------------------------------------------------------------------------------------------|
 |2     |* Quality Manual                                                                          | 
 |      |* Pharmacovigilence System Master File                                                    |
-|------|------------------------------------------------------------------------------------------|
 |3     |* GxP procedures's                                                                        | 
 |      |* Audit Strategy                                                                          |
-|------|------------------------------------------------------------------------------------------|
 |4     |* Work Instructions                                                                       | 
 |      |* Controlled Forms                                                                        |
-|------|------------------------------------------------------------------------------------------|
 |5     |* Records                                                                                 |
 |      |* Quality / Technical Agreements                                                          | 
 |      |* Safety Data Exchange Agreements                                                         |
-|------|------------------------------------------------------------------------------------------|
 
 
 **The QMS comprises:**
@@ -137,7 +131,7 @@ The complete process is explained in the SOPs for [Management of Standard Operat
 Original copies of manufacturing, packing, analytical and distribution records are maintained by the contract service providers as defined in the applicable QTA’s. Electronic copies of these documents received for review and release are saved in the Egnyte system by the Quality Unit.
 The complete process is explained in the SOP for Good Documentation Practice and Data Integrity.
 
-## 9. PRODUCTION
+## PRODUCTION
 
 All manufacturing, testing and distribution activities are contracted to approved suppliers.
 Approved suppliers are responsible for maintaining their manufacturing/ wholesaling license and relevant GXP certificates at all times during the contract. Specific roles and responsibilities about production are outlined in the individual QTA.
@@ -145,12 +139,12 @@ The complete process is explained in the SOP for Management of Quality Agreement
 
 ### Serialisation
 
-Responsibility for compliance with the EU Falsified Medicines Directive is defined and agreed with product suppliers as per the QTA (refsection 11.1).
+Responsibility for compliance with the EU Falsified Medicines Directive is defined and agreed with product suppliers as per the QTA.
 
-Theramex utilises the TraceLink Serialisation system to manage and exchange serial numbers.
+The company utilises the TraceLink Serialisation system to manage and exchange serial numbers.
 
-All applicable suppliers are onboarded with the Theramex TraceLink interface to allow upload of serial numbers of completed batches.
-The complete process is explained in the SOP for Serialisation of Theramex Products (SCSOP-002).
+All applicable suppliers are onboarded with the TraceLink interface to allow upload of serial numbers of completed batches.
+The complete process is explained in the SOP for [Serialisation][AGDXV].
 
 ## QUALITY CONTROL
 
