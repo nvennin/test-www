@@ -23,7 +23,7 @@ Procedure | Live |[GGNHM] | [Reporting Of Adverse Events][GGNHM]
 Procedure | Live | [BMAXZ] | [Medicinal Product Returns][BMAXZ]
 Procedure | Live |[YUISV] | [CAPA][YUISV]
 Procedure | Draft |[AGDXV] | [Serialisation][AGDXV]
-Procedure | Live [PSGBV] | [Artworks & Labelling][PSGBV]
+Procedure | Live | [PSGBV] | [Artworks & Labelling][PSGBV]
 Document | Draft |[QEAIC] | [Glossary][QEAIC]
 
 ## Scope
@@ -40,7 +40,7 @@ Unless otherwise noted, all documents in this QMS apply to The Simple Pharma Com
 [Directive 2010/84/EU]: https://ec.europa.eu/health/sites/health/files/files/eudralex/vol-1/dir_2010_84/dir_2010_84_en.pdf
 [Regulation EU No 1235/2010]: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1235
 [EudraGMDP]: http://eudragmdp.ema.europa.eu
-[AMXWS]: /procedures/Procedure_GDP_AMXWS_Management_of_Procedures.md
+[AMXWS]: /procedures/Procedure_GDP_AMXWS_Management_Of_Procedures.md
 [XIDEX]: /procedures/Procedure_GDP_XIDEX_Responsible_Person.md
 [BWRPX]: /procedures/Procedure_GDP_BWRPX_Documentation_Control.md
 [XCEUG]: /procedures/Procedure_GDP_XCEUG_Deviations.md
