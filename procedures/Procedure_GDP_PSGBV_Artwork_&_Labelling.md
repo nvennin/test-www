@@ -30,7 +30,7 @@ Responsible Person | Manages approved change requests and communicate with other
 * An artwork change request is formulated through a GitHub Issue that details the change and its reasons, following the template artwork change request. The issue is labelled 'ARTWORK CHANGE REQUEST".
 * A Regulatory Reviewer will review the proposed changes and formulates comments.
 * Planning if informed of the change so that it can inform the manufacturing site of the change
-* Artowrk Manager coordinates the execution of the changes with the artwork studio.
+* Artwork Manager coordinates the execution of the changes with the artwork studio.
 * Once the new version of the artwork is available a notification is sent to Regulatory Affairs advising that the artwork is available for review and approval.
 * The artwork index entry for the older artwork is updated with a deprecation date
 
