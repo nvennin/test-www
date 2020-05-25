@@ -1,6 +1,6 @@
 This procedure has been last approved by [{{ site.github.latest_release.author.login }}]({{ site.github.latest_release.author.url }}).
 
-{{ site.github.hostname }}.
+TEST {{ site.github.hostname }}.
 
 # Blank Canvas
 
