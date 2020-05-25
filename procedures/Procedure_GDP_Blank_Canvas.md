@@ -1,6 +1,3 @@
-This procedure has been last approved by [{{ site.github.latest_release.author.login }}]({{ site.github.latest_release.author.url }}).
-
-TEST {{ site.github.hostname }}.
 
 # Blank Canvas
 
