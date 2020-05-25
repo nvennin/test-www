@@ -4,53 +4,19 @@
 
 |Item          |Details                                                                                    | 
 |--------------|-------------------------------------------------------------------------------------------| 
-|Purpose       |detailing the Quality Management System (OMS) and activities applicable to the company
+|Purpose       |Detailing the Quality Management System (OMS) and activities applicable to the company
 |Department    |Quality                                                                                    |   
 |Categorie     |GDP                                                                                        | 
-|Scope         |This quality manual applies to all employees, consultants, licensed contract manufacturers, licensed entities and licensed distribution partners for the manufacturing and distribution of marketed medicinal products and medical devices (hereafter collectively referred to as product). It does not apply to other legislative requirements arising from Environment, Health and Safety (EHS) or financial considerations. The principles defined herein and intended to be in line with best practices and international standards. In case of divergence, regional regulatory requirements should prevail.
-
 
 ## LICENSES AND AUTHORISATIONS
 
 Ths Simple Pharma Company hold the following licences:
 
-Issued by the MHRA (UK):
-
-|Licence No.  |Description                                                                      |
-|-------------|---------------------------------------------------------------------------------|
-
-Issued by the HPRA (Ireland):
-
-|Licence No.   |Description                                                                         |
-|--------------|------------------------------------------------------------------------------------|
-
-Issued by the ANSM (France):
-
-|Licence No.   |Description                                                                         |
-|--------------|------------------------------------------------------------------------------------|
-
+n/a
 
 ## ROLES
 
 ## QUALITY MANAGEMENT SYSTEM (QMS)
-
-The QMS is maintained in the following hierarchical model:
-
-|Level |Description                                                                               |                                     
-|------|------------------------------------------------------------------------------------------|
-|1     |* Marketing Authorisations / Process Licences                                             |
-|      |* Regulations and Guidelines                                                              | 
-|      |* Quality Policy                                                                          |
-|2     |* Quality Manual                                                                          | 
-|      |* Pharmacovigilence System Master File                                                    |
-|3     |* GxP procedures's                                                                        | 
-|      |* Audit Strategy                                                                          |
-|4     |* Work Instructions                                                                       | 
-|      |* Controlled Forms                                                                        |
-|5     |* Records                                                                                 |
-|      |* Quality / Technical Agreements                                                          | 
-|      |* Safety Data Exchange Agreements                                                         |
-
 
 **The QMS comprises:**
 
@@ -78,7 +44,7 @@ The QMS is maintained in the following hierarchical model:
 
 ### Quality Management Review
 
-Quarterly meetings with key members of senior management are held. Summary and trend reports are compiled across key areas of the QMS using standard templates. These meetings are used to monitor status, level of compliance and identify areas for improvement.
+Those are annual meetings with senior management to review the status of quality, level of compliance and identify areas for improvement.
 The complete process is explained in the SOP for GXP Quality [Management Review and monitoring][OZCFN].
 
 ### Product Quality Review 
@@ -93,7 +59,7 @@ The complete process is explained in the SOP for GXP Quality [Management Review 
 
 ### Release Procedure of Finished Products
 
-Batch certification is performed either by the finished product manufacturer or a third—party supplier under their Manufacturers / Importation Authorisations (MIA) in accordance with the product registrations (MA’s) and as defined in QTA’s. In—market batch disposition is performed once batches arrive in the intended territories to ensure the applicable storage conditions have been maintained throughout the transportation. Responsibility for in—market batch disposition may be delegated to local distributors or pre-wholesalers as per QTA’s. The full process is explained in the SOP for In-Market Batch Disposition.
+Batch certification is performed either by the finished product manufacturer or a third—party supplier under their Manufacturers / Importation Authorisations (MIA) in accordance with the product registrations (MA’s) and as defined in QTA’s. In—market batch disposition is performed once batches arrive in the intended territories to ensure the applicable storage conditions have been maintained throughout the transportation. Responsibility for in—market batch disposition may be delegated to local distributors or pre-wholesalers as per QTA’s. The full process is explained in the SOP for [In-Market Batch Disposition][VQICE].
 
 ## PERSONNEL
 
@@ -105,7 +71,8 @@ The complete process is explained in the SOP for [Training][ZWJPR].
 
 ### Job Specific / SOP Training
 
-A training matrix is maintained and reflects the training required to be conducted to ensure all relevant employees receive the appropriate training to fulfil their roles. SOP training is recorded by ’Read and Understood’ acknowledgement statements.
+All relevant employees need to receive the appropriate training to fulfil their roles. Specifically, SOP training is performed through reading the SOPs (available freely to all employees on the internet). Employees are requested to read the SOPs, ask their manager and the quality manager any questions they have and post ’Read and Understood’ acknowledgement statements on the QMS's GitHub Issues.
+
 Non GXP/SOP training specific to an employee’s role are coordinated and managed by Human Resources or the appropriate line manager.
 The complete process is explained in the SOP for [Training][ZWJPR].
 
@@ -113,18 +80,19 @@ The complete process is explained in the SOP for [Training][ZWJPR].
 
 The roles of all key staff is defined in a Job Description which is updated as roles evolve or change. Deputies for key roles, where applicable, are defined within Job Descriptions.
 
-### Use of Consultants in Support of the QMS
+### Use of Consultants
 
-The company use specialist consultants, where required, to perform Responsible Person duties. Such consultants are named on the applicable authorisations of Theramex and full responsibilities are detailed in Quality / Technical Agreements (QTA’s). Training and procedures follows the same process.
-Further consultants, where required, are used to perform audits or support elements of the QMS. Such consultants have QTA’s to define the full responsibilities.
+The company does not use consultants to perform key duties.
 
 ## DOCUMENTATION
 
 ### Standard Operating Procedures (SOPs), Work Instructions (WIs) and Controlled Forms
 
-The format for all SOP‘s, WI's and controlled forms is controlled and standardised by the Quality unit. SOP’s and WI’s are written by the subject matter experts. All GXP procedures are approved by the Quality Team.
-Changes to SOP's are managed through a Document Change Request. Access to SOP’s, WI’s and controlled forms is controlled. SOP’s relating to GXP are reviewed every two years or more frequently if updates are required.
-The complete process is explained in the SOPs for [Management of Standard Operating Procedures][AMXWS] and Management of Work Instructions.
+All quality documents are managed 
+SOP’s are written by the subject matter experts. All GXP procedures are approved by the Quality Team.
+Changes to SOP's are managed through a Document Change Request. Access to SOP’s, WI’s and controlled forms is controlled with GitHub's version control functionalities. Changes to all GDP SOPs are subject to the RP's review and approval.
+
+The complete process is explained in the SOPs for [Management of Standard Operating Procedures][AMXWS].
 
 ### Good Documentation Practice and Retention of Documents
 
