@@ -5,7 +5,7 @@
 
 |Item          |Details                                                                                    | 
 |--------------|-------------------------------------------------------------------------------------------| 
-|Purpose       |outlining the process for Medicinal Product recalls conducted for marketed products to ensure that if required, product is recalled and removed from the marketplace, quickly and effectively so as to minimise the risk to public health          | 
+|Purpose       |Outlining the process for Medicinal Product recalls conducted for marketed products to ensure that if required, product is recalled and removed from the marketplace, quickly and effectively so as to minimise the risk to public health          | 
 |Department    |Quality                                                                                    |   
 |Categorie     |GDP                                                                                        | 
 
@@ -22,8 +22,6 @@ Role     |   Description    |   Who
 Manager | Oversee and support product recall activities and manage monitoring of CAPAs | Head of Quality
 RP | Assess quality defects, make communications and reports, follow-up actions | Quality
 Contributor | Determine quantity of stocks and work with Quality on recall action plan   | Supply chain
-Supervisor | Intervene in case of Health Hazard Evaluation | Safety monitoring committee
-Reviewer | Attend Potential Recall Review meeting   | Local Responsible Person
 
 ## PROCEDURE
 
@@ -42,17 +40,17 @@ Potential Quality Defects that may lead to a market action can be detected throu
 * Direct Regulatory Agency Action (i.e. requests from the market competent authority or the manufacturer’s Supervisory Authority).
 * Shipping/Distribution deviations (where the impact assessment implicates previously shipped/dislributed lots).
 * Reports or evidence of the presence of Falsified and/or counterfeit product in the supply chain.
+
 All such events must be documented and investigated as per [Deviations][XCEUG].
 
 ### Quality Defect Assessment
 
-* Upon notification to the company, all potential Quality Defects are assessed by the Quality Department for potential impact on marketed product. if the company is not the MAH for the product in question, the Head of Quality notifies the relevant Head of Quality at the MAH.
-* If the Quality review concludes 3 potential impact on Marketed Product it must be escalated to the Head of Quality and the Safety Monitoring Committee. The Head of Quality or delegate will notify the relevant Responsible Person for the market(s) in question.
+* Upon notification to the company, all potential Quality Defects are assessed by the Quality Department for potential impact on marketed product. If the company is not the MAH for the product in question, the Quality Department notifies his counterpart at the MAH.
+* If the Quality review concludes of a potential impact on the marketed Product it must be escalated to the RP
 
-### Assigning Recall Tracking Number
+### Opening a Recall Issue
 
-* The Quality Department assigns a tracking number as per the below indicated nomenclature. Details of the potential recall are recorded on the Medicinal Product Recalls tracker.
-* The potential recall is assigned a tracking number in the format RECyy/xxx where: REC signifies recall, yy signifies the year and xxx is a sequential number starting at 001.
+* The Quality Department opens a GitHub Issue in the QMS repository with the 'RECALL' label.
  
 ### Investigation
 
@@ -65,15 +63,15 @@ All such events must be documented and investigated as per [Deviations][XCEUG].
 
 ### Health Hazard Evaluation
 
-* To characterise a Quality Defect correctly in terms of risk to the patient, a documented Health Hazard Evaluation is requested from the Safety Monitoring Committee as required. To save time, a verbal request may be made initially to the QPPV (who is a key member of the Safety Monitoring Committee), followed up with written confirmation. The Safety Monitoring Committee ensures a timely provision of the requested Health Hazard Evaluation.
+* To characterise a Quality Defect correctly in terms of risk to the patient, a documented Health Hazard Evaluation is requested from the QPPV, followed up with written confirmation.
 * Quality Defects are classified based on patient risk as follows:
 
 
-|Risk Category                                                                                                                                                | 
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|                
-|**Class I** - Product quality defects with the potential to be life threatening or that could cause serious risk to health                                   |
-|**Class II** - Product quality defects with the potential to cause illness or mistreatment but are of lower risk than Class 1                                |
-|**Class III** - Product quality defects which are not likely to pose a significant hazard to health but where a recall has been initiated for other reasons  | 
+|Risk Category|Details|                                                                                                                                             
+|---|---|                
+|**Class I** | Product quality defects with the potential to be life threatening or that could cause serious risk to health                                   |
+|**Class II** | Product quality defects with the potential to cause illness or mistreatment but are of lower risk than Class 1                                |
+|**Class III** | Product quality defects which are not likely to pose a significant hazard to health but where a recall has been initiated for other reasons  | 
 
 ### Quality Defect Notification
  
@@ -83,8 +81,8 @@ All such events must be documented and investigated as per [Deviations][XCEUG].
 
 A Recall Review meeting is called by the Head of Quality or authorised delegate as quickly as possible. This meeting includes key stakeholders to review the critical information with respect to:
 * Nature and root cause of the Quality Defect.
-* Quality Impact Assessment (including distribution and status of potentially impacted materials).
-* Health Hazard Evaluation.
+* Quality impact assessment (including distribution and status of potentially impacted materials).
+* Health hazard evaluation.
 * Applicable regulations.
 * Potential impact on patients (supply shortages, alternative treatments etc).
 
@@ -92,11 +90,8 @@ The meeting attendees include, but are not limited to:
 * Head of Quality
 * Qualified Person relevant to product(s)
 * Responsible Person relevant to market(s)
-* Global Head of Supply Chain
+* Head of Supply Chain
 * Head of PV
-* Chief Medical Officer
-
-However, the participation of all attendees at the Potential Recall Review Meeting may be limited due to participant unavailability to ensure timely review of data. Required meeting attendees may send authorised delegates if required.
 
 The following are determined where possible:
 * The root cause of the Quality Defect has been sufficiently characterised to allow an accurate assessment of the extent of the impact on identified and other related batches.
@@ -108,11 +103,9 @@ The following are determined where possible:
   * Medical significance of the product.
   * Availability of competitor products containing the same generic active ingredients or therapeutic equivalents.
 
-The proceedings of the Recall Meeting are documented and form part of the formal record.
+The proceedings of the Recall Meeting are documented and form part of the formal record, duly documented in the comments of the GitHub Issue.
 
 Based on the input of participants, discussions with regulatory authority(ies) and review of data at the recall review meeting, the Head of Quality recommends whether the Recall is to be initiated and whether this is required to be an urgent request.
-
-The Head of Quality informs the Safety Monitoring Committee on outcome of the meeting and any necessary Market Action to be taken including all recalls.
 
 ### Regulatory Authority Notiﬁcation
  
@@ -125,7 +118,7 @@ These actions include:
 * Required actions for non-responders
 * Notification of other Regulatory Authorities
  
-Notiﬁcations to local Regulatory Authorities are by local Regulatory Representatives in the country(ies) in question if possible, or other arrangements may be made as appropriate. For centrally authorized Medicinal Products, the EMA must be notified using their Defective product report template. The Theramex Head of Quality / authorized delegate must oversee the content of such notifications and communications and ensure all agencies are kept informed.
+Notiﬁcations to local Regulatory Authorities are by local Regulatory Representatives in the country(ies) in question if possible, or other arrangements may be made as appropriate. For centrally authorized Medicinal Products, the EMA must be notified using their Defective product report template. The Head of Quality / authorized delegate must oversee the content of such notifications and communications and ensure all agencies are kept informed.
 
 In agreement with the Regulatory Authorities, for serious Recalls and/or situations where there may be a need to issue a press release in order to caution healthcare professionals and the public, the content of the press release and the process for handling public queries are agreed with the Regulatory Authority and the legal team as appropriate.
 
@@ -159,7 +152,7 @@ Recall status reports are discontinued when it is agreed by the Regulator that t
 
 ### No Recall Action
 
-* Where a decision is made by the company, in conjunction with the QP, RP, Safety Monitoring Committee, and relevant Regulatory Authority(ies), not to recall a product from the market, the justification for this decision must be documented.
+* Where a decision is made by the company, in conjunction with the QPPV, RP, and relevant Regulatory Authority(ies), not to recall a product from the market, the justification for this decision must be documented.
 
 ### Effectiveness of Recall
 
