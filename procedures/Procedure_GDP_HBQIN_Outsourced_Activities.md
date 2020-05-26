@@ -49,6 +49,7 @@ A Risk Assessment is performed to establish the risks associated with the outsou
 
 * The level of effort and formality associated with Third Party Provider qualification should be directly proportional to the level of risk associated with the material or service.
 * All third party providers that directly impacts the product quality or have an impact to GDP activities are to be audited as part of the initial qualification and should have Quality agreements in place. 
+* Where a third party provider is required to store and handle controlled drugs and/or narcotics, they are to be audited in their licence and ability to do so, and that their staff have been appropriately trained.
 * An audit can be performed through a questionnaire.
 * Successful completion of the qualification step shall result in the Third Party Provider being identified as qualified.
 
@@ -60,6 +61,7 @@ A Risk Assessment is performed to establish the risks associated with the outsou
 ### Quality Agreements
 
 * A Quality Agreement will be drawn up with the approved Third Party Provider which specifies their responsibilities about GDP activities and the communication process relating to the outsourced activities. 
+* Where the storage and handling or controlled drugs and/or narcotics is required, this is to be included in the scope of the Quality Agreement.
 * Changes associated with Third Party Provider will be undertaken in accordance with the procedure Change Management, or if changes are minor may form part of the scheduled periodic review and the Quality Technical Agreement will be revised accordingly.
 * In some circumstances it may be possible to have an alternative to the Quality Agreement e.g. a Contract, Terms and Conditions or Scope of Work.
 
