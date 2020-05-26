@@ -46,8 +46,10 @@ Quality | Performs annual reviews | Quality
 
 * Qualifying a new customer means confirming that the customer is appropriately authorised to receive the requested products.
   * Wholesalers customers need to hold valid WDA and GDP certificates
+  * The WDA certificates are further checked to ensure the customer can handle Controlled Drugs
   * Pharmacies need to be registered as such accordign to local requirements
 * Orders cannot be shipped without validating the entity and the shipping address against our validation records.
+* Orders for Controlled Drugs cannot be shipped if the entity does not hold the appropriate authorization.
 * The authorisation/certification is reconfirmed on an annual basis. 
 * Official EudraGDMP or local health authority databases should be favored.
 
