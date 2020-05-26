@@ -4,7 +4,7 @@
 
 |Item          |Details                                                                                    | 
 |--------------|-------------------------------------------------------------------------------------------| 
-|Purpose       |Detailing the Quality Management System (OMS) and activities applicable to the company
+|Purpose       |Detailing the Quality Management System (QMS) and activities applicable to the company
 |Department    |Quality                                                                                    |   
 |Categorie     |GDP                                                                                        | 
 
