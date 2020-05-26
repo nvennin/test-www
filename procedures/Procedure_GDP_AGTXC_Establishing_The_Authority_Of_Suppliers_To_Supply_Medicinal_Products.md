@@ -53,7 +53,7 @@ Quality | Performs annual reviews | Quality
 
 ### Initiating a check
 
-Requestor requests qualifying a supplier by posing a new GitHub Issue with the 'CHECKS' label and, as appropriate, the 'SUPPLIER' or the 'CUSTOMER' label.
+Requestor requests qualifying a supplier by posing a new GitHub Issue with the 'CHECKS' label.
 
 ### Conducting the checks
 
