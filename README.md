@@ -24,6 +24,7 @@ Procedure | Live |[GGNHM] | [Reporting Of Adverse Events][GGNHM]
 Procedure | Live | [BMAXZ] | [Medicinal Product Returns][BMAXZ]
 Procedure | Live |[YUISV] | [CAPA][YUISV]
 Procedure | Live | [PSGBV] | [Artworks & Labelling][PSGBV]
+Procedure | Draft | [v9C4tiEaG1] | [Transportation][v9C4tiEaG1]
 Document | Live |[QEAIC] | [Glossary][QEAIC]
 
 ## Scope
@@ -61,3 +62,4 @@ Unless otherwise noted, all documents in this QMS apply to The Simple Pharma Com
 [SVWCE]: /documents/Manual_SVWCE_Quality_Manual.md
 [GGNHM]: /procedures/Procedure_GDP_GGNHM_Reporting_of_Adverse_Events.md
 [PSGBV]: /procedures/Procedure_GDP_PSGBV_Artwork_&_Labelling.md
+[v9C4tiEaG1]: /procedures/Procedure_GDP_v9C4tiEaG1_Transportation.md
