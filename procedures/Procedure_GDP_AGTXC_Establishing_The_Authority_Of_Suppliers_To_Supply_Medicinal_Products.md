@@ -42,7 +42,7 @@ Quality | Performs annual reviews | Quality
 * The authorisation/certification is reconfirmed on an annual basis.
 * Official EudraGDMP or local health authority databases should be favored.
 
-#### General Requirements for customers
+#### General Requirements for customers & contract wholesaling sites
 
 * Qualifying a new customer means confirming that the customer is appropriately authorised to receive the requested products.
   * Wholesalers customers need to hold valid WDA and GDP certificates
@@ -50,6 +50,8 @@ Quality | Performs annual reviews | Quality
 * Orders cannot be shipped without validating the entity and the shipping address against our validation records.
 * The authorisation/certification is reconfirmed on an annual basis. 
 * Official EudraGDMP or local health authority databases should be favored.
+
+Contract wholesaling sites are checked with the same procedure as for customers.
 
 ### Initiating a check
 
