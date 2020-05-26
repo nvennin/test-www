@@ -11,18 +11,18 @@ Procedure | Live |[XCEUG] | [Deviations][XCEUG]
 Procedure | Live |[UYNEF] | [Change Control][UYNEF]
 Procedure | Live |[OZCFN] | [Management Review And Monitoring][OZCFN]
 Procedure | Live |[LBHIY] | [Quality Risk Management][LBHIY]
-Procedure | Live | [ZWJPR] | [Training][ZWJPR]
+Procedure | Live |[ZWJPR] | [Training][ZWJPR]
 Procedure | Live |[VQICE] | [Receipt Of Medicinal Products][VQICE]
 Procedure | Live |[AGTXC] | [Establishing The Authority Of Suppliers To Supply Medicinal Products][AGTXC]
 Procedure | Live |[ZIWKI] | [Customer Complaints][ZIWKI]
 Procedure | Live |[VOZWP] | [Recall Procedure][VOZWP]
-Procedure | Live | [HBQIN] | [Outsourced Activities][HBQIN]
+Procedure | Live |[HBQIN] | [Outsourced Activities][HBQIN]
 Procedure | Live |[GMQHI] | [Self_Inspections][GMQHI]
-Procedure | Live | [VTOMR] | [Falsified Medicinal Products][VTOMR]
-Procedure | Live |[GGNHM] | [Reporting Of Adverse Events][GGNHM]
-Procedure | Live | [BMAXZ] | [Medicinal Product Returns][BMAXZ]
+Procedure | Live |[VTOMR] | [Falsified Medicinal Products][VTOMR]
+Procedure | Live |[GGNHM] | [Reporting Of Adverse Events and Product Quality Complaints][GGNHM]
+Procedure | Live |[BMAXZ] | [Medicinal Product Returns][BMAXZ]
 Procedure | Live |[YUISV] | [CAPA][YUISV]
-Procedure | Live | [PSGBV] | [Artworks & Labelling][PSGBV]
+Procedure | Live |[PSGBV] | [Artworks & Labelling][PSGBV]
 Document | Draft |[QEAIC] | [Glossary][QEAIC]
 
 ## Scope
@@ -57,5 +57,5 @@ Unless otherwise noted, all documents in this QMS apply to The Simple Pharma Com
 [BMAXZ]: /procedures/Procedure_GDP_BMAXZ_Medicinal_Product_Returns.md
 [YUISV]: /procedures/Procedure_GDP_YUISV_CAPA.md
 [QEAIC]: /procedures/Document_QEAIC_Glossary.md
-[GGNHM]: /procedures/Procedure_GDP_GGNHM_Reporting_of_Adverse_Events.md
+[GGNHM]: /procedures/Procedure_GDP_GGNHM_Reporting_Of_Adverse_Events.md
 [PSGBV]: /procedures/Procedure_GDP_PSGBV_Artwork_&_Labelling.md
