@@ -1,7 +1,5 @@
 # CAPA
 
-## Header
-
 |Item          |Details                                                                                    | 
 |--------------|-------------------------------------------------------------------------------------------| 
 |Purpose       |Describes the handling of corrective and preventive actions (CAPAs)    | 
