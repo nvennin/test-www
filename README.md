@@ -4,6 +4,7 @@
 
 Nature      | Status  |   Code |   Title
 --------    | ----  |-----------|-------
+Manual | Draft | [SVWCE] | [Quality Manual][SVWCE]
 Procedure | Live | [AMXWS] | [Management Of Procedures][AMXWS]
 Procedure | Live |[XIDEX] | [Responsible Person][XIDEX]
 Procedure | Live |[BWRPX] | [Documentation Control][BWRPX]
@@ -22,8 +23,9 @@ Procedure | Live |[VTOMR] | [Falsified Medicinal Products][VTOMR]
 Procedure | Live |[GGNHM] | [Reporting Of Adverse Events and Product Quality Complaints][GGNHM]
 Procedure | Live |[BMAXZ] | [Medicinal Product Returns][BMAXZ]
 Procedure | Live |[YUISV] | [CAPA][YUISV]
-Procedure | Live |[PSGBV] | [Artworks & Labelling][PSGBV]
-Document | Draft |[QEAIC] | [Glossary][QEAIC]
+Procedure | Live | [PSGBV] | [Artworks & Labelling][PSGBV]
+Document | Live |[QEAIC] | [Glossary][QEAIC]
+
 
 ## Scope
 
@@ -50,7 +52,7 @@ Unless otherwise noted, all documents in this QMS apply to The Simple Pharma Com
 [VQICE]: /procedures/Procedure_GDP_VQICE_Receipt_Of_Medicinal_Products.md
 [AGTXC]: /procedures/Procedure_GDP_AGTXC_Establishing_The_Authority_Of_Suppliers_To_Supply_Medicinal_Products.md
 [ZIWKI]: /procedures/Procedure_GDP_ZIWKI_Customer_Complaints.md
-[VOZWP]: /procedures/Procedure_GDP_VOZWP_Recall_Procedure.md
+[VOZWP]: /procedures/Procedure_GDP_VOZWP_Recall_procedure.md
 [HBQIN]: /procedures/Procedure_GDP_HBQIN_Outsourced_Activities.md
 [GMQHI]: /procedures/Procedure_GDP_GMQHI_Self_Inspections.md
 [VTOMR]: /procedures/Procedure_GDP_VTOMR_Falsified_Medicinal_Products.md
@@ -58,4 +60,5 @@ Unless otherwise noted, all documents in this QMS apply to The Simple Pharma Com
 [YUISV]: /procedures/Procedure_GDP_YUISV_CAPA.md
 [QEAIC]: /procedures/Document_QEAIC_Glossary.md
 [GGNHM]: /procedures/Procedure_GDP_GGNHM_Reporting_Of_Adverse_Events.md
+[SVWCE]: /documents/Manual_SVWCE_Quality_Manual.md
 [PSGBV]: /procedures/Procedure_GDP_PSGBV_Artwork_&_Labelling.md
