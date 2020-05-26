@@ -1,7 +1,5 @@
 # OUTSOURCED ACTIVITIES
 
-## Header
-
 |Item          |Details|
 |--------------|-----------| 
 |Purpose       |Outline the requirements for management outsourced GxP activities.|
