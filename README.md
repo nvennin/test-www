@@ -4,6 +4,7 @@
 
 Nature      | Status  |   Code |   Title
 --------    | ----  |-----------|-------
+Manual | Draft | [SVWCE] | [Quality Manual][SVWCE]
 Procedure | Live | [AMXWS] | [Management Of Procedures][AMXWS]
 Procedure | Live |[XIDEX] | [Responsible Person][XIDEX]
 Procedure | Live |[BWRPX] | [Documentation Control][BWRPX]
@@ -23,7 +24,7 @@ Procedure | Live |[GGNHM] | [Reporting Of Adverse Events][GGNHM]
 Procedure | Live | [BMAXZ] | [Medicinal Product Returns][BMAXZ]
 Procedure | Live |[YUISV] | [CAPA][YUISV]
 Procedure | Live | [PSGBV] | [Artworks & Labelling][PSGBV]
-Document | Draft |[QEAIC] | [Glossary][QEAIC]
+Document | Live |[QEAIC] | [Glossary][QEAIC]
 
 ## Scope
 
@@ -57,5 +58,6 @@ Unless otherwise noted, all documents in this QMS apply to The Simple Pharma Com
 [BMAXZ]: /procedures/Procedure_GDP_BMAXZ_Medicinal_Product_Returns.md
 [YUISV]: /procedures/Procedure_GDP_YUISV_CAPA.md
 [QEAIC]: /procedures/Document_QEAIC_Glossary.md
+[SVWCE]: /documents/Manual_SVWCE_Quality_Manual.md
 [GGNHM]: /procedures/Procedure_GDP_GGNHM_Reporting_of_Adverse_Events.md
 [PSGBV]: /procedures/Procedure_GDP_PSGBV_Artwork_&_Labelling.md
