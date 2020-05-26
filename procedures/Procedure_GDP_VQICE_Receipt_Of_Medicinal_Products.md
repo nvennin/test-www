@@ -30,9 +30,10 @@ The below information is required to be available to perform release.
 
 | Document                                                       | Source              |
 | -------------------------------------------------------------- | ------------------- |
-| Finished Product Certificate of Analysis / Certificate of Conformity | Supplier            |
+| Finished Product Certificate of Analysis / Certificate of Conformity | Supplier      |
 | Temperature Data during transportation to Distribution center  | Distribution Centre |
 | Purchase/sales invoices, delivery slips                        | Supplier            |
+| Inventory location (for Controlled Drugs)|Distribution Centre|
 
 #### COA / COC Review
 
@@ -51,6 +52,10 @@ For parallel imported products, the packaging is checked against approved artwor
 
 * Review temperature data associated with the batch during transportation and ensure that product remained within specification for the full duration.
 * If that's not the case, raise a Deviation. The batch must only be released upon confirmation from the Responsible Person.
+
+#### Storage location review
+
+The storage location of Controlled Drug is checked to ensure they are stored in the appropriated dedicated locked cage for Controlled Drugs. 
 
 ### In Market Batch Disposition
 
