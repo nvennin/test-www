@@ -4,7 +4,7 @@
 
 Nature      | Status  |   Code |   Title
 --------    | ----  |-----------|-------
-Manual | Draft | [SVWCE] | [Quality Manual][SVWCE]
+Manual | Live | [SVWCE] | [Quality Manual][SVWCE]
 Procedure | Live | [AMXWS] | [Management Of Procedures][AMXWS]
 Procedure | Live |[XIDEX] | [Responsible Person][XIDEX]
 Procedure | Live |[BWRPX] | [Documentation Control][BWRPX]
