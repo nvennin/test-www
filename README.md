@@ -22,7 +22,6 @@ Procedure | Live | [VTOMR] | [Falsified Medicinal Products][VTOMR]
 Procedure | Live |[GGNHM] | [Reporting Of Adverse Events][GGNHM]
 Procedure | Live | [BMAXZ] | [Medicinal Product Returns][BMAXZ]
 Procedure | Live |[YUISV] | [CAPA][YUISV]
-Procedure | Draft |[AGDXV] | [Serialisation][AGDXV]
 Procedure | Live | [PSGBV] | [Artworks & Labelling][PSGBV]
 Document | Draft |[QEAIC] | [Glossary][QEAIC]
 
@@ -59,5 +58,4 @@ Unless otherwise noted, all documents in this QMS apply to The Simple Pharma Com
 [YUISV]: /procedures/Procedure_GDP_YUISV_CAPA.md
 [QEAIC]: /procedures/Document_QEAIC_Glossary.md
 [GGNHM]: /procedures/Procedure_GDP_GGNHM_Reporting_of_Adverse_Events.md
-[AGDXV]: /procedures/Procedure_GDP_AGDXV_Serialisation.md
 [PSGBV]: /procedures/Procedure_GDP_PSGBV_Artwork_&_Labelling.md
