@@ -51,7 +51,7 @@ Unless otherwise noted, all documents in this QMS apply to The Simple Pharma Com
 [VQICE]: /procedures/Procedure_GDP_VQICE_Receipt_Of_Medicinal_Products.md
 [AGTXC]: /procedures/Procedure_GDP_AGTXC_Establishing_The_Authority_Of_Suppliers_To_Supply_Medicinal_Products.md
 [ZIWKI]: /procedures/Procedure_GDP_ZIWKI_Customer_Complaints.md
-[VOZWP]: /procedures/Procedure_GDP_VOZWP_Recall_Procedure.md
+[VOZWP]: /procedures/Procedure_GDP_VOZWP_Recall_procedure.md
 [HBQIN]: /procedures/Procedure_GDP_HBQIN_Outsourced_Activities.md
 [GMQHI]: /procedures/Procedure_GDP_GMQHI_Self_Inspections.md
 [VTOMR]: /procedures/Procedure_GDP_VTOMR_Falsified_Medicinal_Products.md
