@@ -1,14 +1,12 @@
 # CHANGE CONTROL
 
-## Header
-
 |Item          |Details |
 |--------------|--------|
-|Purpose       |Describing the process for manage any changes impacting GDP processes and regulatory filing related to products marketed or distributed |
+|Purpose       |Describing the process for managing changes impacting GDP processes and/or regulatory filings related to products marketed or distributed |
 |Department    |Quality |
 |Category    |GDP  |
 
-## REFERENCES AND ASSOCIATED DOCUMENTS
+## References and Associated Documents
 
 ### References
 
@@ -29,7 +27,7 @@ Action Owner | Responsible for performing an action identified in the Change Pla
 
 ### Initiation of a Change
 
-* The following changes are in-scope for this procedure, whether conducted at the company or at an external provider. Changes to:
+* The following changes are in scope for this procedure, whether conducted at the company or at an external provider:
   * Products
   * Procedures
   * Premises
@@ -37,52 +35,52 @@ Action Owner | Responsible for performing an action identified in the Change Pla
   * Systems
   * Regulatory filings
 * Upon identification of a requirement for a change, the Change Owner creates a GitHub issues with the "CHANGE REQUEST" label.
-* All details of the Change Request are documented in the Issue by the Change Owner according to the template CHANGE REQUEST issue.
+* All details of the Change Request are documented in the Issue by the Change Owner according to the template CHANGE REQUEST Issue.
 * An assessment of the impact of the proposed change on process, products, controlled documents, regulatory compliance, and GDP systems should be performed by the Change Owner. Examples of activities and documents that may be impacted include:
-  * Regulatory Filing submitted to regulatory Authority
-  * Third Party Provider of GDP activities e.g. CMOs/CPOs
+  * Regulatory filings submitted to Regulatory Authority
+  * Third Party Providers of GDP activities e.g. CMOs, contract warehouses
   * Quality Manual
-  * Procedures and forms
-  * Quality Technical Agreements
+  * Quality Management System
+  * Quality Agreements
   * Validated processes or systems
-* A Change Plan that details actions associated with the change, the owner of the actions and due dates are documented on the GitHub issue. All stakeholders are assigned to the issue in order to receive all notifications and updatess.
+* A Change Plan that details actions associated with the change, the owner of the actions and due dates are documented on the GitHub Issue. All stakeholders are assigned to the issue in order to receive all notifications and updates.
 * The change is classified based on its potential impact upon the GDP processes or product quality, safety and efficacy. The table below describes the classification of the changes:
 
 |Classification     |Description   |
 |-------------------|---------|
-|Major              |A change that has the potential to have an adverse effect on the defined product specifications (e.g. the identity, strength, quality, purity, potency, safety or effectiveness of a medicinal drug); A change that has potential impact to GxP processes; A change that requires submitting of a variation to a regulatory filings or license. |
-|Minor              |A change that does not impact the GXP processes, defined product specifications or regulatory filings. |
+|Major              |A change that has the potential to have an adverse effect on the defined product specifications (e.g. the identity, strength, quality, purity, potency, safety or effectiveness of a medicinal drug); a change that has potential impact to GxP processes; a change that requires submitting of a variation to a regulatory filings or licence. |
+|Minor              |A change that does not impact the GxP processes, defined product specifications or regulatory filings. |
 
-* If change classification is determined to be Major, a separate risk assessment shall be completed in accordance with the procedure [Quality Risk Management][LBHIY].
+* If change classification is determined to be Major, a separate risk assessment shall be completed in accordance with the [Quality Risk Management][LBHIY] procedure.
 
 ### Review and Approval/Rejection/Deferral of the Change
 
-* Quality reviews the change plan details on the GitHub issue and supporting documents including the classification of the change and risk assessment if applicable. The Change Owner is notified if he needs to provide further information.
+* Quality reviews the change plan details on the GitHub Issue and supporting documents including the classification of the change and risk assessment if applicable. The Change Owner is notified if needing to provide further information.
 * The review of each change case shall include the following matters:
-  * The change is justified.
-  * The classification associated with the change is appropriate.
-  * The risk class associated with the change is appropriate.
-  * The change is consistent with existing controlled documents.
-  * The integrity of the QMS is maintained.
-  * Third party e.g. CMO or CPO, Wholesaler/distributor and Qualified Person are to be notified of the change.
-  * All other changes and actions required as a result of the change have been identified through impact assessment and/or risk assessment and recorded in the Change Plan.
-  * Appropriate training needs and methodologies have been identified.
-  * Proposed change impacts on any other open change request.
-  * All functional representatives affected by the change have reviewed the change
+  * The justification for the change.
+  * The classification of the change.
+  * The risk class associated with the change.
+  * An assessment of whether the change is consistent with existing controlled documents.
+  * An assessment of whether the change preserves the integrity of the QMS.
+  * An assessment of whether the change requires notification to Third parties e.g. CMO or CPO, Wholesaler/distributor, Qualified Person.
+  * That all other changes and actions required as a result of the change have been identified through impact assessment and/or risk assessment and recorded in the Change Plan.
+  * That appropriate training needs have been identified.
+  * An assessment of whether the change impacts on any other open change request.
+  * Confirmation that all functional representatives affected by the change have reviewed the change.
 
 ### Implementation and Close Out of the Change
 
 * Progress against the timeline set by the Change Owner is monitored.
-* Action owners document the completion of all actions required for implementation of change.
+* Action owners document the completion of all actions required for implementation of the change.
 
 ### Change Effectiveness Check
 
-* Effectiveness checks should be performed where the objective of the change was intended to bring about a quantitative change in performance which can be assessed against historical data.
+* Effectiveness checks should be performed where the objective of the change is intended to bring about a quantitative change in performance which can be assessed against historical data.
 * Quality will determine if an effectiveness check is required during the Close Out. The type, importance, and expected outcome of a change will be used to determine if an effectiveness check is required.
 * If that's the case, Quality will label the GitHub Issue with "EFFECTIVENESS CHECK REQUIRED"
 * The Effectiveness Check will be assigned to a suitable person and a due date will be allocated.
 
-## TRAINING 
+## Training
 
 * Anyone who is involved must read this procedure.
 
