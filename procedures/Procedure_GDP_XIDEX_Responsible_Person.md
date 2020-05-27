@@ -1,10 +1,8 @@
-# Responsible Person
-
-## Header
+# Responsible Person  
 
 Item    |   Details
 ----    |   ----
-Purpose | Deﬁne the roles and responsibilities of the Responsible Persons (RP).
+Purpose | Deﬁne the roles and responsibilities of the Responsible Persons (RP)
 Departments | Quality
 Categories    | GDP
 
@@ -33,13 +31,13 @@ Responsible Person  | Responsible for compliance with GDP | RP
 
 All Responsible Persons listed on the company's Wholesale Distribution Authorisation have the job description outlining their responsibilities as follows.
 
-* To ensure that the provisions of the license are observed.
-* Ensuring that a quality management system is implemented and maintained.
-* Reviewing procedures in relation to the operation of the Wholesale Distribution Authorisation
+* Ensuring that the provisions of the licence are observed.
+* Ensuring that a quality management system (QMS) is implemented and maintained.
+* Reviewing procedures in relation to the use of the Wholesale Distribution Authorisation
 * Overseeing audit of the quality system on a regular basis as per procedure [Self-inspections][GMQHI].
-* Ensuring that accurate records are made.
+* Ensuring that accurate records are maintained.
 * Ensuring that data is backed-up with a 5 year minimum retention period at a secure location.
-* Ensure that customers and suppliers are approved as per procedure [Establishing the authority of suppliers to supply medicinal products][AGTXC] prior to commencing trade.
+* Ensuring that customers and suppliers are approved as per procedure [Establishing the authority of suppliers to supply medicinal products][AGTXC] prior to commencing trade.
 * Ensuring that customer complaints are dealt as per procedure [Customer complaints][ZIWKI]
 * Ensuring that there is a system in place for handling returned goods as per procedure [Medicinal Product Returns][BMAXZ].
 * Participating in recall decision and support product recalls as per [Recall procedure][VOZWP].
@@ -47,12 +45,12 @@ All Responsible Persons listed on the company's Wholesale Distribution Authorisa
 * Ensuring that the final disposition of returned, recalled or falsified products is performed in accordance with the relevant procedures referenced above.
 * Ensuring that all personnel are trained and that continuous training programmes are maintained as per [Training][ZWJPR].
 * Ensuring that the selection, approval and management of GDP outsourced and delegated activities are performed as per [Outsourced activities][HBQIN].
-* Being involved in communications with the Regulatory Authority with respect to activities as they apply to the Wholesale Distribution Authorisation (WDA).
+* Being involved in communications with the Regulatory Authority with respect to activities as they apply to the Wholesale Distribution Authorisation.
 * The RP shall be contactable at all times and shall provide the Regulatory Authority with the appropriate contact details.
-* The RP shall keep themselves up to date with any changes in the legislation and with on—going training as identified.
+* The RP shall keep themselves up to date with any changes in the legislation and with ongoing training as identified.
 * Ensuring that deviations are investigated appropriately in a timely manner as per [Deviations][XCEUG], and that the required CAPA(s) is implemented and monitored for effectiveness in accordance with [CAPA][YUISV].
-* Ensuring that changes are managed through [UYNEF Change control].
-* Ensuring that new products are introduced in compliance with the Licence and Guidelines on Good Distribution Practice for medicinal product for human use (2013/C343/01), and that the new product has been appropriately classified e.g., medicinal product, medical device, food supplement, cosmetic, biocide. etc. aand that the category is authorised under the WDA
+* Ensuring that changes are managed through [Change control][UYNEF].
+* Ensuring that new products are introduced in compliance with the Licence and Guidelines on Good Distribution Practice for medicinal product for human use (2013/C343/01), and that the new product has been appropriately classified e.g., medicinal product, medical device, food supplement, cosmetic, biocide. etc., and that the category is authorised under the Wholesale Distribution Authorisation.
 
 [EC 2001/83/EC]: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2013:343:0001:0014:EN:PDF
 [AMXWS]: /procedures/Procedure_GDP_AMXWS_Management_of_Standard_Operating_Procedures.md
