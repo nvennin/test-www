@@ -127,6 +127,8 @@ Withdrawals must be communicated to those who used the document before withdrawa
 
 The Index of Controlled Documents must be updated to reflect the changed status of the document.
 
+[SERIALIZATIO][AGDXV]
+
 [GMP Guidelines]: https://ec.europa.eu/health/documents/eudralex/vol-4_en]
 [GDP Guidelines]: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2013:343:0001:0014:EN:PDF
 [GVP Guidelines]: https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/guideline-good-pharmacovigilance-practices-gvp-module-vi-collection-management-submission-reports_en.pdf
@@ -151,4 +153,4 @@ The Index of Controlled Documents must be updated to reflect the changed status 
 [YUISV]: /procedures/Procedure_GDP_YUISV_CAPA.md
 [QEAIC]: Document_QEAIC_Glossary.md
 [GGNHM]: /procedures/Procedure_GDP_GGNHM_Reporting_of_Adverse_Events.md
-[AGDXV]: /procedures/Procedure_GDP_AGDXV_Serialisation.md
+[AGDXV]: {{ /procedures/Procedure_GDP_AGDXV_Serialisation.md | relative_url }}
