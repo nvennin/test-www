@@ -28,4 +28,4 @@ Procedure | Live | [PSGBV] | [Artworks & Labelling][PSGBV]
 Procedure | Draft | [v9C4tiEaG1] | [Transportation][v9C4tiEaG1]
 Document | Live |[QEAIC] | [Glossary][QEAIC]
 
-{{ relative_include links.md }} 
+{{ relative_include ./links.md }} 
