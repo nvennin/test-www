@@ -1,6 +1,4 @@
-# DOCUMENTATION CONTROL
-
-## Header
+# Documentation Control
 
 |Item  |Details|
 |--------------|------|
@@ -8,14 +6,14 @@
 |Department |Quality|
 |Category |GDP|
 
-## REFERENCES AND ASSOCIATED DOCUMENTS
+## References and Associated Documents
 
 ### References
 
 * [EudraLex Volume 4 — Good Manufacturing Practice (GMP) guidelines][GMP Guidelines]
 * [Good Distribution Practice GDP guidelines 2013/c343/01][GDP Guidelines]
 * [MHRA GXP Data Integrity Guidance and Definitions; Revision 1: March 2018][MHRA GXP Data Integrity Guidance]
-* [Good Practices for Data Management and integrity in Regulated GMP/GDP Environment, PIC/S PI 041-1 (Draft 3) November 2013][PIC/S PI 041-1 (Draft 3)]
+* [Good Practices for Data Management and integrity in Regulated GMP/GDP Environment, PIC/S PI 041-1 (Draft 2) August 2016][PIC/S PI 041-1 (Draft 3)]
 * [Glossary][QEAIC]
 * [Management of Procedures][AMXWS]
 * [Quality Risk Management][LBHIY]
@@ -23,52 +21,54 @@
 * [Self-Inspections][GMQHI]
 * [Outsourced Activities][HBQIN]
 
-## ROLES
+## Roles
 
 Role     |   Description    |   Who
 ------   |   --------       |  ----
-Manager |  Oversees the process and GDP activities. | Director of Quality
-Responsible Person | Issue, withdraws and oversees controlled documents. | Responsible person
+Manager |  Oversees the process and GDP activities. | Head of Quality
+Responsible Person | Issues, withdraws and oversees controlled documents. | Responsible person
 Compliance | Verify compliance to this procedure through Self-Inspections. | Quality Officer
 
-## PROCEDURE
+## Procedure
 
 ### Management of Documents
 
 * Documents ensure consistency and control to GDP standard procedures. Documents reduce the risk of errors from the spoken word and are used to provide training on procedures or tasks.
 * All GDP related documents and associated forms or registers are prepared, reviewed, approved and managed in accordance with Management of Procedures. 
-* To allow documents to be uniquely identifiable and that the latest version is consistently used, we use versioning system GitHub. GitHub allows to control document versions, while providing transparency, discussion mechanisms and history of changes.
-* It is everyone's responsibility to ensure that documents  provide clear unambiguous information and/or instructions on GDP activities to be performed, and be free from errors. GitHub's issues feature allows for discussions that are visible to all in the company and are the recommended place to ask questions and requests for clarifications.
-* It is the responsibility of each permanent and outsourced staff to ensure that the latest version of a document is used.
+* To ensure documents are uniquely identifiable and that the latest version is consistently used, we use web-based versioning system GitHub. GitHub allows to control document versions, while providing transparency, discussion mechanisms and history of changes.
+* It is everyone's responsibility to ensure that documents  provide clear unambiguous information and/or instructions on GDP activities to be performed, and be free from errors. GitHub's Issues feature allows for discussions that are visible to all in the company and are the recommended place to ask questions and requests for clarifications.
+* It is the responsibility of each permanent and outsourced staff to ensure that the latest version of documents are used.
 
 ### Signatures 
 
-* We rely on electronic authentication for signature. Approvals by email, via GitHub, or any other electronic mean, are considered sufficiently reliable for the purposes of the quality system.
+* We rely on electronic authentication for signature. Approvals via GitHub are considered sufficiently reliable for the purposes of the quality system.
+* Where a change to the Master branch is required, a Pull Request is generated in line with [Management of Procedures][AMXWS]. For Pull Requests that enact changes to the Master branch, the RP must review and approve the changes.
 
 ### Data Entry
 
-* Records of the actions relating to Good Documentation Practice must be made at the time and date each action is undertaken. Actions must be documented by the person performing the task. To the extent possible documentation is to be recorded as a new GitHub issue, or as a comment to an existing issue with relevance.
+* Records of the actions relating to Good Documentation Practice must be made at the time and date each action is undertaken. Actions must be documented by the person performing the task. Documentation is to be recorded as a new GitHub issue, or as a comment to an existing issue with relevance.
 * Entries must be clear, concise, accurate, legible, permanent, complete and truthful.
-* Entries made on paper must be made with indelible ink. Pencils, non-waterproof, gels pens or erasable pens must not be used. Ink will be dark enough i.e. blue or black so that photocopies or scans remain legible. 
+* Entries made on scanned paper must be made with indelible ink. Pencils, non-waterproof, gels pens or erasable pens must not be used. Ink will be dark enough i.e. blue or black so that photocopies or scans remain legible. 
 * The information must reflect facts in an accurate, precise, simple and unambiguous manner so anyone reading the document will have a clear understanding. 
 * Recording of GDP data into personal notebooks, on scrap paper, post-it notes, etc. is not permitted.
 * Data must satisfy the following Data Integrity criteria throughout its lifecycle:
-  * ALCOA-Attributable, Legible, Contemporaneous, Original, Accurate, plus:
-  * Complete-the data must be whole; a complete set.
-  * Consistent-the data must be self—consistent.
-  * Enduring-durable; lasting throughout the data lifecycle.
-  * Available-readily available for review or inspection purposes. 
-* Quality investigates when data generated does not meet those criteria, including with third-parties
+  * **ALCOA**:Attributable, Legible, Contemporaneous, Original, Accurate, plus:
+  * **Complete**: The data must be whole; a complete set.
+  * **Consistent**: The data must be self—consistent.
+  * **Enduring**: Lasting throughout the data lifecycle.
+  * **Available** Readily available for review or inspection purposes. 
+* Quality investigates when data generated does not meet these criteria, including when generated using Third Parties.
 * When numbering pages, the total number of pages must be recorded, i.e. Page 1 of 2, Page 2 of 2, and each page must be identified to be part of the document. Attachments or supporting documents must be paginated and list the appropriate reference.
 
 ### Error Correction
 
 * Alterations made to a GDP record must be clear, legible, signed and dated. The alteration must permit the reading of the original information by drawing a single line through the error or information to be changed. If the reason for the correction is not evident, a brief written reason for the alteration must be added.
+* Where a GDP document is available electronically (e.g. GitHub), the version history must be activated so that viewers can see a full audit trail of revisions to the document.
 * The correct information must be completed near the original entry that is being corrected, or a footnote should be used.
 * Corrections are made as soon as the error has been discovered. An error should be corrected by the person that made the error, wherever possible.
 * Correction fluid/tape (whitener) must not be used for any type of error correction.
 * If a record is corrected after it was initially approved, the record must be re-approved after correction.
-* If a document becomes illegible clue to the amount or the nature of corrections, or has been damaged, a replacement document may be created, and the original must be attached or referred to. The original document must be voided, signed/initialled and dated. If the reason for the reconstruction is not evident, a written explanation must be provided.
+* If a document becomes illegible due to the amount or the nature of corrections, or has been damaged, a replacement document may be created, and the original must be attached or referred to. The original document must be voided, signed/initialled and dated. If the reason for the reconstruction is not evident, a written explanation must be provided.
 
 ### Numerical Data — Calculations, Significant Figures and Rounding
 
@@ -81,17 +81,16 @@ Compliance | Verify compliance to this procedure through Self-Inspections. | Qua
 * Rounding is performed for final data calculation only.
 * If data processing has been repeated with progressive modification of processing parameters this must be visible to ensure that the processing parameters are not being manipulated to achieve a more desirable end point.
 * Data generated by mathematical calculations must be verified. Metadata are data that describe the attributes of other data and provide context and meaning. Metadata must also be verified.
-* Data that cannot be verified as being complete and accurate or has been inappropriately altered (i.e. correction without verification and justification by comment) without traceability back to the raw data is considered unreliable.
+* Data that cannot be verified as being complete and accurate or has been inappropriately altered (i.e. correction without verification and justification by comment) without traceability back to the raw data are considered unreliable.
 * Data review should evaluate the integrity of an individual data set, compliance with established specification or limits and any data risk indicators (e.g. amended, excluded or deleted data).
 
 ### Signatures, Initials, Stamps and Dates
 
-* Signatures are required for the approval of paper GDP documents. Initials may be used to support individual GDP record entries. Signature and initials must be consistent with that on file. Electronic records are authenticated electronically.
+* Signatures are required for the approval of GDP documents. For paper documents, initials may be used to support individual GDP record entries. Signature and initials must be consistent with that on file. Electronic records are authenticated electronically.
 * Data reviewers must check the consistent application of date and time stamps to ensure consistency in the sequence of workflow steps.
 * If an approver's name has been pre-populated on a document, but the approval is performed by a qualified designee, the designee must sign with their own name and indicate for whom they are signing.
 * Permanent and outsourced staff must not sign for another member of personnel unless otherwise delegated.
 * All GDP documents must indicate the names and roles for which approval has been obtained.
-* Master copy will be stamped 'MASTER' on reverse of page and issued copies of Controlled Documents will be stamped "CONTROLLED COPY".
 * Obsolete/withdrawn documents will be stamped “WITHDRAWN”.
 * Dates will be written or printed in the format DD-MMM-YYYY, the month may be abbreviated to a minimum of three letters, the year can be presented as two or four digits (e.g. 02 July 2018 or 02 Jul 18).
 * The handwritten time on documents will include am. or pm. Entering times in military format without the use of am. or pm. is also acceptable along with using the 24-hour clock.
@@ -104,13 +103,15 @@ Compliance | Verify compliance to this procedure through Self-Inspections. | Qua
 * Documents and data must be available in human readable format for review or auditing purposes over the lifetime of the record. Records are retained for a minimum of five (5) years. 
 * Exact (true) copies of original records may be retained in place of the original record (e.g. scan of a paper record)
 
-## TRAINING
+## Training
 
-Anyone who is involved with GDP related activities must first complete read and understand training on this procedure.
+Anyone who is involved with GDP related activities must first complete, read, and understand training on this procedure.
 
 [GMP Guidelines]: https://ec.europa.eu/health/documents/eudralex/vol-4_en]
 [GDP Guidelines]: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2013:343:0001:0014:EN:PDF
 [GVP Guidelines]: https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/guideline-good-pharmacovigilance-practices-gvp-module-vi-collection-management-submission-reports_en.pdf
+[MHRA GXP Data Integrity Guidance]: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/687246/MHRA_GxP_data_integrity_guide_March_edited_Final.pdf
+[PIC/S PI 041-1 (Draft 3)]: https://picscheme.org/en/news?itemid=33
 [Directive 2010/84/EU]: https://ec.europa.eu/health/sites/health/files/files/eudralex/vol-1/dir_2010_84/dir_2010_84_en.pdf
 [Regulation EU No 1235/2010]: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1235
 [AMXWS]: /procedures/Procedure_GDP_AMXWS_Management_of_Standard_Operating_Procedures.md
