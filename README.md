@@ -61,6 +61,6 @@ Unless otherwise noted, all documents in this QMS apply to The Simple Pharma Com
 [YUISV]: /procedures/Procedure_GDP_YUISV_CAPA.md
 [QEAIC]: /procedures/Document_QEAIC_Glossary.md
 [GGNHM]: /procedures/Procedure_GDP_GGNHM_Reporting_Of_Adverse_Events.md
-[SVWCE]: {% link /documents/Manual_SVWCE_Quality_Manual.md %}
+[SVWCE]: /documents/Manual_SVWCE_Quality_Manual.md
 [PSGBV]: /procedures/Procedure_GDP_PSGBV_Artwork_&_Labelling.md
 [v9C4tiEaG1]: /procedures/Procedure_GDP_v9C4tiEaG1_Transportation.md
