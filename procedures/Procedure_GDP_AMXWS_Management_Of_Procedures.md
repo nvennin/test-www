@@ -153,4 +153,4 @@ The Index of Controlled Documents must be updated to reflect the changed status 
 [YUISV]: /procedures/Procedure_GDP_YUISV_CAPA.md
 [QEAIC]: Document_QEAIC_Glossary.md
 [GGNHM]: /procedures/Procedure_GDP_GGNHM_Reporting_of_Adverse_Events.md
-[AGDXV]: {{ /procedures/Procedure_GDP_AGDXV_Serialisation.md | relative_url }}
+[AGDXV]: Procedure_GDP_AGDXV_Serialisation.md
