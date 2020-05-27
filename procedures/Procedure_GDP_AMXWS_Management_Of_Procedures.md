@@ -149,6 +149,6 @@ The Index of Controlled Documents must be updated to reflect the changed status 
 [VTOMR]: /procedures/Procedure_GDP_VTOMR_Falsified_Medicinal_Products.md
 [BMAXZ]: /procedures/Procedure_GDP_BMAXZ_Medicinal_Product_Returns.md
 [YUISV]: /procedures/Procedure_GDP_YUISV_CAPA.md
-[QEAIC]: /procedures/Document_QEAIC_Glossary.md
+[QEAIC]: procedures/Document_QEAIC_Glossary.md
 [GGNHM]: /procedures/Procedure_GDP_GGNHM_Reporting_of_Adverse_Events.md
 [AGDXV]: /procedures/Procedure_GDP_AGDXV_Serialisation.md
