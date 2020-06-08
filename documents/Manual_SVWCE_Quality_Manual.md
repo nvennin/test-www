@@ -1,7 +1,7 @@
 # QUALITY MANUAL  
   
 ## HEADER
-   
+      
 |Item          |Details                                                                                       | 
 |--------------|-------------------------------------------------------------------------------------------| 
 |Purpose       |Detailing the Quality Management System (QMS) and activities applicable to the company
