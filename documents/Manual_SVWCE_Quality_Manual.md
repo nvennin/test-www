@@ -261,3 +261,5 @@ The complete process is defined in SOP for [In-Market Batch Disposition][VQICE]
 [QEAIC]: /procedures/Document_QEAIC_Glossary.md
 [GGNHM]: /procedures/Procedure_GDP_GGNHM_Reporting_Of_Adverse_Events.md
 [PSGBV]: /procedures/Procedure_GDP_PSGBV_Artwork_&_Labelling.md
+
+_Appending a new line_
