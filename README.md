@@ -34,6 +34,7 @@ Unless otherwise noted, all documents in this QMS apply to The Simple Pharma Com
 
 **Entities**: The Simple Pharma Company Limited and all its affiliates
 
+Change 
 **People**: All directors, employees, and contractors
 
 [GMP Guidelines]: https://ec.europa.eu/health/documents/eudralex/vol-4_en]
