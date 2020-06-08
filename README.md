@@ -1,2 +1,1 @@
-[object Promise]
-_Appending a new line_
+Heh oui
