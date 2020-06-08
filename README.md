@@ -1,1 +1,2 @@
-his my new text
+[object Promise]
+_Appending a new line_
