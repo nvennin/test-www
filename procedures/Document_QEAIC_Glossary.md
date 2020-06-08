@@ -1,7 +1,7 @@
 # GLOSSARY 
 
 ## Abbreviations and Acronyms
-
+   
 Abbreviations and Acronyms     |   Definition    
 ------   |   --------      
 AE  | Adverse Event
